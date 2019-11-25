@@ -1,0 +1,457 @@
+Date: Mon, 25 Nov 2019 16:18:38 +0100 (CET)
+Message-ID: <1543806943.855.1574695118450@confluence-new.iais.fraunhofer.de>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_854_1084314391.1574695118449"
+
+------=_Part_854_1084314391.1574695118449
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Signal Chain Charts Description</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Signal Chain Charts Description</h1>
+    <div class=3D"Section1">
+        <p>Preliminary model of the components and their usage in equipment=
+.</p>
+<p>ATN provided a preliminary model of the Signal Chain Charts and a descri=
+ption of the diagrams and of the data.&nbsp;The preliminary model is provid=
+ed in the "DUMMY" tab where the components are represented in a taxonomy in=
+ which the relationships should be "is_a" or "has_part". The model should b=
+e used to infer the components that could be suggested to a user. A concret=
+e model should be provided with a clear semantics of the elements and their=
+ relationships in form of a tree structure (e.g. XML) or an ontology (e.g. =
+RDF graph). Some references to languages that can be used to represent the =
+components in the Signal Chain Charts are provided below.</p>
+<h1 id=3D"SignalChainChartsDescription-TABSATELLITEBLOCKSDIAGRAM">TAB SATEL=
+LITE BLOCKS DIAGRAM</h1>
+<p>Two typical generic block diagrams has been considered depicting the dif=
+ferent systems within any satellite.</p>
+<p>Each satellite manufacturer could give different names to the &nbsp;syst=
+ems and could make some variations/adaptations to this basic structure.</p>
+<h1 id=3D"SignalChainChartsDescription-TABSIGNALCHAINDIAGRAM">TAB SIGNAL CH=
+AIN DIAGRAM</h1>
+<p>It is shown a typical signal chain functional diagram used in most of th=
+e electronic equipments and the kind of electronic components that could be=
+ included in any of the functional blocks.</p>
+<p>Power, analog, digital and clocking lines, with different colours have b=
+een drawn.</p>
+<p>So far, no Radiofrequency (RF) blocks, components and signals have been =
+included, bus it will be added pretty soon to &nbsp;doEEEt.</p>
+<h1 id=3D"SignalChainChartsDescription-TABdoEEEtTAXONOMYNETWORK">TAB doEEEt=
+ TAXONOMY NETWORK</h1>
+<p>A more detailed signal chain diagram has been depicted, expanding some o=
+f the functions mentioned before and adding the rest of the families includ=
+ed in doEEEt taxonomy.</p>
+<h1 id=3D"SignalChainChartsDescription-TABCURRENTFAMILYTREE">TAB CURRENT FA=
+MILY TREE</h1>
+<p>It is written the current family tree displayed on doEEET. It is more th=
+an likely that some branches could be added per family and for sure that th=
+e family Microcircuits will be reorganized putting additional intelligence =
+on it</p>
+<h1 id=3D"SignalChainChartsDescription-TABDUMY">&nbsp;TAB DUMY</h1>
+<p>As you requested in an urgent way some preliminary example, we have a bl=
+ock diagram of an OBC (ON BOARD COMPUTER) or CDPU (CONTROL AND DATA PROCESS=
+ING UNIT). The different functions, some families and some components inclu=
+ded on it have been exploded below.</p>
+<p><br></p>
+<h1 id=3D"SignalChainChartsDescription-ReferencestoOntologyModels">Referenc=
+es to Ontology Models</h1>
+<p><a href=3D"https://www.eclass.eu" class=3D"external-link" rel=3D"nofollo=
+w">eClass Classification and Product Description</a></p>
+<p><a href=3D"http://dl.acm.org/citation.cfm?id=3D1945423" class=3D"externa=
+l-link" rel=3D"nofollow">Ontology-based device descriptions and device repo=
+sitory for building automation devices</a></p>
+<p><a href=3D"https://www.csee.umbc.edu/courses/771/papers/chandrasekaranet=
+al99.pdf" class=3D"external-link" rel=3D"nofollow">What are ontologies and =
+why do we need them</a></p>
+<p><a href=3D"http://dl.acm.org/citation.cfm?id=3D1945423" class=3D"externa=
+l-link" rel=3D"nofollow">Towards a semantic administrative shell for Indust=
+ry 4.0 Components</a></p>
+<p><a href=3D"https://dl.acm.org/citation.cfm?id=3D1945423" class=3D"extern=
+al-link" rel=3D"nofollow">Ontology-based Device Description and Device Repo=
+sitory for Building Automation Devices</a></p>
+<p><br></p>
+<p> </p>
+<div class=3D"plugin_attachments_container">=20
+<div class=3D"plugin_attachments_table_container">=20
+<fieldset class=3D"hidden">=20
+<input type=3D"hidden" class=3D"plugin_attachments_macro_render_param" name=
+=3D"pageId" value=3D"28185686">=20
+<input type=3D"hidden" name=3D"deleteConfirmMessage" value=3D"Are you sure =
+you want to send the attached file " {0}" to the trash? only a space admini=
+strator can undo this action.">=20
+<input type=3D"hidden" class=3D"plugin_attachments_macro_render_param" name=
+=3D"upload" value=3D"true">=20
+<input type=3D"hidden" name=3D"outputType" value=3D"word">=20
+</fieldset>=20
+<table class=3D"attachments aui">=20
+<thead>=20
+<tr>=20
+<th class=3D"expand-column attachment-summary-toggle">&nbsp;</th>=20
+<th class=3D"filename-column"> <a href=3D"/wiki/display/ALTERTECH/Signal+Ch=
+ain+Charts+Description?sortBy=3Dname&amp;sortOrder=3Dascending">File</a> </=
+th>=20
+<th class=3D"modified-column"> <span class=3D"propersortedby $sortOrder"><a=
+ href=3D"/wiki/display/ALTERTECH/Signal+Chain+Charts+Description?sortBy=3Dd=
+ate&amp;sortOrder=3Ddescending">Modified</a></span> </th>=20
+</tr>=20
+</thead>=20
+<tbody>=20
+<tr id=3D"attachment-28185687" class=3D"attachment-row" data-attachment-id=
+=3D"28185687" data-attachment-idx=3D"1">=20
+<td class=3D"attachment-summary-toggle"> <span class=3D"icon icon-section-c=
+losed" title=3D"Show more info"></span> </td>=20
+<td class=3D"filename-column"> <span class=3D"aui-icon content-type-attachm=
+ent-excel" title=3D"Microsoft Excel Spreadsheet">Microsoft Excel Spreadshee=
+t</span> <a class=3D"filename" href=3D"/wiki/download/attachments/28185686/=
+FRANHOUFER%20WP2.xlsx?api=3Dv2" title=3D"Download" data-filename=3D"FRANHOU=
+FER WP2.xlsx" data-type=3D"application/vnd.openxmlformats-officedocument.sp=
+readsheetml.sheet" data-linked-resource-container-id=3D"28185686"> FRANHOUF=
+ER WP2.xlsx </a> </td>=20
+<td class=3D"attachment-created modified-column"> <span>2017-02-28</span> <=
+span>by</span> <a href=3D"    /wiki/display/~lselmi
+" class=3D"url fn confluence-userlink" data-username=3D"lselmi">Luigi Selmi=
+</a> </td>=20
+</tr>=20
+<tr class=3D"attachment-summary attachment-summary-28185687 hidden" data-at=
+tachment-id=3D"28185687" data-attachment-filename=3D"FRANHOUFER WP2.xlsx">=
+=20
+<td class=3D"attachment-summary-toggle"></td>=20
+<td class=3D"attachment-details-wrapper" colspan=3D"2"> <p class=3D"attachm=
+ent-labels">Labels</p>=20
+<div class=3D"labels-section-content content-column" entityid=3D"28185687" =
+entitytype=3D"attachment">=20
+<div class=3D"labels-content">=20
+<ul class=3D"label-list  has-pen">=20
+<li class=3D"aui-label " data-label-id=3D"46628866"><a class=3D"aui-label-s=
+plit-main" href=3D"/wiki/label/ALTERTECH/signal" rel=3D"tag">signal</a></li=
+>
+<li class=3D"aui-label " data-label-id=3D"46628867"><a class=3D"aui-label-s=
+plit-main" href=3D"/wiki/label/ALTERTECH/chain" rel=3D"tag">chain</a></li>
+<li class=3D"aui-label " data-label-id=3D"46628868"><a class=3D"aui-label-s=
+plit-main" href=3D"/wiki/label/ALTERTECH/chart" rel=3D"tag">chart</a></li>=
+=20
+<li class=3D"labels-edit-container"> <a href=3D"#" class=3D"show-labels-edi=
+tor" title=3D"Edit Labels"> <span class=3D"aui-icon aui-icon-small aui-icon=
+font-devtools-tag-small">Edit Labels</span> </a> </li>=20
+</ul>=20
+</div>=20
+</div>=20
+<div class=3D"attachment-history-wrapper"></div>=20
+<div class=3D"attachment-buttons">=20
+<a class=3D"aui-button previewAttachmentLink" data-filename=3D"FRANHOUFER W=
+P2.xlsx" data-file-src=3D"/wiki/download/attachments/28185686/FRANHOUFER%20=
+WP2.xlsx?api=3Dv2" data-linked-resource-default-alias=3D"FRANHOUFER WP2.xls=
+x" data-mime-type=3D"application/vnd.openxmlformats-officedocument.spreadsh=
+eetml.sheet" data-linked-resource-container-id=3D"28185686" data-linked-res=
+ource-id=3D"28185687">Preview</a>=20
+<a class=3D"aui-button " href=3D"/wiki/pages/worddav/preview.action?fileNam=
+e=3DFRANHOUFER+WP2.xlsx&amp;pageId=3D28185686">View</a>=20
+<a class=3D"aui-button editAttachmentLink" href=3D"/wiki/pages/editattachme=
+nt.action?pageId=3D28185686&amp;fileName=3DFRANHOUFER+WP2.xlsx&amp;isFromPa=
+geView=3Dtrue">Properties</a>=20
+<span true class=3D"companion-edit-button-placeholder attachments-macro" da=
+ta-linked-resource-container-id=3D"28185686" data-linked-resource-id=3D"281=
+85687" data-template-name=3D"companionEditButon"> </span>=20
+<a class=3D"aui-button removeAttachmentLink" href=3D"/wiki/pages/confirmatt=
+achmentremoval.action?pageId=3D28185686&amp;fileName=3DFRANHOUFER+WP2.xlsx"=
+>Delete</a>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</div>=20
+<div class=3D"plugin_attachments_upload_container">=20
+<div class=3D"attachments-table-drop-zone">=20
+<li class=3D"drop-zone-text">=20
+<div class=3D"drop-zone-image"></div> <span>Drag and drop to upload or <a c=
+lass=3D"aui-button aui-button-link browse-files">browse for files</a></span=
+> <img src=3D"e140dbe1465a50eb99987446f6c02257" class=3D"plugin_attachments=
+_dropzone_uploadwaiticon" width=3D"16" height=3D"16"> </li>=20
+<form method=3D"POST" class=3D"plugin_attachments_uploadform aui hidden" ac=
+tion=3D"/wiki/pages/plugins/attachments/doattachfile.action?pageId=3D281856=
+86" enctype=3D"multipart/form-data">=20
+<input type=3D"hidden" name=3D"atl_token" value=3D"c09b428e0d1abb175ba686d3=
+5e087c72e7e3096d">=20
+<div class=3D"field-group">=20
+<label>Upload file</label>=20
+<input type=3D"file" name=3D"file_0" size=3D"30">=20
+</div>=20
+<div class=3D"field-group">=20
+<label>File description</label>=20
+<input type=3D"text" class=3D"blank-search text" name=3D"comment_0" size=3D=
+"20" placeholder=3D"Comment">=20
+<input type=3D"hidden" name=3D"labels" value=3D"$macroParams.labels">=20
+</div>=20
+<div class=3D"field-group">=20
+<input type=3D"submit" class=3D"submit aui-button" name=3D"confirm" value=
+=3D"Upload">=20
+</div>=20
+<iframe class=3D"plugin_attachments_uploadiframe hidden" name=3D"3si3w7dMcV=
+AgpF4DQ2hH4FCXQa4kDPXNvTR6xpNmciwTpOYz4HYHGSlig19iDFIi" src=3D""></iframe>=
+=20
+</form>=20
+</div>=20
+</div>=20
+<div>=20
+</div>=20
+</div>=20
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_854_1084314391.1574695118449
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/e140dbe1465a50eb99987446f6c02257
+
+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
+fySDhGYQdDWGQyUhADs=
+------=_Part_854_1084314391.1574695118449--

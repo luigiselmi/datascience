@@ -1,0 +1,1064 @@
+@prefix : <http://altertechnology-group.com/ont/components/> .
+@prefix atn: <http://altertechnology-group.com/ont/components/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://altertechnology-group.com/ont/components/> .
+
+<http://altertechnology-group.com/ont/components/> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://altertechnology-group.com/ont/components/hasComponent
+atn:hasComponent rdf:type owl:ObjectProperty ;
+                 rdfs:range atn:Component .
+
+
+###  http://altertechnology-group.com/ont/components/isComponentOf
+atn:isComponentOf rdf:type owl:ObjectProperty ;
+                  rdfs:domain atn:Component .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://altertechnology-group.com/ont/components/ASIC
+atn:ASIC rdf:type owl:Class ;
+		 rdfs:label "ASIC"@en ;
+         rdfs:subClassOf atn:Microcircuit .
+
+
+###  http://altertechnology-group.com/ont/components/Accurate
+atn:Accurate rdf:type owl:Class ;
+			 rdfs:label "Accurate"@en ;
+             rdfs:subClassOf atn:WireWound .
+
+
+###  http://altertechnology-group.com/ont/components/AluminiumSolid
+atn:AluminiumSolid rdf:type owl:Class ;
+				   rdfs:label "Aluminium Solid"@en ;
+                   rdfs:subClassOf atn:Capacitor .
+
+
+###  http://altertechnology-group.com/ont/components/Capacitor
+atn:Capacitor rdf:type owl:Class ;
+              rdfs:subClassOf atn:Component ;
+              rdfs:label "Capacitor"@en ,
+                         "Condensatore"@it .
+
+
+###  http://altertechnology-group.com/ont/components/Ceramic
+atn:Ceramic rdf:type owl:Class ;
+			rdfs:label "Ceramic"@en ;
+            rdfs:subClassOf atn:Capacitor .
+
+
+###  http://altertechnology-group.com/ont/components/CeramicChip
+atn:CeramicChip rdf:type owl:Class ;
+				rdfs:label "Ceramic Chip"@en ;
+                rdfs:subClassOf atn:Ceramic .
+
+
+###  http://altertechnology-group.com/ont/components/CeramicLeaded
+atn:CeramicLeaded rdf:type owl:Class ;
+				  rdfs:label "Ceramic Leaded"@en ;
+                  rdfs:subClassOf atn:Ceramic .
+
+
+###  http://altertechnology-group.com/ont/components/ChassisMount
+atn:ChassisMount rdf:type owl:Class ;
+				 rdfs:label "Chassis Mount"@en ;
+                 rdfs:subClassOf atn:WireWound .
+
+
+###  http://altertechnology-group.com/ont/components/Chip
+atn:Chip rdf:type owl:Class ;
+		 rdfs:label "Chip"@en ;
+         rdfs:subClassOf atn:Film .
+
+
+###  http://altertechnology-group.com/ont/components/ClockingSystem
+atn:ClockingSystem rdf:type owl:Class ;
+				   rdfs:label "Clocking System"@en ;
+                   rdfs:subClassOf atn:Module .
+
+
+###  http://altertechnology-group.com/ont/components/Component
+atn:Component rdf:type owl:Class;
+			  rdfs:label "Component"@en .
+
+
+###  http://altertechnology-group.com/ont/components/Connector
+atn:Connector rdf:type owl:Class ;
+			  rdfs:label "Connector"@en ;
+              rdfs:subClassOf atn:Component .
+
+
+###  http://altertechnology-group.com/ont/components/Crystal
+atn:Crystal rdf:type owl:Class ;
+			rdfs:label "Crystal"@en ;
+            rdfs:subClassOf atn:Component .
+
+
+###  http://altertechnology-group.com/ont/components/Digital
+atn:Digital rdf:type owl:Class ;
+			rdfs:label "Digital"@en ;
+            rdfs:subClassOf atn:Microcircuit .
+
+
+###  http://altertechnology-group.com/ont/components/DigitalArchitecture
+atn:DigitalArchitecture rdf:type owl:Class ;
+						rdfs:label "Digital Architecture"@en ;
+                        rdfs:subClassOf atn:Module .
+
+
+###  http://altertechnology-group.com/ont/components/Diode
+atn:Diode rdf:type owl:Class ;
+		  rdfs:label "Diode"@en ;
+          rdfs:subClassOf atn:Discrete .
+
+
+###  http://altertechnology-group.com/ont/components/Discrete
+atn:Discrete rdf:type owl:Class ;
+			 rdfs:label "Discrete"@en ;
+             rdfs:subClassOf atn:Component .
+
+
+###  http://altertechnology-group.com/ont/components/Film
+atn:Film rdf:type owl:Class ;
+		 rdfs:label "Film"@en ;
+         rdfs:subClassOf atn:Resistor .
+
+
+###  http://altertechnology-group.com/ont/components/Filter
+atn:Filter rdf:type owl:Class ;
+		   rdfs:label "Filter"@en ;
+           rdfs:subClassOf atn:Component .
+
+
+###  http://altertechnology-group.com/ont/components/Fuse
+atn:Fuse rdf:type owl:Class ;
+		 rdfs:label "Fuse"@en ;
+         rdfs:subClassOf atn:Component .
+
+
+###  http://altertechnology-group.com/ont/components/Glass
+atn:Glass rdf:type owl:Class ;
+		  rdfs:label "Glass"@en ;
+          rdfs:subClassOf atn:Capacitor .
+
+
+###  http://altertechnology-group.com/ont/components/Heater
+atn:Heater rdf:type owl:Class ;
+		   rdfs:label "Heater"@en ;
+           rdfs:subClassOf atn:Component .
+
+
+###  http://altertechnology-group.com/ont/components/ImageSensor
+atn:ImageSensor rdf:type owl:Class ;
+				rdfs:label "Image Sensor"@en ;
+                rdfs:subClassOf atn:Microcircuit .
+
+
+###  http://altertechnology-group.com/ont/components/Inductor
+atn:Inductor rdf:type owl:Class ;
+             rdfs:subClassOf atn:Component ;
+             rdfs:label "Inductor"@en .
+
+
+###  http://altertechnology-group.com/ont/components/Jumper
+atn:Jumper rdf:type owl:Class ;
+		   rdfs:label "Jumper"@en ;
+           rdfs:subClassOf atn:Resistor .
+
+
+###  http://altertechnology-group.com/ont/components/Linear
+atn:Linear rdf:type owl:Class ;
+		   rdfs:label "Linear"@en ;
+           rdfs:subClassOf atn:Microcircuit .
+
+
+###  http://altertechnology-group.com/ont/components/Logic
+atn:Logic rdf:type owl:Class ;
+		  rdfs:label "Logic"@en ;
+          rdfs:subClassOf atn:Microcircuit .
+
+
+###  http://altertechnology-group.com/ont/components/Memory
+atn:Memory rdf:type owl:Class ;
+		   rdfs:label "Memory"@en ;
+           rdfs:subClassOf atn:Microcircuit .
+
+
+###  http://altertechnology-group.com/ont/components/Metal
+atn:Metal rdf:type owl:Class ;
+		  rdfs:label "Metal"@en ;
+          rdfs:subClassOf atn:Resistor .
+
+
+###  http://altertechnology-group.com/ont/components/Mica
+atn:Mica rdf:type owl:Class ;
+		 rdfs:label "Mica"@en ;
+         rdfs:subClassOf atn:Capacitor .
+
+
+###  http://altertechnology-group.com/ont/components/Microcircuit
+atn:Microcircuit rdf:type owl:Class ;
+                 rdfs:subClassOf atn:Component ;
+                 rdfs:label "Microcircuit"@en .
+
+
+###  http://altertechnology-group.com/ont/components/Module
+atn:Module rdf:type owl:Class;
+		   rdfs:label "Module"@en .
+
+
+###  http://altertechnology-group.com/ont/components/Network
+atn:Network rdf:type owl:Class ;
+			rdfs:label "Network"@en ;
+            rdfs:subClassOf atn:Resistor .
+
+
+###  http://altertechnology-group.com/ont/components/OBC
+atn:OBC rdf:type owl:Class ;
+        rdfs:subClassOf atn:Module ;
+        rdfs:label "On Board Computer"@en .
+
+
+###  http://altertechnology-group.com/ont/components/OpticallyCoupledIsolator
+atn:OpticallyCoupledIsolator rdf:type owl:Class ;
+							 rdfs:label "Optically Coupled Isolator"@en ;
+                             rdfs:subClassOf atn:Discrete .
+
+
+###  http://altertechnology-group.com/ont/components/Optocoupler
+atn:Optocoupler rdf:type owl:Class ;
+				rdfs:label "Optocoupler"@en ;
+                rdfs:subClassOf atn:Microcircuit .
+
+
+###  http://altertechnology-group.com/ont/components/PlasticMetallized
+atn:PlasticMetallized rdf:type owl:Class ;
+					  rdfs:label "Plastic Metallized"@en ;		
+                      rdfs:subClassOf atn:Capacitor .
+
+
+###  http://altertechnology-group.com/ont/components/Power
+atn:Power rdf:type owl:Class ;
+		  rdfs:label "Power"@en ;
+          rdfs:subClassOf atn:WireWound .
+
+
+###  http://altertechnology-group.com/ont/components/Precision
+atn:Precision rdf:type owl:Class ;
+			  rdfs:label "Precision"@en ;
+              rdfs:subClassOf atn:Film .
+
+
+###  http://altertechnology-group.com/ont/components/Processor
+atn:Processor rdf:type owl:Class ;
+			  rdfs:label "Processor"@en ;
+              rdfs:subClassOf atn:Microcircuit .
+
+
+###  http://altertechnology-group.com/ont/components/ProgrammableLogic
+atn:ProgrammableLogic rdf:type owl:Class ;
+					  rdfs:label "Programmable Logic"@en ;
+                      rdfs:subClassOf atn:Microcircuit .
+
+
+###  http://altertechnology-group.com/ont/components/Relay
+atn:Relay rdf:type owl:Class ;
+		  rdfs:label "Relay"@en ;
+          rdfs:subClassOf atn:Component .
+
+
+###  http://altertechnology-group.com/ont/components/Resistor
+atn:Resistor rdf:type owl:Class ;
+             rdfs:subClassOf atn:Component ;
+             rdfs:label "Resistenza"@it ,
+                        "Resistor"@en .
+
+
+###  http://altertechnology-group.com/ont/components/SCR
+atn:SCR rdf:type owl:Class ;
+		rdfs:label "SCR"@en ;
+        rdfs:subClassOf atn:Discrete .
+
+
+###  http://altertechnology-group.com/ont/components/SemiPrecision
+atn:SemiPrecision rdf:type owl:Class ;
+				  rdfs:label "Semi Precision"@en ;
+                  rdfs:subClassOf atn:Film .
+
+
+###  http://altertechnology-group.com/ont/components/Switch
+atn:Switch rdf:type owl:Class ;
+		   rdfs:label "Switch"@en ;
+           rdfs:subClassOf atn:Component .
+
+
+###  http://altertechnology-group.com/ont/components/TantalumNonSolid
+atn:TantalumNonSolid rdf:type owl:Class ;
+					 rdfs:label "Tantalum Non Solid"@en ;
+                     rdfs:subClassOf atn:Capacitor .
+
+
+###  http://altertechnology-group.com/ont/components/TantalumSolid
+atn:TantalumSolid rdf:type owl:Class ;
+				  rdfs:label "Tantalum Solid"@en ;
+                  rdfs:subClassOf atn:Capacitor .
+
+
+###  http://altertechnology-group.com/ont/components/Thermistor
+atn:Thermistor rdf:type owl:Class ;
+			   rdfs:label "Thermistor"@en ;	
+               rdfs:subClassOf atn:Component .
+
+
+###  http://altertechnology-group.com/ont/components/Transformer
+atn:Transformer rdf:type owl:Class ;
+				rdfs:label "Transformer"@en ;
+                rdfs:subClassOf atn:Component .
+
+
+###  http://altertechnology-group.com/ont/components/Transistor
+atn:Transistor rdf:type owl:Class ;
+			   rdfs:label "Transistor"@en ;
+               rdfs:subClassOf atn:Discrete .
+
+
+###  http://altertechnology-group.com/ont/components/VariablePotentiometer
+atn:VariablePotentiometer rdf:type owl:Class ;
+						  rdfs:label "Variable Potentiometer"@en ;
+                          rdfs:subClassOf atn:Resistor .
+
+
+###  http://altertechnology-group.com/ont/components/WireCable
+atn:WireCable rdf:type owl:Class ;
+			  rdfs:label "Wire Cable"@en ;
+              rdfs:subClassOf atn:Component .
+
+
+###  http://altertechnology-group.com/ont/components/WireWound
+atn:WireWound rdf:type owl:Class ;
+			  rdfs:label "Wire Wound"@en ;
+              rdfs:subClassOf atn:Resistor .
+
+
+###  http://altertechnology-group.com/ont/components/PowerManagement&Conditioning
+atn:Conditioning rdf:type owl:Class ;
+				 rdfs:label "Conditioning"@en ;
+                 rdfs:subClassOf atn:Module .
+
+###  http://altertechnology-group.com/ont/components/ICC
+atn:ICC rdf:type owl:Class ;
+             rdfs:subClassOf atn:Component ;
+             rdfs:label "Inductors, Coils and Chokes"@en .
+
+###  http://altertechnology-group.com/ont/components/Fixed
+atn:Fixed rdf:type owl:Class ;
+		  rdfs:label "Fixed"@en ;
+          rdfs:subClassOf atn:ICC .
+
+###  http://altertechnology-group.com/ont/components/FixedChip
+atn:FixedChip rdf:type owl:Class ;
+			  rdfs:label "Chip"@en ;
+			  rdfs:subClassOf atn:Fixed .
+
+###  http://altertechnology-group.com/ont/components/FixedLeaded
+atn:FixedLeaded rdf:type owl:Class ;
+			  rdfs:label "Leaded"@en ;
+			  rdfs:subClassOf atn:Fixed .			  
+
+###  http://altertechnology-group.com/ont/components/Variable
+atn:Variable rdf:type owl:Class ;
+			 rdfs:label "Variable"@en ;
+			 rdfs:subClassOf atn:ICC .
+
+###  http://altertechnology-group.com/ont/components/VariableChip
+atn:VariableChip rdf:type owl:Class ;
+			  rdfs:label "Chip"@en ;
+			  rdfs:subClassOf atn:Variable .
+
+###  http://altertechnology-group.com/ont/components/VariableLeaded
+atn:VariableLeaded rdf:type owl:Class ;
+			  rdfs:label "Leaded"@en ;
+			  rdfs:subClassOf atn:Variable .
+
+###  http://altertechnology-group.com/ont/components/DelayLine
+atn:DelayLine rdf:type owl:Class ;
+		  rdfs:label "Delay Line"@en ;
+          rdfs:subClassOf atn:ICC .
+
+###  http://altertechnology-group.com/ont/components/Ferrites
+atn:Ferrites rdf:type owl:Class ;
+		  rdfs:label "Ferrites"@en ;
+          rdfs:subClassOf atn:ICC .
+
+###  http://altertechnology-group.com/ont/components/Toroidal
+atn:Toroidal rdf:type owl:Class ;
+		  rdfs:label "Toroidal"@en ;
+          rdfs:subClassOf atn:ICC .
+
+###  http://altertechnology-group.com/ont/components/MIL-38999
+atn:MIL-38999 rdf:type owl:Class ;
+		  rdfs:label "Circular Bayonet Coupling (MIL-38999)"@en ;
+          rdfs:subClassOf atn:Connector .
+		  
+###  http://altertechnology-group.com/ont/components/Contacts
+atn:Contacts rdf:type owl:Class ;
+			 rdfs:label "Contacts"@en ;
+			 rdfs:subClassOf atn:MIL-38999 .
+			 
+###  http://altertechnology-group.com/ont/components/Series-I-II-III
+atn:Series-I-II-III rdf:type owl:Class ;
+			 rdfs:label "Series I, II & III"@en ;
+			 rdfs:subClassOf atn:MIL-38999 . 
+			 
+###  http://altertechnology-group.com/ont/components/CircularPushPull
+atn:CircularPushPull rdf:type owl:Class ;
+		  rdfs:label "Circular Push Pull"@en ;
+          rdfs:subClassOf atn:Connector .
+
+###  http://altertechnology-group.com/ont/components/CircularPushPull-Contacts
+atn:CircularPushPull-Contacts rdf:type owl:Class ;
+			 rdfs:label "Contacts"@en ;
+			 rdfs:subClassOf atn:CircularPushPull .
+
+###  http://altertechnology-group.com/ont/components/Push-Pull-Coupling
+atn:Push-Pull-Coupling rdf:type owl:Class ;
+			 rdfs:label "Push-Pull Coupling"@en ;
+			 rdfs:subClassOf atn:CircularPushPull .
+
+###  http://altertechnology-group.com/ont/components/Other
+atn:Other rdf:type owl:Class ;
+		  rdfs:label "Other"@en ;
+          rdfs:subClassOf atn:Connector .
+
+###  http://altertechnology-group.com/ont/components/PrintedCircuitBoard
+atn:PrintedCircuitBoard rdf:type owl:Class ;
+		  rdfs:label "Printed Circuit Board"@en ;
+          rdfs:subClassOf atn:Connector .
+
+###  http://altertechnology-group.com/ont/components/PrintedCircuitBoard-Contacts
+atn:PrintedCircuitBoard-Contacts rdf:type owl:Class ;
+		  rdfs:label "Contacts"@en ;
+          rdfs:subClassOf atn:PrintedCircuitBoard .		  
+		  
+###  http://altertechnology-group.com/ont/components/HDC
+atn:HDC rdf:type owl:Class ;
+		rdfs:label "High density connectors"@en ;
+        rdfs:subClassOf atn:PrintedCircuitBoard .		  		  
+		 
+###  http://altertechnology-group.com/ont/components/RJSC
+atn:RJSC rdf:type owl:Class ;
+		  rdfs:label "Rectangular Jack screw coupling"@en ;
+          rdfs:subClassOf atn:Connector .		 
+		  
+###  http://altertechnology-group.com/ont/components/RJSC-Contacts
+atn:RJSC-Contacts rdf:type owl:Class ;
+		  rdfs:label "Contacts"@en ;
+          rdfs:subClassOf atn:RJSC .		 		  
+		  
+###  http://altertechnology-group.com/ont/components/RJSC-JSCC
+atn:RJSC-JSCC rdf:type owl:Class ;
+		  rdfs:label "Jack screw coupling connectors"@en ;
+          rdfs:subClassOf atn:RJSC .		 		  		  
+		  
+###  http://altertechnology-group.com/ont/components/RM-SIL
+atn:RM-SIL rdf:type owl:Class ;
+		  rdfs:label "Rectangular Microminiature & SIL"@en ;
+          rdfs:subClassOf atn:Connector .
+		  
+###  http://altertechnology-group.com/ont/components/RM-SIL-Contacts
+atn:RM-SIL-Contacts rdf:type owl:Class ;
+		  rdfs:label "Contacts"@en ;
+          rdfs:subClassOf atn:RM-SIL .
+		  
+###  http://altertechnology-group.com/ont/components/MDM-Accesories
+atn:MDM-Accesories rdf:type owl:Class ;
+		  rdfs:label "MDM Accesories"@en ;
+          rdfs:subClassOf atn:RM-SIL .
+		  
+###  http://altertechnology-group.com/ont/components/MDM-Savers
+atn:MDM-Savers rdf:type owl:Class ;
+		  rdfs:label "MDM Savers"@en ;
+          rdfs:subClassOf atn:RM-SIL .
+		  
+###  http://altertechnology-group.com/ont/components/MDM-Style
+atn:MDM-Style rdf:type owl:Class ;
+		  rdfs:label "MDM Style"@en ;
+          rdfs:subClassOf atn:RM-SIL .
+		  
+###  http://altertechnology-group.com/ont/components/MTB-Style
+atn:MTB-Style rdf:type owl:Class ;
+		  rdfs:label "MTB Style"@en ;
+          rdfs:subClassOf atn:RM-SIL .		  
+		  
+###  http://altertechnology-group.com/ont/components/R-Sub-D-Type
+atn:R-Sub-D-Type rdf:type owl:Class ;
+		  rdfs:label "Rectangular Sub-D type"@en ;
+          rdfs:subClassOf atn:Connector .		  
+
+###  http://altertechnology-group.com/ont/components/Accesories
+atn:Accesories rdf:type owl:Class ;
+		  rdfs:label "Accesories"@en ;
+          rdfs:subClassOf atn:R-Sub-D-Type .		  
+		  
+###  http://altertechnology-group.com/ont/components/R-Sub-D-Type-Contacts
+atn:R-Sub-D-Type-Contacts rdf:type owl:Class ;
+		  rdfs:label "Contacts"@en ;
+          rdfs:subClassOf atn:R-Sub-D-Type .
+
+###  http://altertechnology-group.com/ont/components/DM-DMA-Type
+atn:DM-DMA-Type rdf:type owl:Class ;
+		  rdfs:label "D*M & D*MA Type"@en ;
+          rdfs:subClassOf atn:R-Sub-D-Type .		  
+		  
+###  http://altertechnology-group.com/ont/components/Savers
+atn:Savers rdf:type owl:Class ;
+		  rdfs:label "Savers"@en ;
+          rdfs:subClassOf atn:R-Sub-D-Type .		  
+		  
+###  http://altertechnology-group.com/ont/components/RF-Coaxial
+atn:RF-Coaxial rdf:type owl:Class ;
+		  rdfs:label "RF Coaxial"@en ;
+          rdfs:subClassOf atn:Connector .		  
+		  
+###  http://altertechnology-group.com/ont/components/RF-Coaxial-Accesories
+atn:RF-Coaxial-Accesories rdf:type owl:Class ;
+		  rdfs:label "Accesories"@en ;
+          rdfs:subClassOf atn:RF-Coaxial .		  		  
+		  
+###  http://altertechnology-group.com/ont/components/SMA-TNC-Style
+atn:SMA-TNC-Style rdf:type owl:Class ;
+		  rdfs:label "SMA & TNC Style"@en ;
+          rdfs:subClassOf atn:RF-Coaxial .
+
+###  http://altertechnology-group.com/ont/components/Twinax-Triax
+atn:Twinax-Triax rdf:type owl:Class ;
+		  rdfs:label "Twinax and Triax"@en ;
+          rdfs:subClassOf atn:RF-Coaxial .		  
+		  
+###  http://altertechnology-group.com/ont/components/Cartridge-Instrument
+atn:Cartridge-Instrument rdf:type owl:Class ;
+		  rdfs:label "Cartridge Instrument"@en ;
+          rdfs:subClassOf atn:Fuse .		  		  
+		  
+###  http://altertechnology-group.com/ont/components/Cartridge-High-Interrupt-Capacity
+atn:Cartridge-High-Interrupt-Capacity rdf:type owl:Class ;
+		  rdfs:label "Cartridge, High-Interrupt Capacity"@en ;
+          rdfs:subClassOf atn:Fuse .
+
+###  http://altertechnology-group.com/ont/components/Holder-Extractor-Post
+atn:Holder-Extractor-Post rdf:type owl:Class ;
+		  rdfs:label "Holder, Extractor Post"@en ;
+          rdfs:subClassOf atn:Fuse .
+
+###  http://altertechnology-group.com/ont/components/Instrument
+atn:Instrument rdf:type owl:Class ;
+		  rdfs:label "Instrument"@en ;
+          rdfs:subClassOf atn:Fuse .		  
+		  
+###  http://altertechnology-group.com/ont/components/Rotary
+atn:Rotary rdf:type owl:Class ;
+		  rdfs:label "Rotary"@en ;
+          rdfs:subClassOf atn:Switch .
+
+###  http://altertechnology-group.com/ont/components/Thermostatic
+atn:Thermostatic rdf:type owl:Class ;
+		  rdfs:label "Thermostatic"@en ;
+          rdfs:subClassOf atn:Switch .		  
+		  
+###  http://altertechnology-group.com/ont/components/Toogle
+atn:Toogle rdf:type owl:Class ;
+		  rdfs:label "Toogle"@en ;
+          rdfs:subClassOf atn:Switch .		  
+
+###  http://altertechnology-group.com/ont/components/Crystal-Oscillator
+atn:Crystal-Oscillator rdf:type owl:Class ;
+		  rdfs:label "Crystal oscillator"@en ;
+          rdfs:subClassOf atn:Crystal .
+		  
+###  http://altertechnology-group.com/ont/components/Quartz-Crystal-Unit
+atn:Quartz-Crystal-Unit rdf:type owl:Class ;
+		  rdfs:label "Quartz crystal unit"@en ;
+          rdfs:subClassOf atn:Crystal .
+		  		
+###  http://altertechnology-group.com/ont/components/Pulse
+atn:Pulse rdf:type owl:Class ;
+		  rdfs:label "Pulse"@en ;
+          rdfs:subClassOf atn:Transformer .
+	  
+###  http://altertechnology-group.com/ont/components/Transformer-Power
+atn:Transformer-Power rdf:type owl:Class ;
+		  rdfs:label "Power"@en ;
+          rdfs:subClassOf atn:Transformer .
+
+###  http://altertechnology-group.com/ont/components/Feedthrough
+atn:Feedthrough rdf:type owl:Class ;
+		  rdfs:label "Feedthrough"@en ;
+          rdfs:subClassOf atn:Filter .
+		  
+###  http://altertechnology-group.com/ont/components/EMI-Filters
+atn:EMI-Filters rdf:type owl:Class ;
+		  rdfs:label "EMI filters"@en ;
+          rdfs:subClassOf atn:Filter .
+
+###  http://altertechnology-group.com/ont/components/HFS-Style
+atn:HFS-Style rdf:type owl:Class ;
+		  rdfs:label "High Frequency Solder in style"@en ;
+          rdfs:subClassOf atn:Filter .		  
+		  
+###  http://altertechnology-group.com/ont/components/Flexible
+atn:Flexible rdf:type owl:Class ;
+		  rdfs:label "Flexible"@en ;
+          rdfs:subClassOf atn:Heater .
+
+###  http://altertechnology-group.com/ont/components/Electromagnetic
+atn:Electromagnetic rdf:type owl:Class ;
+		  rdfs:label "Electromagnetic"@en ;
+          rdfs:subClassOf atn:Relay .
+
+###  http://altertechnology-group.com/ont/components/Latching
+atn:Latching rdf:type owl:Class ;
+		  rdfs:label "Latching"@en ;
+          rdfs:subClassOf atn:Electromagnetic .	
+
+###  http://altertechnology-group.com/ont/components/Non-Latching
+atn:Non-Latching rdf:type owl:Class ;
+		  rdfs:label "Non-Latching"@en ;
+          rdfs:subClassOf atn:Electromagnetic .			  
+		  
+###  http://altertechnology-group.com/ont/components/Hybrid
+atn:Hybrid rdf:type owl:Class ;
+		  rdfs:label "Hybrid"@en ;
+          rdfs:subClassOf atn:Relay .
+		  
+###  http://altertechnology-group.com/ont/components/Solid-State
+atn:Solid-State rdf:type owl:Class ;
+		  rdfs:label "Solid State"@en ;
+          rdfs:subClassOf atn:Relay .		  
+		 
+###  http://altertechnology-group.com/ont/components/Time-Delay
+atn:Time-Delay rdf:type owl:Class ;
+		  rdfs:label "Time Delay"@en ;
+          rdfs:subClassOf atn:Relay .		 
+
+###  http://altertechnology-group.com/ont/components/NTC
+atn:NTC rdf:type owl:Class ;
+		  rdfs:label "NTC"@en ;
+          rdfs:subClassOf atn:Thermistor .		  
+		  	  
+###  http://altertechnology-group.com/ont/components/NTC-Chip
+atn:NTC-Chip rdf:type owl:Class ;
+		  rdfs:label "Chip"@en ;
+          rdfs:subClassOf atn:NTC .		  			  
+			  
+###  http://altertechnology-group.com/ont/components/NTC-Leaded
+atn:NTC-Leaded rdf:type owl:Class ;
+		  rdfs:label "Leaded"@en ;
+          rdfs:subClassOf atn:NTC .		  
+
+###  http://altertechnology-group.com/ont/components/PTC
+atn:PTC rdf:type owl:Class ;
+		  rdfs:label "PTC"@en ;
+          rdfs:subClassOf atn:Thermistor .		  
+		  
+###  http://altertechnology-group.com/ont/components/NTC-Chip
+atn:PTC-Chip rdf:type owl:Class ;
+		  rdfs:label "Chip"@en ;
+          rdfs:subClassOf atn:PTC .		  			  
+			  
+###  http://altertechnology-group.com/ont/components/NTC-Leaded
+atn:PTC-Leaded rdf:type owl:Class ;
+		  rdfs:label "Leaded"@en ;
+          rdfs:subClassOf atn:PTC .
+			  
+###  http://altertechnology-group.com/ont/components/LowFrequency 
+atn:LowFrequency rdf:type owl:Class ;
+		  rdfs:label "Low frequency"@en ;
+          rdfs:subClassOf atn:WireCable .			  
+			  
+###  http://altertechnology-group.com/ont/components/WireCable-RF-Coaxial 
+atn:WireCable-RF-Coaxial rdf:type owl:Class ;
+		  rdfs:label "R.F. Coaxial"@en ;
+          rdfs:subClassOf atn:WireCable .
+
+###  http://altertechnology-group.com/ont/components/SWWW 
+atn:SWWW rdf:type owl:Class ;
+		  rdfs:label "Solid wire for wire wrapping"@en ;
+          rdfs:subClassOf atn:WireCable .		  
+
+###  http://altertechnology-group.com/ont/components/Current-Regulator-Diodes 
+atn:Current-Regulator-Diodes rdf:type owl:Class ;
+		  rdfs:label "Current Regulator Diodes"@en ;
+          rdfs:subClassOf atn:Diode .		  		  
+		  		  
+###  http://altertechnology-group.com/ont/components/Fast-Recovery-Rectifier 
+atn:Fast-Recovery-Rectifier rdf:type owl:Class ;
+		  rdfs:label "Fast Recovery Rectifier"@en ;
+          rdfs:subClassOf atn:Diode .		  		  
+
+###  http://altertechnology-group.com/ont/components/Full-Wave-Bridge-Rectifiers 
+atn:Full-Wave-Bridge-Rectifiers rdf:type owl:Class ;
+		  rdfs:label "Full Wave Bridge Rectifiers"@en ;
+          rdfs:subClassOf atn:Diode .		  		  	  
+
+###  http://altertechnology-group.com/ont/components/High-Voltage-Diodes
+atn:High-Voltage-Diodes rdf:type owl:Class ;
+		  rdfs:label "High Voltage Diodes"@en ;
+          rdfs:subClassOf atn:Diode .		  		  	    
+
+###  http://altertechnology-group.com/ont/components/LED
+atn:LED rdf:type owl:Class ;
+		  rdfs:label "LED (Light Emitting Diodes)"@en ;
+          rdfs:subClassOf atn:Diode .		  		  	    
+
+###  http://altertechnology-group.com/ont/components/Microwave
+atn:Microwave rdf:type owl:Class ;
+		  rdfs:label "Microwave"@en ;
+          rdfs:subClassOf atn:Diode .		  		  	    	  
+
+###  http://altertechnology-group.com/ont/components/Multiple-Diode-Arrays
+atn:Multiple-Diode-Arrays rdf:type owl:Class ;
+		  rdfs:label "Multiple Diode Arrays"@en ;
+          rdfs:subClassOf atn:Diode .		  		  	    	  
+
+###  http://altertechnology-group.com/ont/components/Power-Rectifiers
+atn:Power-Rectifiers rdf:type owl:Class ;
+		  rdfs:label "Power Rectifiers"@en ;
+          rdfs:subClassOf atn:Diode .		  		  	    	  
+
+###  http://altertechnology-group.com/ont/components/Schottky-Barrier-Rectifiers
+atn:Schottky-Barrier-Rectifiers rdf:type owl:Class ;
+		  rdfs:label "Schottky Barrier Rectifiers"@en ;
+          rdfs:subClassOf atn:Diode .		  		  	    	  
+
+###  http://altertechnology-group.com/ont/components/Standard-Recovery
+atn:Standard-Recovery rdf:type owl:Class ;
+		  rdfs:label "Standard Recovery"@en ;
+          rdfs:subClassOf atn:Diode .		  		  	    	  
+
+###  http://altertechnology-group.com/ont/components/Switching-Diodes
+atn:Switching-Diodes rdf:type owl:Class ;
+		  rdfs:label "Switching Diodes"@en ;
+          rdfs:subClassOf atn:Diode .		  		  	    	  
+
+###  http://altertechnology-group.com/ont/components/Transient-Suppressor-Diodes
+atn:Transient-Suppressor-Diodes rdf:type owl:Class ;
+		  rdfs:label "Transient Suppressor Diodes"@en ;
+          rdfs:subClassOf atn:Diode .		  		  	    	  	  
+
+###  http://altertechnology-group.com/ont/components/Voltage-Variable-Capacitance-Diodes
+atn:Voltage-Variable-Capacitance-Diodes rdf:type owl:Class ;
+		  rdfs:label "Voltage-Variable-Capacitance Diodes"@en ;
+          rdfs:subClassOf atn:Diode .		  		  	    	  	  
+
+###  http://altertechnology-group.com/ont/components/Zener-Diodes
+atn:Zener-Diodes rdf:type owl:Class ;
+		  rdfs:label "Zener Diodes"@en ;
+          rdfs:subClassOf atn:Diode .		  		  	    	  	  
+		  
+###  http://altertechnology-group.com/ont/components/Bipolar
+atn:Bipolar rdf:type owl:Class ;
+		  rdfs:label "Bipolar"@en ;
+          rdfs:subClassOf atn:Transistor .		  		  	    	  	  		  
+		  
+###  http://altertechnology-group.com/ont/components/Dual-Complementary-Transistors
+atn:Dual-Complementary-Transistors rdf:type owl:Class ;
+		  rdfs:label "Dual Complementary Transistors"@en ;
+          rdfs:subClassOf atn:Transistor .		  		  	    	  	  		  
+
+###  http://altertechnology-group.com/ont/components/Germanio
+atn:Germanio rdf:type owl:Class ;
+		  rdfs:label "Germanio"@en ;
+          rdfs:subClassOf atn:Transistor .		  		  	    	  	  		  		  
+
+###  http://altertechnology-group.com/ont/components/HEMT
+atn:HEMT rdf:type owl:Class ;
+		  rdfs:label "HEMT"@en ;
+          rdfs:subClassOf atn:Transistor .		  		 	    	  	  		  		  
+		  
+###  http://altertechnology-group.com/ont/components/JFET
+atn:JFET rdf:type owl:Class ;
+		  rdfs:label "JFET"@en ;
+          rdfs:subClassOf atn:Transistor .		  		 	    	  	  		  		  
+		  
+###  http://altertechnology-group.com/ont/components/MOSFET-N-CHANNEL
+atn:MOSFET-N-CHANNEL rdf:type owl:Class ;
+		  rdfs:label "MOSFET N-CHANNEL"@en ;
+          rdfs:subClassOf atn:Transistor .		  		 	    	  	  		  		  
+		  
+###  http://altertechnology-group.com/ont/components/MOSFET-P-CHANNEL
+atn:MOSFET-P-CHANNEL rdf:type owl:Class ;
+		  rdfs:label "MOSFET P-CHANNEL"@en ;
+          rdfs:subClassOf atn:Transistor .		  		 	    	  	  		  		  
+
+###  http://altertechnology-group.com/ont/components/MOSFET-QUAD
+atn:MOSFET-QUAD rdf:type owl:Class ;
+		  rdfs:label "MOSFET QUAD"@en ;
+          rdfs:subClassOf atn:Transistor .		  		 	    	  	  		  		  		  
+
+###  http://altertechnology-group.com/ont/components/RF-Transistor
+atn:RF-Transistor rdf:type owl:Class ;
+		  rdfs:label "RF Transistor"@en ;
+          rdfs:subClassOf atn:Transistor .		  		 	    	  	  		  		  		  	  
+
+###  http://altertechnology-group.com/ont/components/Unijunction
+atn:Unijunction rdf:type owl:Class ;
+		  rdfs:label "Unijunction"@en ;
+          rdfs:subClassOf atn:Transistor .		  		 	    	  	  		  		  		  	  
+
+###  http://altertechnology-group.com/ont/components/Phototransistor
+atn:Phototransistor rdf:type owl:Class ;
+		  rdfs:label "Phototransistor"@en ;
+          rdfs:subClassOf atn:Transistor .		
+
+###  http://altertechnology-group.com/ont/components/Multiplexer-Demultiplexer
+atn:Multiplexer-Demultiplexer rdf:type owl:Class ;
+		  rdfs:label "Multiplexer & Demultiplexer"@en ;
+          rdfs:subClassOf atn:Digital .				  		  
+		  
+###  http://altertechnology-group.com/ont/components/Peripheral-Controller
+atn:Peripheral-Controller rdf:type owl:Class ;
+		  rdfs:label "Peripheral Controller"@en ;
+          rdfs:subClassOf atn:Digital .				
+
+###  http://altertechnology-group.com/ont/components/Receiver-Transceiver
+atn:Receiver-Transceiver rdf:type owl:Class ;
+		  rdfs:label "Receiver & Transceiver"@en ;
+          rdfs:subClassOf atn:Digital .						  
+
+###  http://altertechnology-group.com/ont/components/Amplifier
+atn:Amplifier rdf:type owl:Class ;
+		  rdfs:label "Amplifier"@en ;
+          rdfs:subClassOf atn:Linear .						  		  
+		  
+###  http://altertechnology-group.com/ont/components/FET
+atn:FET rdf:type owl:Class ;
+		  rdfs:label "FET"@en ;
+          rdfs:subClassOf atn:Amplifier .				
+		  
+###  http://altertechnology-group.com/ont/components/Instrumentation
+atn:Instrumentation rdf:type owl:Class ;
+		  rdfs:label "Instrumentation"@en ;
+          rdfs:subClassOf atn:Amplifier .						  
+		  
+###  http://altertechnology-group.com/ont/components/Operational-Amplifiers
+atn:Operational-Amplifiers rdf:type owl:Class ;
+		  rdfs:label "Operational Amplifiers"@en ;
+          rdfs:subClassOf atn:Amplifier .						  
+		  
+###  http://altertechnology-group.com/ont/components/Sample-Hold
+atn:Sample-Hold rdf:type owl:Class ;
+		  rdfs:label "Sample and Hold"@en ;
+          rdfs:subClassOf atn:Amplifier .						
+
+###  http://altertechnology-group.com/ont/components/Video-Wideband
+atn:Video-Wideband rdf:type owl:Class ;
+		  rdfs:label "Video and Wideband"@en ;
+          rdfs:subClassOf atn:Amplifier .						  		    		  
+		  
+###  http://altertechnology-group.com/ont/components/Analog-Switch
+atn:Analog-Switch rdf:type owl:Class ;
+		  rdfs:label "Analog Switch"@en ;
+          rdfs:subClassOf atn:Linear .						  		    		  		  
+		  
+###  http://altertechnology-group.com/ont/components/Controller
+atn:Controller rdf:type owl:Class ;
+		  rdfs:label "Controller"@en ;
+          rdfs:subClassOf atn:Linear .						  		    		  		  		  
+		  
+###  http://altertechnology-group.com/ont/components/Converter
+atn:Converter rdf:type owl:Class ;
+		  rdfs:label "Converter"@en ;
+          rdfs:subClassOf atn:Linear .						  		    		  		  		  		  
+		  
+###  http://altertechnology-group.com/ont/components/Analog-To-Digital
+atn:Analog-To-Digital rdf:type owl:Class ;
+		  rdfs:label "Analog to Digital"@en ;
+          rdfs:subClassOf atn:Converter .						  		    		  		  		  		  		  
+
+###  http://altertechnology-group.com/ont/components/DC-To-DC
+atn:DC-To-DC rdf:type owl:Class ;
+		  rdfs:label "DC to DC"@en ;
+          rdfs:subClassOf atn:Converter .						  		    		  		  		  		  		  
+		  
+###  http://altertechnology-group.com/ont/components/Synchro-Resolver-To-Digital
+atn:Synchro-Resolver-To-Digital rdf:type owl:Class ;
+		  rdfs:label "Synchro-Resolver to Digital"@en ;
+          rdfs:subClassOf atn:Converter .						  		    		  		  		  		  		  
+		  
+###  http://altertechnology-group.com/ont/components/Data-Acquisition-System
+atn:Data-Acquisition-System rdf:type owl:Class ;
+		  rdfs:label "Data Acquisition System"@en ;
+          rdfs:subClassOf atn:Linear .						  		    		  		  		  		  		  		  
+		  
+###  http://altertechnology-group.com/ont/components/Driver
+atn:Driver rdf:type owl:Class ;
+		  rdfs:label "Driver"@en ;
+          rdfs:subClassOf atn:Linear .						  		    		  		  		  		  		  		  		  
+		  
+###  http://altertechnology-group.com/ont/components/Linear-Filter
+atn:Linear-Filter rdf:type owl:Class ;
+		  rdfs:label "Filter"@en ;
+          rdfs:subClassOf atn:Linear .
+		  
+###  http://altertechnology-group.com/ont/components/PWM
+atn:PWM rdf:type owl:Class ;
+		  rdfs:label "PWM"@en ;
+          rdfs:subClassOf atn:Linear .		  
+
+###  http://altertechnology-group.com/ont/components/Transistor-Array
+atn:Transistor-Array rdf:type owl:Class ;
+		  rdfs:label "Transistor Array"@en ;
+          rdfs:subClassOf atn:Linear .		  
+		  
+###  http://altertechnology-group.com/ont/components/Voltage-Comparator
+atn:Voltage-Comparator rdf:type owl:Class ;
+		  rdfs:label "Voltage Comparator"@en ;
+          rdfs:subClassOf atn:Linear .		  
+
+###  http://altertechnology-group.com/ont/components/Voltage-Reference
+atn:Voltage-Reference rdf:type owl:Class ;
+		  rdfs:label "Voltage Reference"@en ;
+          rdfs:subClassOf atn:Linear .		  		  
+		  
+###  http://altertechnology-group.com/ont/components/Voltage-Regulator
+atn:Voltage-Regulator rdf:type owl:Class ;
+		  rdfs:label "Voltage Regulator"@en ;
+          rdfs:subClassOf atn:Linear .
+
+###  http://altertechnology-group.com/ont/components/Buffer-Driver
+atn:Buffer-Driver rdf:type owl:Class ;
+		  rdfs:label "Buffer and Driver"@en ;
+          rdfs:subClassOf atn:Logic .		  
+		  
+###  http://altertechnology-group.com/ont/components/Comparator
+atn:Comparator rdf:type owl:Class ;
+		  rdfs:label "Comparator"@en ;
+          rdfs:subClassOf atn:Logic .		  		  
+		  
+###  http://altertechnology-group.com/ont/components/Counter-Divider
+atn:Counter-Divider rdf:type owl:Class ;
+		  rdfs:label "Counter and Divider"@en ;
+          rdfs:subClassOf atn:Logic .		  		  		  
+		  
+###  http://altertechnology-group.com/ont/components/Data-Selector-Multiplexer
+atn:Data-Selector-Multiplexer rdf:type owl:Class ;
+		  rdfs:label "Data Selector and Multiplexer"@en ;
+          rdfs:subClassOf atn:Logic .		  		  		  		  
+		  
+###  http://altertechnology-group.com/ont/components/Decoder-Demultiplexer
+atn:Decoder-Demultiplexer rdf:type owl:Class ;
+		  rdfs:label "Decoder and Demultiplexer"@en ;
+          rdfs:subClassOf atn:Logic .
+
+###  http://altertechnology-group.com/ont/components/Encoder
+atn:Encoder rdf:type owl:Class ;
+		  rdfs:label "Encoder"@en ;
+          rdfs:subClassOf atn:Logic .		  
+		  
+###  http://altertechnology-group.com/ont/components/Latch
+atn:Latch rdf:type owl:Class ;
+		  rdfs:label "Latch"@en ;
+          rdfs:subClassOf atn:Logic .		  
+		  
+###  http://altertechnology-group.com/ont/components/Multivibrator
+atn:Multivibrator rdf:type owl:Class ;
+		  rdfs:label "Multivibrator"@en ;
+          rdfs:subClassOf atn:Logic .		  		  
+		  
+###  http://altertechnology-group.com/ont/components/Logic-Other
+atn:Logic-Other rdf:type owl:Class ;
+		  rdfs:label "Other"@en ;
+          rdfs:subClassOf atn:Logic .		  		  		  
+		  
+###  http://altertechnology-group.com/ont/components/Register
+atn:Register rdf:type owl:Class ;
+		  rdfs:label "Register"@en ;
+          rdfs:subClassOf atn:Logic .		  		  		  
+		  
+###  http://altertechnology-group.com/ont/components/SCAN
+atn:SCAN rdf:type owl:Class ;
+		  rdfs:label "SCAN"@en ;
+          rdfs:subClassOf atn:Logic .		  
+		  
+###  http://altertechnology-group.com/ont/components/FIFO
+atn:FIFO rdf:type owl:Class ;
+		  rdfs:label "FIFO"@en ;
+          rdfs:subClassOf atn:Memory .		  
+		  
+###  http://altertechnology-group.com/ont/components/RAM
+atn:RAM rdf:type owl:Class ;
+		  rdfs:label "RAM"@en ;
+          rdfs:subClassOf atn:Memory .		  
+		  
+###  http://altertechnology-group.com/ont/components/DRAM
+atn:DRAM rdf:type owl:Class ;
+		  rdfs:label "DRAM"@en ;
+          rdfs:subClassOf atn:RAM .		  
+		  
+###  http://altertechnology-group.com/ont/components/SDRAM
+atn:SDRAM rdf:type owl:Class ;
+		  rdfs:label "SDRAM"@en ;
+          rdfs:subClassOf atn:RAM .		  
+		  
+###  http://altertechnology-group.com/ont/components/RAM-Others
+atn:RAM-Others rdf:type owl:Class ;
+		  rdfs:label "Others"@en ;
+          rdfs:subClassOf atn:RAM .		  
+		  
+###  http://altertechnology-group.com/ont/components/ROM
+atn:ROM rdf:type owl:Class ;
+		  rdfs:label "ROM"@en ;
+          rdfs:subClassOf atn:Memory .		  		  
+		  
+###  http://altertechnology-group.com/ont/components/EEPROM
+atn:EEPROM rdf:type owl:Class ;
+		  rdfs:label "EEPROM"@en ;
+          rdfs:subClassOf atn:ROM .		  
+		  
+###  http://altertechnology-group.com/ont/components/FLASH
+atn:FLASH rdf:type owl:Class ;
+		  rdfs:label "FLASH"@en ;
+          rdfs:subClassOf atn:ROM .		  
+		  
+###  http://altertechnology-group.com/ont/components/OTP
+atn:OTP rdf:type owl:Class ;
+		  rdfs:label "OTP"@en ;
+          rdfs:subClassOf atn:ROM .
+
+###  http://altertechnology-group.com/ont/components/UV-EPROM
+atn:UV-EPROM rdf:type owl:Class ;
+		  rdfs:label "UV EPROM"@en ;
+          rdfs:subClassOf atn:ROM .		  
+		  
+###  http://altertechnology-group.com/ont/components/ROM-Other
+atn:ROM-Other rdf:type owl:Class ;
+		  rdfs:label "Other"@en ;
+          rdfs:subClassOf atn:ROM .		  		  
+		  
+###  http://altertechnology-group.com/ont/components/Digital-Signal-Processor
+atn:Digital-Signal-Processor rdf:type owl:Class ;
+		  rdfs:label "Digital Signal Processor"@en ;
+          rdfs:subClassOf atn:Processor .		  
+		  
+###  http://altertechnology-group.com/ont/components/Microcontroller
+atn:Microcontroller rdf:type owl:Class ;
+		  rdfs:label "Microcontroller"@en ;
+          rdfs:subClassOf atn:Processor .
+
+###  http://altertechnology-group.com/ont/components/Microprocessor
+atn:Microprocessor rdf:type owl:Class ;
+		  rdfs:label "Microprocessor"@en ;
+          rdfs:subClassOf atn:Processor .		  
+		  
+###  Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi
