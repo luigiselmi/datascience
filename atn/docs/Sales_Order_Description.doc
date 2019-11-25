@@ -1,0 +1,794 @@
+Date: Mon, 25 Nov 2019 15:49:10 +0100 (CET)
+Message-ID: <661671835.741.1574693350569@confluence-new.iais.fraunhofer.de>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_740_1181125497.1574693350569"
+
+------=_Part_740_1181125497.1574693350569
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Sales Order Description - 3rd version</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Sales Order Description - 3rd version</h1>
+    <div class=3D"Section1">
+        <h1 id=3D"SalesOrderDescription-3rdversion-Dataset"><span><span>Dat=
+aset</span></span></h1>
+<p><span><span>The data is available as an Excel spreadsheet. The file to b=
+e used for the prediction is&nbsp; <a href=3D"https://jira.iais.fraunhofer.=
+de/wiki/download/attachments/29788044/PurchaseData_version_20180319_Updated=
+.xls?api=3Dv2" rel=3D"nofollow">Purchase Data 2018-03-19 Updated</a>. This =
+file has been created from the original one removing some redundant columns=
+.</span></span></p>
+<h1 id=3D"SalesOrderDescription-3rdversion-Considerations:"><span><span>Con=
+siderations:</span></span></h1>
+<ol>
+<li><span><span>The non-relevant columns have been removed from file.</span=
+></span></li>
+<li>The non-linked material to doEEEt have been removed.</li>
+<li><span><span>New columns with parameter values have been added. This par=
+ameters must be considered depending on each family as described in the fol=
+lowing considerations.</span></span></li>
+<li><span><span>Family rules for more accurate price prediction.</span></sp=
+an></li>
+</ol>
+<h1 id=3D"SalesOrderDescription-3rdversion-Generalrulestoassessqualitativel=
+ythepredictionalgorithms">General rules to assess qualitatively the predict=
+ion algorithms</h1>
+<p>The following rules, divided by groups of electronic components, have be=
+en defined by experts from ATN. They cannot be used directly to define the =
+prediction algorithms since they don't provide numerical values and also be=
+cause the general idea of machine learning is to train a model using the da=
+ta. Nevertheless these rules can be used to test the algorithms.&nbsp;&nbsp=
+;</p>
+<p>RESISTORS</p>
+<p>Relevant features: PACKAGE, Style_flight, RESISTANCE_N, TOLERANCE_N, TEM=
+PCOEFFICIENT_N, QualityValueName.<br><span><span><strong>&nbsp;</strong></s=
+pan></span></p>
+<p><span><span>1) For the same package, style, quality level, resistive val=
+ue, tolerance and temperature coefficient, keep the same price considering =
+the quantity</span></span><br><span><span>2) For the same package, style &a=
+mp; quality level, use this approach for prediction:</span></span></p>
+<ul>
+<li><p><span><span>Resistive value&gt;: unit price&gt;. If the resistive va=
+lue required is located between two values (above and below) with the same =
+unit price, it can be considered the same unit price</span></span></p></li>
+<li><p><span><span>Tolerance&gt;: unit price&lt;</span></span></p></li>
+<li><p><span><span>Temperature coefficient&gt;: unit price&lt;</span></span=
+></p></li>
+</ul>
+<p><span><span>3) For the same package &amp; same quality level, ADD this a=
+pproach for prediction to the previous one:</span></span></p>
+<ul>
+<li><p><span><span><span>Style&gt;: unit price&gt; (see below sizes scale f=
+or some styles)</span></span></span></p>
+<ul>
+<li><p><span>RM0402&lt; RM0603&lt; RM0705&lt; RM1206&lt; RM2010&lt; RM2512)=
+</span></p></li>
+<li><p><span>RLR05&lt; RLR07&lt; RLR20&lt; RLR32</span></p></li>
+<li><p><span>RNC50&lt; RNC55&lt; RNC60&lt; RNC65&lt; RNC70</span></p></li>
+<li><p><span>RWR74&lt; RWR80&lt; RWR81&lt; RWR82&lt; RWR84&lt; RWR89</span>=
+</p></li>
+</ul></li>
+</ul>
+<p><span><span>4) For the same style, ADD this approach for prediction to t=
+he previous one:</span></span></p>
+<ul>
+<li><p><span><span>Quality level&gt;:unit price&gt; &nbsp;(see the quality =
+level scale Class1&gt;Class2&gt;Class3)</span></span></p></li>
+</ul>
+<p><br></p>
+<p>CAPACITORS</p>
+<p>Relevant features:&nbsp;PACKAGE, Style_flight, CAPACITANCE_N, TOLERANCE_=
+N, DC_RATED_VOLTAGE_N, QualityValueName<strong>.</strong><br><span><strong>=
+&nbsp;</strong></span><br><span>1) For the same package, style, quality lev=
+el, capacitive value, tolerance, voltage rating, keep the same price consid=
+ering the quantity</span></p>
+<p><span><span>2)&nbsp;</span><span>For the same package, style &amp; quali=
+ty level, do this approach for prediction:</span></span></p>
+<ul>
+<li><p><span><span>Capacitive value&gt;: unit price&gt;. If the capacitive =
+value required is located between two values (above and below) with the sam=
+e unit price, it can be considered the same unit price</span></span></p></l=
+i>
+<li><p><span><span>Tolerance&gt;: unit price&lt;</span></span></p></li>
+<li><p><span><span>Voltage rating&gt;: unit price&gt;</span></span></p></li=
+>
+</ul>
+<p><span><span>3) For the same package &amp; same quality level, ADD this a=
+pproach for prediction to the previous one:</span></span></p>
+<ul>
+<li><p><span><span>Style&gt;: unit price&gt; (see below sizes scale for som=
+e styles)</span></span></p></li>
+<li><p><span><span>CSR13&lt; CSR09&lt; CSR23&lt; CSR91&lt; CSR33</span></sp=
+an></p></li>
+<li><p><span><span>CWR09&lt; CWR19&lt; CWR29&lt; CWR11</span></span></p></l=
+i>
+<li><p><span><span>CKS05&lt; CKS06&lt; CKS07&lt; CKS51&lt; CKS52&lt; CKS53&=
+lt; CKS54&lt; CKS55&lt; CKS56&lt; CKS57</span></span></p></li>
+<li><p><span><span>CKR05&lt; CKR06&lt; CKR11&lt; CKR12&lt; CKR14&lt; CKR15&=
+lt; CKR16</span></span></p></li>
+<li><p><span><span>(CDR01 or CDR 31)&lt; (CDR02 or CDR32)&lt; (CDR03 or CDR=
+33)&lt; (CDR04 or CDR44)&lt; (CDR05 or CDR35)&lt; CDR06</span></span></p></=
+li>
+</ul>
+<p><span><span>4) For the same style, ADD this approach for prediction to t=
+he previous one:</span></span></p>
+<ul>
+<li><p><span><span>Quality level&gt;:unit price&gt; &nbsp;(see the quality =
+level scale Class1&gt;Class2&gt;Class3)</span></span></p></li>
+</ul>
+<p><br></p>
+<p>INDUCTORS</p>
+<p>Relevant features:&nbsp;PACKAGE, Style_flight, INDUCTANCE_N, TOLERANCE_N=
+, QualityValueName<strong>.</strong></p>
+<p>1) For the same package, style, inductive value, tolerance, quality leve=
+l keep the same price considering the quantity</p>
+<p><span><span>2)&nbsp;</span><span>For the same package, style &amp; quali=
+ty level, do this approach for prediction:</span></span></p>
+<ul>
+<li><p><span><span>Inductive value&gt;: unit price&gt; If the inductive val=
+ue required is located between two values (above and below) with the same u=
+nit price, it can be considered the same unit price</span></span></p></li>
+<li><p><span><span>Tolerance&gt;: unit price&lt;</span></span></p></li>
+</ul>
+<p><span><span>3) For the same Style, ADD this approach for prediction to t=
+he previous one:</span></span></p>
+<ul>
+<li><p><span><span>Quality level&gt;:unit price&gt; &nbsp;(see the quality =
+level scale Class1&gt;Class2&gt;Class3)</span></span></p></li>
+</ul>
+<p><br></p>
+<p>RELAYS</p>
+<p>Relevant features:&nbsp;Style_flight, PACKAGE, CONTACT_CONFIGURATION, RA=
+TED_COIL_VOLTAGE_N, QualityValueName<strong>.</strong><br><span><strong>&nb=
+sp;</strong></span></p>
+<p><span><span>1) For the same Style, package, contact configuration, coil =
+voltage, quality level keep the same price considering the quantity</span><=
+/span><br><span><span>2)&nbsp;</span><span>For the same style, package, con=
+tact configuration, &amp; same quality level, do this approach for predicti=
+on:</span></span></p>
+<ul>
+<li><p><span><span>Coil voltage&gt;: unit price&gt;</span></span></p></li>
+</ul>
+<p><span><span>3) For the same style, package, coil voltage &amp; same qual=
+ity level, do this approach for prediction, considering the different conta=
+ct configurations:</span></span></p>
+<ul>
+<li><p><span><span>unit price(6PDT)&gt; unit price(4PDT)&gt; unit price(3PD=
+T)&gt; unit price(2PDT)=3D unit price(DPDT)&gt; unit price(SPDT)=3D unit pr=
+ice(1PDT)</span></span></p></li>
+</ul>
+<p><span><span>4) For the same style and package, ADD this approach for pre=
+diction to the previous one:</span></span></p>
+<ul>
+<li><p><span><span>Quality level&gt;:unit price&gt;&nbsp; (see the quality =
+level scale Class1&gt;Class2&gt;Class3)</span></span></p></li>
+</ul>
+<p><br></p>
+<p>FILTERS</p>
+<p>Relevant features:&nbsp;Style_flight, CAPACITANCE_N, RATED_VOLTAGE_N, Qu=
+alityValueName<strong>.</strong></p>
+<p>1) For the same Style, Total capacitance, DC Rated voltage, quality leve=
+l keep the same price considering the quantity</p>
+<p><span><span>2) For the same style &amp; quality level, do this approach =
+for prediction:</span></span></p>
+<ul>
+<li><p><span><span>Total capacitance &gt;: unit price&gt;. If the capacitiv=
+e value required is located between two values (above and below) with the s=
+ame unit price, it can be considered the same unit price</span></span></p><=
+/li>
+<li><p><span><span>DC Rated voltage &gt;: unit price&gt;</span></span></p><=
+/li>
+</ul>
+<p><span><span>3) For the same style, ADD this approach for prediction to t=
+he previous one:</span></span></p>
+<ul>
+<li><p><span><span>Quality level&gt;:unit price&gt;&nbsp; (see the quality =
+level scale Class1&gt;Class2&gt;Class3)</span></span></p></li>
+</ul>
+<p><br></p>
+<p>FUSES</p>
+<p>Relevant features:&nbsp;Style_flight, PACKAGE, RATED_VOLTAGE_N, QualityV=
+alueName<strong>.</strong></p>
+<p><span>1) For the same Style, package, DC Rated voltage, quality level ke=
+ep the same price considering the qty</span><br><span><span>2)&nbsp;</span>=
+<span>For the same style, package &amp; same quality level, do this approac=
+h for prediction:</span></span></p>
+<ul>
+<li><p><span><span>DC Rated voltage &gt;: unit price&gt;</span></span></p><=
+/li>
+</ul>
+<p><span><span>3) For the same style and package, ADD this approach for pre=
+diction to the previous one:</span></span></p>
+<ul>
+<li><p><span><span>Quality level&gt;:unit price&gt;&nbsp; (see the quality =
+level scale Class1&gt;Class2&gt;Class3)</span></span></p></li>
+</ul>
+<p><br></p>
+<p>THERMISTORS</p>
+<p>Relevant features:&nbsp;PACKAGE, Style_flight, RESISTANCE_N, TOLERANCE_N=
+,QualityValueName<strong>.</strong><br><span><strong>&nbsp;</strong></span>=
+<br><span>1) For the same package, style, quality level, resistive value, t=
+olerance &amp; Temperature coefficient keep the same price considering the =
+quantity</span><br><span>2) For the same package, style &amp; quality level=
+, do this approach for prediction:</span></p>
+<ul>
+<li><p><span><span>Resistive value&gt;: unit price&gt;. If the resistive va=
+lue required is located between two values (above and below) with the same =
+unit price, it can be considered the same unit price</span></span></p></li>
+<li><p><span><span>Tolerance&gt;: unit price&lt;</span></span></p></li>
+</ul>
+<p><span><span>3) For the same style, ADD this approach for prediction to t=
+he previous one:</span></span></p>
+<ul>
+<li><p><span><span>Quality level&gt;:unit price&gt; &nbsp;(see the quality =
+level scale Class1&gt;Class2&gt;Class3)</span></span></p></li>
+</ul>
+<p><br></p>
+<p>MICROCIRCUITS</p>
+<p>Relevant features:&nbsp;Style_flight, package class, package, finish, TI=
+D_HDR_N, QualityValueName<strong>.</strong></p>
+<p><span><span>1) For the same style, same quality level, same package clas=
+s, same package, same finish, keep the same price considering the quantity<=
+/span></span><br><span><span>2)&nbsp;</span><span>For the same style &amp; =
+same quality level, do this approach for prediction:</span></span></p>
+<ul>
+<li><p><span><span>unit price Package class =E2=80=9Cthrough hole=E2=80=9D =
+&lt; unit price Package class =E2=80=9Csurface mount=E2=80=9D (between 5 an=
+d 10% higher)</span></span></p></li>
+</ul>
+<p><span><span>3) If Package class =3D =E2=80=9Cthrough hole=E2=80=9D =3D&g=
+t; unit price Package containing =E2=80=9CCAN=E2=80=9D =3D unit price packa=
+ge containing =E2=80=9CDIP=E2=80=9D</span></span><br><span><span>4) If Pack=
+age class =3D surface mount =3D&gt; unit price Package containing =E2=80=9C=
+FP=E2=80=9D &gt; unit price package containing =E2=80=9CLCC=E2=80=9D &nbsp;=
+(between 5 and 7.5% higher)</span></span></p>
+<ul>
+<li><p><span><span>Finish A &gt; Finish C (last letter of component number,=
+ around 1.5 Euros higher per piece)</span></span></p></li>
+</ul>
+<p><span><span>5) For the same style, do this approach for prediction:</spa=
+n></span></p>
+<ul>
+<li><p><span><span>unit price Package class through hole &lt; unit price Pa=
+ckage class surface mount (between 5 and 10% higher)</span></span></p></li>
+</ul>
+<p><span><span>6) If Package class =3D through hole =3D&gt; unit price Pack=
+age CAN =3D unit price package DIP</span></span><br><span><span>7) If Packa=
+ge class =3D surface mount =3D&gt; unit price Package FP &gt; unit price pa=
+ckage LCC &nbsp;(between 5 and 7.5% higher)</span></span></p>
+<ul>
+<li><p><span><span>Finish A &gt; Finish C (last letter of component number,=
+ around 1.5 Euros higher per piece)</span></span></p></li>
+<li><p><span><span>Quality level&gt;: unit price&gt; (between 5 and 12% hig=
+her Class 1 than Class 2, (see the quality level scale Class1&gt;Class2&gt;=
+Class3)</span></span></p></li>
+<li><p><span><span>Quality level&gt;: lead time&gt; (between 2 and 4 weeks =
+longer)</span></span></p></li>
+</ul>
+<p><br><span><span>In general, if Radiation level&gt;: unit price&gt; (betw=
+een 2 and 3% per step of following scale). Letters: -&lt;M&lt;D&lt;P&lt;L&l=
+t;R&lt;F&lt;G&lt;H on fifth digit of component number</span></span></p>
+<p><br></p>
+<p>DISCRETES</p>
+<p>Relevant features:&nbsp;Style_flight, package class, TID_HDR_N, QualityV=
+alueName<strong>.</strong></p>
+<p><span>1) For the same style, same quality level and same package, keep t=
+he same price considering the quantity</span><br><span>2) For the same styl=
+e &amp; same quality level, do this approach for prediction:</span></p>
+<ul>
+<li><p><span><span>unit price Package class through hole &lt; unit price Pa=
+ckage class surface mount (between 5 and 10% higher)</span></span></p></li>
+</ul>
+<p><span><span>3) For the same style, do this approach for prediction:</spa=
+n></span></p>
+<ul>
+<li><p><span><span>unit price Package class through hole &lt; unit price Pa=
+ckage class surface mount (between 5 and 10% higher)</span></span></p></li>
+<li><p><span><span>Quality level&gt;:unit price&gt; (between 1.25 and 3 tim=
+es higher JANS than JANTXV), JAN &amp; JANTX &amp; JANTXV have similar pric=
+e ranges.</span></span></p></li>
+<li><p><span><span>Quality level&gt;: lead time&gt; (between 2 and 4 weeks =
+longer)</span></span></p></li>
+</ul>
+<p><br></p>
+<p><span><span>In general, if Radiation level&gt;: unit price&gt; (between =
+1 and 2% per step of following scale). Letters: None&lt;M&lt;D&lt;P&lt;L&lt=
+;R&lt;F&lt;G&lt;H following the quality level portion of the prefix of comp=
+onent number</span></span></p>
+<h1 id=3D"SalesOrderDescription-3rdversion-Columndescriptionfortheexcelfile=
+">Column description for the excel file</h1>
+<p><span><span>&nbsp;</span></span></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable" style=3D"margin-left: 65.0pt;">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class=3D"confluenceTd"><p><span><span><strong>Column Name</strong></spa=
+n></span></p></td>
+<td class=3D"confluenceTd"><p><span><span><strong>Description</strong></spa=
+n></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>Use</strong></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>FamilyPath_Flight</p></td>
+<td class=3D"confluenceTd"><p><span><span>Material Family path from leaf to=
+ root</span></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">No</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ComponentNumber_MAT_Flight</p></td>
+<td class=3D"confluenceTd"><p><span><span>Material Component Number</span><=
+/span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Style_Flight</p></td>
+<td class=3D"confluenceTd"><p><span><span>Material Component Style</span></=
+span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>QLevel_Flight</p></td>
+<td class=3D"confluenceTd"><p><span><span>Material Component Quality Level<=
+/span></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Package_Flight</p></td>
+<td class=3D"confluenceTd"><p><span><span>Material Package</span></span></p=
+></td>
+<td colspan=3D"1" class=3D"confluenceTd">No</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>PRICE LABEL</p></td>
+<td class=3D"confluenceTd"><p><span><span>Price description. This column mu=
+st be used to detect CHARGES associated to MATERIALS.</span></span></p></td=
+>
+<td colspan=3D"1" class=3D"confluenceTd">No</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Material</p></td>
+<td class=3D"confluenceTd"><p><span><span>This is the ID for every purchase=
+ of a component.</span></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Charges</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>MAT_Flight</p></td>
+<td class=3D"confluenceTd"><p><span><span>This is the main MATERIAL. Charge=
+s associated to the main MATERIAL are named as &lt;MATERIAL&gt;&lt;XXX&gt;,=
+ that is the sequence of the two codes, where &lt;MATERIAL&gt; is the actua=
+l main material code and &lt;XXX&gt; is a charge codification, e.g.</span><=
+/span></p><p><span><span>Material =3D <span style=3D"color: rgb(34,34,34);"=
+>ARG9841515000 and MAT_Flight =3D ARG984151500000LA3</span></span></span></=
+p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Charges</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>PO_Date</p></td>
+<td class=3D"confluenceTd"><p><span><span>Purchase Order creation date.</sp=
+an></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>PO_Currency</p></td>
+<td class=3D"confluenceTd"><p><span><span>Purchase Order Currency.</span></=
+span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>PO_Change</p></td>
+<td class=3D"confluenceTd"><p><span><span>Purchase Order Currency Change.</=
+span></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>POP_DeliveryDate</p></td>
+<td class=3D"confluenceTd"><p><span><span>Purchase Order Delivery Date from=
+ Supplier.</span></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>POP_Qty</p></td>
+<td class=3D"confluenceTd"><p><span><span>Purchase Quantity.</span></span><=
+/p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>POP_QtyUnit</p></td>
+<td class=3D"confluenceTd"><p><span><span>[ST=3DPieces/SER=3DService]</span=
+></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>POP_UnitPrice_CU</p></td>
+<td class=3D"confluenceTd"><p><span><span>Material Unit Price.</span></span=
+></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>POP_MfrLeadTime_Calc</p></td>
+<td class=3D"confluenceTd"><p><span><span>Lead time</span></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>INDUCTANCE_N</p></td>
+<td class=3D"confluenceTd"><p><span><span>Inductance value (micro Henry)</s=
+pan></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>RESISTANCE_N</p></td>
+<td class=3D"confluenceTd"><p><span><span>Resistance value (Ohm)</span></sp=
+an></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>CAPACITANCE_N</p></td>
+<td class=3D"confluenceTd"><p><span><span>Capacitance value (Picofarad)</sp=
+an></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>FREQUENCY_N</p></td>
+<td class=3D"confluenceTd"><p><span><span>Frequency value (MHz)</span></spa=
+n></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>CONTACT_CONFIGURATION</p></td>
+<td class=3D"confluenceTd"><p><span><span>Contact configuration</span></spa=
+n></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>RES_CASESIZE</p></td>
+<td class=3D"confluenceTd"><p><span><span>Resistor Case Size</span></span><=
+/p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>CAP_CASE</p></td>
+<td class=3D"confluenceTd"><p><span><span>Capacitor Case</span></span></p><=
+/td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>TOLERANCE_N</p></td>
+<td class=3D"confluenceTd"><p><span><span>Tolerance value (%)</span></span>=
+</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>TEMPCOEFFICIENT_N</p></td>
+<td class=3D"confluenceTd"><p><span><span>Temperature coefficent value (ppm=
+/=C2=B0C)</span></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>DC_RATED_VOLTAGE_N</p></td>
+<td class=3D"confluenceTd"><p><span><span>DC Related voltage value (Volt)</=
+span></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>RATED_COIL_VOLTAGE_N</p></td>
+<td class=3D"confluenceTd"><p><span><span>Rated coil voltage value (Volt)</=
+span></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>TID_HDR_N</p></td>
+<td class=3D"confluenceTd"><p><span><span>Total Ionizing Dose (High Dose Ra=
+te) value (Krad)</span></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>TID_LDR_N</p></td>
+<td class=3D"confluenceTd"><p><span><span>Total Ionizing Dose (Low Dose Rat=
+e) value (Krad)</span></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>PACKAGECLASS</p></td>
+<td class=3D"confluenceTd"><p><span><span>Package Class</span></span></p></=
+td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>PACKAGE</p></td>
+<td class=3D"confluenceTd"><p><span><span>Package</span></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>FINISH</p></td>
+<td class=3D"confluenceTd"><p><span><span>Finish</span></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>FamilyRoot</p></td>
+<td class=3D"confluenceTd"><p><span><span>Component Family name. Usefull to=
+ identify the rules to aply.</span></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>MnfrDoeeetName</p></td>
+<td class=3D"confluenceTd"><p><span><span>Manufacturer name in the same way=
+ as used in doEEEt</span></span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">No</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>POP_MfrContinent</p></td>
+<td class=3D"confluenceTd"><p><span><span>Manufacturer Continent.</span></s=
+pan></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">No</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ManufacturerCountry</p></td>
+<td class=3D"confluenceTd"><p><span><span>Manufacturer country name</span><=
+/span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">No</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Qualified</p></td>
+<td class=3D"confluenceTd"><p><span><span>Qualified? (Y/N)</span></span></p=
+></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>StyleStandard</p></td>
+<td class=3D"confluenceTd"><p><span><span>Style Standard</span></span></p><=
+/td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>QualityValueName</p></td>
+<td class=3D"confluenceTd"><p><span><span>Quality value Name</span></span><=
+/p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>SpecificationName</p></td>
+<td class=3D"confluenceTd"><p><span><span>Specification Name</span></span><=
+/p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Yes</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h1 id=3D"SalesOrderDescription-3rdversion-Charges"><br><span><span>&nbsp;C=
+harges</span></span></h1>
+<p>The charges are services that are provided by ATN, such as test and qual=
+ification assessment for electronic components. They are related to the com=
+ponents in the Sales Orders data, see Material and MAT_Flight. The charges =
+are not relevant to predict the price or the delivery time of a component.&=
+nbsp;<br><br></p>
+    </div>
+</body>
+</html>
+------=_Part_740_1181125497.1574693350569--

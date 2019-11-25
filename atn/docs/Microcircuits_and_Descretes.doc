@@ -1,0 +1,738 @@
+Date: Mon, 25 Nov 2019 15:50:01 +0100 (CET)
+Message-ID: <676342619.748.1574693401342@confluence-new.iais.fraunhofer.de>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_747_279325318.1574693401341"
+
+------=_Part_747_279325318.1574693401341
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Microcircuits and Descretes</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Microcircuits and Descretes</h1>
+    <div class=3D"Section1">
+        <p>The price and delivery time prediction algorithms implemented so=
+ far and based on a machine learning algorithm don't work fine according to=
+ ATN, particularly for the active components, such as microcircuits and des=
+cretes, that are also the most expensive ones. The reasons for the low perf=
+ormance on the price prediction is that there are not enough data points fo=
+r each specific components to learn a function to predict the price. We hav=
+e decided to completely change the approach and use the rules given by ATN =
+with the data. We discussed the rules given in natural language in order to=
+ formalize and codify them. We will use three different set of rules in cas=
+e 1) the component number in the request matches with a record in the datab=
+ase, 2) the component number in the request doesn't match with any record i=
+n the database but the specification name matches, and finally 3) no compon=
+ent number or specification name in the request match with any record in th=
+e database. The algorithm that implements the rules must</p>
+<ol>
+<li>select the records from the database that can be used to make up the pr=
+ediction</li>
+<li>apply the rules on those records to make a prediction</li>
+</ol>
+<p>The relevant fields for the microcircuits in the sale orders data set ar=
+e the following</p>
+<ol>
+<li>Component number (ComponentNumber_MAT_Flight)</li>
+<li>Specification name (SpecificationName)</li>
+<li>Family path (FamilyPath_Flight)&nbsp;</li>
+<li>Style (Style_Flight)</li>
+<li>Quality level (QLevel_Flight)</li>
+<li>Package class (PACKAGECLASS)</li>
+<li>Package (PACKAGE)</li>
+<li>Finish (FINISH)</li>
+<li>Radiation level (<span style=3D"color: rgb(0,0,0);">TID_HDR_N)</span></=
+li>
+<li><span style=3D"color: rgb(0,0,0);">Quality value name (QualityValueName=
+)</span></li>
+<li>Manufacturer (MnfrDoeeetName)</li>
+<li>Quantity (POP_Qty)</li>
+<li>Date of purchase (PO_Date)</li>
+<li>Unit price (POP_UnitPrice)</li>
+<li>Date of delivery (POP_DeliveryDate)</li>
+</ol>
+<p>The parameters, also called predictors or features, that must be provide=
+d in a request in order to predict the unit price of a component are the fi=
+rst 12</p>
+<ol>
+<li>Component number</li>
+<li>Specification name</li>
+<li>Family path&nbsp;&nbsp;</li>
+<li>Style&nbsp;</li>
+<li>Quality level&nbsp;</li>
+<li>Package class</li>
+<li>Package</li>
+<li>Finish&nbsp;</li>
+<li>Radiation level&nbsp;</li>
+<li><span style=3D"color: rgb(0,0,0);">Quality value name</span></li>
+<li>Manufacturer&nbsp;</li>
+<li>Quantity&nbsp;</li>
+</ol>
+<h2 id=3D"MicrocircuitsandDescretes-Howtoselecttherecordsfromthedatabase">H=
+ow to select the records from the database</h2>
+<p>The first step in the selection of the records to be used to predict the=
+ price of&nbsp; a component is to determine, as precisely as possible, the =
+component in the sale orders data set. When the component number, provided =
+as a parameter in the request, matches with a component number in the data =
+set we have most of the information required to predict the price. When the=
+ component number in the request doesn't match any record in the sale order=
+s the next more accurate information, to select the records in the sale ord=
+ers for a prediction, is the specification name. If the specification name =
+doesn't match either the next more accurate information to select the recor=
+ds for a prediction is the family path. The following rules apply</p>
+<p><br></p>
+<ul>
+<li>One specification has only one family path</li>
+<li>One specification can have several components</li>
+<li>One family path can have several specifications</li>
+<li>One family path can have several components</li>
+<li>One component has only one specification</li>
+<li>One component has only one family path</li>
+</ul>
+<h3 id=3D"MicrocircuitsandDescretes-"><span class=3D"confluence-embedded-fi=
+le-wrapper image-center-wrapper confluence-embedded-manual-size"><span clas=
+s=3D"confluence-embedded-file-wrapper image-center-wrapper confluence-embed=
+ded-manual-size"><img class=3D"confluence-embedded-image image-center" heig=
+ht=3D"233" src=3D"64e00f9d474a874e1a807ab7c8d0b7df" data-image-src=3D"/wiki=
+/download/attachments/53939502/ATN%20Sale%20Orders%20Data%20Model.jpg?versi=
+on=3D1&amp;modificationDate=3D1528440052565&amp;api=3Dv2" data-unresolved-c=
+omment-count=3D"0" data-linked-resource-id=3D"53939503" data-linked-resourc=
+e-version=3D"1" data-linked-resource-type=3D"attachment" data-linked-resour=
+ce-default-alias=3D"ATN Sale Orders Data Model.jpg" data-base-url=3D"https:=
+//jira.iais.fraunhofer.de/wiki" data-linked-resource-content-type=3D"image/=
+jpeg" data-linked-resource-container-id=3D"53939502" data-linked-resource-c=
+ontainer-version=3D"4" width=3D"468"></span></span></h3>
+<h3 id=3D"MicrocircuitsandDescretes-Scenario1.Thecomponentnumberinthereques=
+tmatcheswithacomponentnumberinthesaleordersdataset.">Scenario 1. The compon=
+ent number in the request matches with a component number in the sale order=
+s data set.</h3>
+<p>The component number encodes many of the characteristics of the componen=
+t so when it is available, and there are records in the data base about tha=
+t same component number, the API will return the average value of the price=
+ taking into account the quantity and increasing the price by 5 % per year =
+(see rule i.)</p>
+<h3 id=3D"MicrocircuitsandDescretes-Scenario2.Thecomponentnumberinthereques=
+tdoesnotmatchwithacomponentnumberinthesaleordersdatasetbutthespecificationn=
+amedoesmatch.">Scenario 2. The component number&nbsp; in the request does n=
+ot match with a component number in the sale orders data set but the specif=
+ication name does match.</h3>
+<p>In this case we do not have historical data about the component in the d=
+atabase. The mechanical/electrical characteristics and different variants/v=
+ersions of the component are completely defined in the specification. The s=
+pecification name and family path share a lot of information about a compon=
+ent,&nbsp; but the price information provided by components with the same s=
+pecification name is much more accurate than the one provided by components=
+ within the same family path. The specification name encodes only partially=
+ the information that make up the price, so other parameters must be taken =
+into account to select the records that can be used to predict the price of=
+ the component. The parameter to use in this case are a subset of the full =
+list of parameters</p>
+<ul>
+<li>Style</li>
+<li>Quality level</li>
+<li>Package</li>
+<li>Finish</li>
+<li>Radiation level</li>
+</ul>
+<h3 id=3D"MicrocircuitsandDescretes-Scenario3.Neitherthecomponentnumbernort=
+hespecificationnameintherequestmatchwithanyinthesaleordersdataset.">Scenari=
+o 3. Neither the component number nor the specification name in the request=
+ match with any in the sale orders data set.</h3>
+<p>In this case the specific family of the component must be extracted from=
+ the family path. The root of the family path specify if it is a microcircu=
+it. In case the component is a microcircuit the algorithm for the price mus=
+t take into account the most specif category in order to select the records=
+ in the database that can be used to make a prediction of the price, in add=
+ition to the other characteristics mentioned in the case 2).&nbsp;</p>
+<h2 id=3D"MicrocircuitsandDescretes-Rulesforthepredictionoftheprice">Rules =
+for the prediction of the price</h2>
+<p><strong>MICROCIRCUITS [</strong>Style_flight, package class, package, fi=
+nish, TID_HDR_N, QualityValueName<strong>]&nbsp;</strong></p>
+<p><strong><br></strong><span style=3D"color: rgb(0,0,0);">Rules from i to =
+v (in red) are superseded by the rules with same number in the following se=
+ction (New Rules for Microcircuits)</span></p>
+<p>i.&nbsp;&nbsp;<span style=3D"color: rgb(255,0,0);">&nbsp;For the same st=
+yle, same quality level, same package class, same package, same finish, kee=
+p the same price considering the qty</span></p>
+<p><span style=3D"color: rgb(255,0,0);">ii.&nbsp; For the same style &amp; =
+same quality level, do this approach for prediction:</span></p>
+<ul>
+<li><span style=3D"color: rgb(255,0,0);">unit price Package class =E2=80=9C=
+through hole=E2=80=9D &lt; unit price Package class =E2=80=9Csurface mount=
+=E2=80=9D (between 5 and 10% higher)</span></li>
+</ul>
+<p><span style=3D"color: rgb(255,0,0);">iii. If Package class =3D =E2=80=9C=
+through hole=E2=80=9D =3D&gt; unit price Package containing =E2=80=9CCAN=E2=
+=80=9D =3D unit price package containing =E2=80=9CDIP=E2=80=9D</span></p>
+<p><span style=3D"color: rgb(255,0,0);">iv. If Package class =3D surface mo=
+unt =3D&gt; unit price Package containing =E2=80=9CFP=E2=80=9D &gt; unit pr=
+ice package containing =E2=80=9CLCC=E2=80=9D (between 5 and 7.5% higher)</s=
+pan></p>
+<ul>
+<li><span style=3D"color: rgb(255,0,0);">Finish A &gt; Finish C (last lette=
+r of component number, around 1.5 Euros higher per piece)</span></li>
+</ul>
+<p><span style=3D"color: rgb(255,0,0);">v.&nbsp; For the same style, do thi=
+s approach for prediction:</span></p>
+<ul>
+<li><span style=3D"color: rgb(255,0,0);">unit price Package class through h=
+ole &lt; unit price Package class surface mount (between 5 and 10% higher)<=
+/span></li>
+</ul>
+<p>vi. If Package class =3D through hole =3D&gt; unit price Package CAN =3D=
+ unit price package DIP</p>
+<p>vii. If Package class =3D surface mount =3D&gt; unit price Package FP &g=
+t; unit price package LCC (between 5 and 7.5% higher)</p>
+<ul>
+<li>Finish A &gt; Finish C (last letter of component number, around 1.5 Eur=
+os higher per piece)</li>
+<li>Quality level&gt;: unit price&gt; (between 5 and 12% higher Class 1 tha=
+n Class 2, (see the quality level scale Class1&gt;Class2&gt;Class3)</li>
+<li>Quality level&gt;: lead time&gt; (between 2 and 4 weeks longer)</li>
+</ul>
+<p>viii. If there is no price for the same style, find any other part type =
+within the same path from the same manufacturer, and do the above approach =
+for prediction</p>
+<p>ix. If there is no price for any reference in the same path from the sam=
+e manufacturer, check any other part type within the same path from differe=
+nt manufacturer, and do the above approach for prediction</p>
+<p>In general, if Radiation level&gt;: unit price&gt; (between 2 and 3% per=
+ step of following scale). Letters: -&lt;M&lt;D&lt;P&lt;L&lt;R&lt;F&lt;G</p=
+>
+<p><strong>New Rules for MICROCIRCUITS [Style_flight, package class, packag=
+e, finish, TID_HDR_N, QualityValueName]</strong></p>
+<p>The following rules supersede those with same number in the above sectio=
+n. The rules where copied from Outlook with the wrong indentation that chan=
+ged the way in which they must be interpreted.</p>
+<p>Update received from Manuel Padial the 4th of June 2018.</p>
+<p><br>1)For the same style, same quality level, same package class, same p=
+ackage, same finish, keep the same price considering the qty<br>2)For the s=
+ame style &amp; same quality level, do this approach for prediction:<br>uni=
+t price Package class =E2=80=9Cthrough hole=E2=80=9D &lt; unit price Packag=
+e class =E2=80=9Csurface mount=E2=80=9D (between 5 and 10% higher)<br>If Pa=
+ckage class =3D =E2=80=9Cthrough hole=E2=80=9D =3D&gt; unit price Package c=
+ontaining =E2=80=9CCAN=E2=80=9D =3D unit price package containing =E2=80=9C=
+DIP=E2=80=9D<br>If Package class =3D surface mount =3D&gt; unit price Packa=
+ge containing =E2=80=9CFP=E2=80=9D &gt; unit price package containing =E2=
+=80=9CLCC=E2=80=9D (between 5 and 7.5% higher)<br>Finish A &gt; Finish C (l=
+ast letter of component number, around 1.5 Euros higher per piece)<br>3)For=
+ the same style, do this approach for prediction:<br>unit price Package cla=
+ss through hole &lt; unit price Package class surface mount (between 5 and =
+10% higher)<br>If Package class =3D through hole =3D&gt; unit price Package=
+ CAN =3D unit price package DIP<br>If Package class =3D surface mount =3D&g=
+t; unit price Package FP &gt; unit price package LCC (between 5 and 7.5% hi=
+gher)<br>Finish A &gt; Finish C (last letter of component number, around 1.=
+5 Euros higher per piece)<br>Quality level&gt;: unit price&gt; (between 5 a=
+nd 12% higher Class 1 than Class 2, (see the quality level scale Class1&gt;=
+Class2&gt;Class3)<br>Quality level&gt;: lead time&gt; (between 2 and 4 week=
+s longer)<br>4)If there is no price for the same style, find any other part=
+ type within the same path from the same manufacturer, and do the above app=
+roach for prediction<br>5)If there is no price for any reference in the sam=
+e path from the same manufacturer, check any other part type within the sam=
+e path from different manufacturer, and do the above approach for predictio=
+n</p>
+    </div>
+</body>
+</html>
+------=_Part_747_279325318.1574693401341
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/64e00f9d474a874e1a807ab7c8d0b7df
+
+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
+1arc08WfFmsf77jTtXj2l2En2JbX9xEQfQeH+jDV+lTUakJTfS5NX7LI+f6/0m6fqzcqcowXQop/
+O7Jd32+nbzmWF1a/uHfb6dvOZYXVr+4iIJvq01c9S+/LxIPrJ1i9cu5HwJd32+nbzmWF1a/uHfb6
+dvOZYXVr+4iTGPiPbDhsc971RrWtTNVVfEiITWYwXxJlZaPHjW/D4aVk0n5iQbUJZ1Qgy65Lwj5N
+IizDERHNVc4aZZ8eRb1/o/1VwzSrR2b7r1Gr+67Lijr9rTiU3RltW32pp299kfX77fTt5zLC6tf3
+Dvt9O3nMsLq1/cREFx9WmrnqX35eJb/WTrF65dyPgS7vt9O3nMsLq1/cO+307ecywurX9xEQPq01
+c9S+/LxH1k6xeuXcj4Eu77fTt5zLC6tf3Dvt9O3nMsLq1/cRED6tNXPUvvy8R9ZOsXrl3I+BLu+3
+07ecywurX9w77fTt5zLC6tf3EROrK2rXp23J67ZaQ16TTY8KWmZjhWJwcSJnqN1VXWXPJeNEVE+U
+on9HOrNJJzptXaWc5b3klv3t5Irh9IustRtQqJ2TeUI7lm3u3Jbzs99vp285lhdWv7h32+nbzmWF
+1a/uIiCv6tNXPUvvy8Sj6ydYvXLuR8CXd9vp285lhdWv7g3S507WKjtpFgRMuPVdbaoi/Yqo7MiI
+H1aaueqffl4nv1k6xetXcj4Fs2t3STSCw8iQ5nHbCq27pt2G5PdlUs+LGl5yUhZ8cV0tHVzY2SZ8
+TVYmXGrkyPQbD7ECz8U7MpOINg1yXq9BrcukzJTkFV1XsXiVFRcla5qorXNciOa5qoqIqKh5PqiK
+ioqIqLxKil+dy1uOZt66sX8DGRne8lKm5C5aLAy/Rl0nGPbMw2/5WI+HC1WpxftL41XPmev2pGH1
+dpQx2Bb4OT2Wm72dm1Z9Ds9+58+eXStQ9dcRrDVngsclwkVtJpWurpO66Vdbt65ss/QUAHMDpoAA
+AAAAAAAAAAAAAAAAAABw75/cm4Puqb/JcQnRd+L9Y33Uz+pxNr5/cm4Puqb/ACXEJ0Xfi/WN91M/
+qcTr7h+9fJmz0vwxW/Pp/wCOqWkACA1gAAAAAAAAAAAAAAAAAAAAAAAAAAApHRF8mdV86av7Qpdx
+SOiL5M6r501f2hS7ifE/fS95s+un4hxn5kvmAAQGsAAAAAAAAAAAAAAAAAAA8rdLf49t5fZaNG/+
+R6pHlbpb/HtvPzRo3/yNv1C/EeF97/8AWRqOvn4dxXuX/tEiIAPqk+WgAACUYXVej0DEa261X2Nd
+TpKpy8aY1kzRrEen6Sp/w+P/AJFh13DDFd2JVfuqm1GLSKZMRZqpw7tfOPgU58nFVXMc2bh5o7Xa
+9rUYzWcutllkiqlKAxWL0fUrV+MUppNx2HeO0rXvlmrPfvunldZGVwukKdGhxerBtKW0rS2Xe1s8
+ndbt1ms7PM1xQffT3xtD3j1dj3wVf79Z6vvbwvBP90e6c+L3Rw3B5a36zP8AZ4tY+S3ruuKm1C3K
+JKVSK2mwMJIdTbJrksFZtjM2RnM8TntWGzVcuaty4ss1zyGDAVNToVb8JUTyt9j/AJec/Ozn52cs
+r2WSM9DXCdKzhTas7/b/AOPmrzcoeblHO13mzZ1vT15VjDFLkokecn7um7F/QnEzjTsd8OcdqKju
+Nz4qJnqrxuzyy48jmT6zy0mopRvLOlnSKTXBJ/2nr8IvD6ur+n7r9z6meX6zLV+wzPa991e0qPcN
+Ep0tJxIFyySSM26OxyvZDR2tnDVHIiOz+dFT7COFvR1Pmq1RuaUdvajaO9ZPZl532Fazhlffdbi4
+q63wdGmlBuWxsy87c81tR837bvdT5t1nvNg1is1W37Cu6rNqDpG/IFpUf3/mZd+pNwptY8RrViub
++zH4JUzVMnomWfyHRrjpRXXBVrfplYnr6nreoc5FSgzjZOrTEq5mUaJBicDFcq6yM4TUbrKiMzXL
+IxaCtalxWfDZt3fm2TX9PzcpJ7C2Mo3yTSvld0PXOTWzwWSVl512n5/nZxa23t5u2bTds7LWN0Xn
+dlHw4vu4ZSlzVoXFBmKJBmntqcGZnXxVa5HRo0SCxiQ4z2K1Ht1Gu8eaJrZH3cZZitraOKNOoMzP
+rnM0eenJaUiPVGwosvnHiuY1cmscrc3rkjVVFVTIIJaWp1OlUhVjNJxkn9l83BWWcm7Lg3a7dtr2
+ZxVdb6lWnKlKDalFr7S5+Fu8opXfCK9kr7PtyAA3Q0wAAAFvdzm+NXimnz2jS1//ADuKhLe7nP8A
+GrxS80aX+e45r9Kv+hL8yPykdJ+iz/XX+XL5xPSIAHzifRQAAAAAAAAAAAAAAAAAAAABw75/cm4P
+uqb/ACXEJ0Xfi/WN91M/qcTa+f3JuD7qm/yXEJ0Xfi/WN91M/qcTr7h+9fJmz0vwxW/Pp/46paQA
+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
+AAAAAA//2Q==
+------=_Part_747_279325318.1574693401341--
