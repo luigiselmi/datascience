@@ -1,4 +1,4 @@
-Datascience [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luigiselmi/datascience/master?filepath=python%2Fcovid19-monitoring-notebook.ipynb) 
+Datascience  
 ===========
 A collection of scripts in Python, R and Matlab/Octave.
 Since March 11th 2020 I have started to develop a [jupyter 
