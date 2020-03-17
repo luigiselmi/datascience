@@ -1,4 +1,4 @@
-Datascience  
+Data Science  
 ===========
 A collection of scripts in Python, R and Matlab/Octave.
 Since March 11th 2020 I have started to develop a [jupyter 
