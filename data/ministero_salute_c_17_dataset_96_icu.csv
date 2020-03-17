@@ -1,4 +1,5 @@
-Anno,Codice Regione,Descrizione Regione,Codice Azienda,Tipo Azienda,Codice struttura,Subcodice,Denominazione Struttura/Stabilimento,Indirizzo,Codice Comune,Comune,Sigla Provincia,Codice tipo struttura,Descrizione tipo struttura,N?? Reparti,Posti letto degenza ordinaria,Posti letto degenza a pagamento,Posti letto Day Hospital,Posti letto Day Surgery,Totale posti letto
+Anno,Codice Regione,Descrizione Regione,Codice Azienda,Tipo Azienda,Codice struttura,Subcodice,Denominazione Struttura/Stabilimento,Indirizzo,Codice Comune,Comune,Sigla Provincia,Codice 
+tipo struttura,Descrizione tipo struttura,Numero Reparti,Posti letto degenza ordinaria,Posti letto degenza a pagamento,Posti letto Day Hospital,Posti letto Day Surgery,Totale posti letto
 2010,10,PIEMONTE,201,1,10007,  ,OSPEDALE MARTINI                        ,VIA TOFANE                              ,1272,TORINO                                  ,TO,1,Ospedale a gestione diretta,2,6,0,1,0,7
 2010,10,PIEMONTE,201,1,10012,  ,OSPEDALE EVANGELICO VALDESE             ,VIA PELLICO SILVIO                      ,1272,TORINO                                  ,TO,1,Ospedale a gestione diretta,1,1,0,0,0,1
 2010,10,PIEMONTE,202,1,10003,  ,OSPEDALE MARIA VITTORIA                 ,VIA CIBRARIO LUIGI                      ,1272,TORINO                                  ,TO,1,Ospedale a gestione diretta,1,6,0,1,0,7
