@@ -1,4 +1,4 @@
-# R code from R code snippet 3.2 to .. (rethinking book)
+# R code from snippet 3.2 (rethinking book)
 # Usually a model has many parameters and cannot be handled analytically
 # so the parameters are computed numerically using samples taken from
 # posterior distribution.This script shows how to build a sample from a

@@ -1,4 +1,6 @@
-# R code 2.3 rethinking book
+# R code 2.3 rethinking book. The purpose of 
+# this script is to build a model and evaluate the probability
+# distribution (posterior) of the model parameter 
 # define grid
 p_grid <- seq(from = 0, to = 1, length.out = 20)
 
