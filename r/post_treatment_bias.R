@@ -77,3 +77,9 @@ coordinates(plant_dag) <- list(x = c(H0 = 0, T = 2, F = 1.5, H1 = 1),
 plot(plant_dag)
 dseparated(plant_dag, "T", "H1")
 dseparated(plant_dag, "T", "H1", "F")
+
+# We evaluate the model using the WAIC framework (ch.7)
+# WAIC provides an estimation of the deviance of the model
+# from the target (best) model. The lower it is, the better.
+set.seed(11)
+WAIC(m6.7)
