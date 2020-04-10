@@ -19,3 +19,14 @@ for (i in 1:num_weeks) {
 }
 plot( 1:1000 , positions[1:1000] )
 plot( table( positions ) )
+
+# Many dimensions problem. A probability density function
+# in a hyperspace most of the points are close the its surface
+# far from the mean. So sampling close to it won't be efficient.
+library(rethinking)
+D <- 1000
+T <- 1e4
+Y <- rmvnorm(T, rep(0, D), diag(D)) # transforms univariate normal distribution, with 0 mean, to a multivariate distribution
+rad_dist <- function(Y) sqrt(sum(Y^2))
+Rd <- sapply(1:T, function(i) rad_dist(Y[i, ]))
+dens(Rd)
