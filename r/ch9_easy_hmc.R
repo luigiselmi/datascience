@@ -34,3 +34,5 @@ m9.1 <- ulam(
 precis(m9.1, depth = 2)
 
 pairs(m9.1)
+traceplot(m9.1, chains = 1)
+
