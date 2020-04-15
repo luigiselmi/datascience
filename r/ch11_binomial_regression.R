@@ -68,4 +68,3 @@ p_left <- inv_logit(post$a)
 labs <- c("R/N", "L/N", "R/P", "L/P")
 plot(precis(m11.4, depth = 2, pars = "b"), labels = labs) # not what expected
 #plot(precis(as.data.frame(p_left)), xlim = c(0,1)) # error
-
