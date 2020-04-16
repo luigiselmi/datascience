@@ -3,25 +3,29 @@
 # We assume that a coin can be biased so that the probability 
 # theta that after a toss it shows head or tail 
 # may not be 0.5. We assume at the beginning that theta can have any
-# value between 0 and 1 but with different probabilities defined by 
-# a triangular prior p(theta). We use the binomial distribution as the
-# likelihood. Then we set the sample size n and we set the number of 
-# successes k. Finally, we compute the posterior distribution as the 
-# product of the prior and the likelihood distributions.
+# value between 0 and 1 but with different probabilities. We have some
+# sound even if not complete information about the plausible values of
+# theta. In our example we assume a triangular prior p(theta). We use 
+# the binomial distribution as the likelihood. Then we set the sample 
+# size n and we set the number of successes k. Finally, we compute the 
+# posterior distribution as the product of the prior and the likelihood 
+# distributions.
 
 # Example 1 from Kruschke ch.5 par. 5.3
-# the posterior distribution
-theta <- s <- seq(from = 0, to = 1, by = 0.1)
+# range of values of the parameter
+theta <- seq(from = 0, to = 1, by = 0.1)
 
-# define the prior distribution for each value of theta
+# define the prior distribution for each value of theta according to our
+# knowledge before seeing the data.
 p1 <- 0.4 * theta[1:6]
 p2 <- 0.4 - 0.4 * theta[7:11]
 prior <- c(p1,p2)
 
 plot(theta, prior, type = "h", col = "skyblue")
 
-# compute likelihood at each value of the parameter theta
-# after one toss
+# sample the likelihood at each value of the parameter theta
+# for one toss. The binomial distribution used as the likelihood
+# is also called Bernoulli distribution when the sample size n = 1.
 n = 1 # sample size
 k = 1 # number success events out the sample 
 likelihood <-dbinom(k, size = n, prob = theta)
@@ -30,7 +34,7 @@ plot(theta, likelihood, ylab = "likelihood p(x | theta)", type = "h", col = "sky
 # compute the marginal likelihood p(D)
 marginal <- sum(likelihood * prior)
 
-# compute the posterior distribution for theta
+# compute the posterior distribution for theta using the Bayes rule
 posterior <- likelihood * prior / marginal
 
 # compute the posterior mode (value with most occurrences) 
