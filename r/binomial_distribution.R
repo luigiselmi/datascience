@@ -26,6 +26,11 @@ plot(theta, prior, type = "h", col = "skyblue")
 # sample the likelihood at each value of the parameter theta
 # for one toss. The binomial distribution used as the likelihood
 # is also called Bernoulli distribution when the sample size n = 1.
+# The way in which we extract the sample from the likelihood distribution
+# is called grid approximation because the elements of the sample are taken
+# from one data point and a set of equally spaced values of theta. This 
+# approximation works because we are dealing with only one parameter and
+# values in a limited interval. Other approximation are quadratic and MCMC.
 n = 1 # sample size
 k = 1 # number success events out the sample 
 likelihood <-dbinom(k, size = n, prob = theta)
@@ -73,3 +78,4 @@ mode_posterior <- theta[which.max(posterior)]
 
 plot(theta, posterior, ylab = "posterior_1000 p(theta | x)", type = "h", col = "skyblue")
 text( .7 , 0.0020 , paste("mode =", mode_posterior))
+
