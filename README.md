@@ -1,8 +1,10 @@
 Data Science  
 ===========
-A collection of scripts in Python, R and Matlab/Octave.
-Since March 11th 2020 I have started to develop a [jupyter 
-notebook](https://github.com/luigiselmi/datascience/blob/master/python/covid19-monitoring-notebook.ipynb) in Python to monitor the 
-spread of the covid-19 virus for
-some european countries.  
+I use this repository for my projects about data science and statistical inference. The main projects are
+
+ - [covid19 monitoring notebook](python/covid19-monitoring-notebook.ipynb) 
+ - Introduction to Statistical Learning](r/stat_learning/chapter1.ipynb) 
+ - [Baysian Inference](r/rethinking/probability.ipynb)
+
+  
 
