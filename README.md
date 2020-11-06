@@ -11,5 +11,6 @@ of notes about probability and bayesian inference and R scripts taken
 from the books I am using for this project.  
 - [copernicus](python/copernicus) notebooks about climate change using the Copernicus 
 data.
+- [digital image processing](python/imaging/digital_image_processing.ipynb) notebooks about digital image processing, mostly images from satellites.
   
 
