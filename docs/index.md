@@ -1,6 +1,6 @@
 ## Welcome to the Data Science repository !
 
-This repository contains code, mostly Jupyter notebooks, about data science and statistical inference. The main projects are
+This repository contains code, mostly Jupyter notebooks in Python and R, about data science and statistical inference. The main projects are
 
  - [covid19 monitoring notebook](https://github.com/luigiselmi/datascience/blob/master/python/covid19/covid19-monitoring-notebook.ipynb) is a single notebook in python that monitors the >
     virus in some European countries.
