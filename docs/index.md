@@ -1,4 +1,4 @@
-## Welcome to Data Science
+## Welcome to the Data Science repository !
 
 This repository contains code, mostly Jupyter notebooks, about data science and statistical inference. The main projects are
 
