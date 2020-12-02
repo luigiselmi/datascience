@@ -1,37 +1,14 @@
 ## Welcome to Data Science
 
-You can use the [editor on GitHub](https://github.com/luigiselmi/datascience/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This repository contains code, mostly Jupyter notebooks, about data science and statistical inference. The main projects are
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luigiselmi/datascience/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ - [covid19 monitoring notebook](python/covid19/covid19-monitoring-notebook.ipynb) is a single notebook in python that monitors the >
+    virus in some European countries.
+ - [Statistical Learning](r/stat_learning/chapter1.ipynb) is a collection of notebooks in R with my notes about a course on
+statistical inference and worked out examples taken from the book used in the course.
+ - [Bayesian Inference](r/rethinking/probability.ipynb) is a collection
+of notes about probability and bayesian inference and R scripts taken
+from the books I am using for this project.
+- [copernicus](python/copernicus/copernicus_services.ipynb) notebooks about climate change using the Copernicus
+data.
+- [digital image processing](python/imaging/digital_image_processing.ipynb) notebooks about digital image processing
