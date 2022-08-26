@@ -4,19 +4,39 @@ A list of websites that provide data sets about science, economics and finance
 from Italy, Europe and the US.
 
 ## Energy
+### Italy
 [Gestore Mercati Energetici (IT)](https://www.mercatoelettrico.org/It/default.aspx)  
 [Gestore Servizi Energetici (IT)](https://gse.it/)    
+
+### United States
 [Energy Information Administration (US)](https://www.eia.gov/)  
+
+### International Organizations
 [International Energy Agency](https://www.iea.org/)  
 
 ## Economics
-[Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)  
+### European Union
 [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html)  
+[European Securities and Market Authority](https://www.esma.europa.eu/)  
+
+### Italy
+[Banca d'Italia - Bank of Italy](https://www.bancaditalia.it/)  
+[Commissione Nazionale per le Societa' e la Borsa (CONSOB)](https://www.consob.it/)  
+
+### United States
+[Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)  
+[U.S. Security and Exchange Commission](https://www.sec.gov/)  
 
 ## Environment
+### Italy
 [The Italian Institute for Environmental Protection and Research - ISPRA](https://www.isprambiente.gov.it/en)  
 
 ## Social Sciences
-[Bureau of Labor Statistics (US)](https://www.bls.gov/)  
-[Istituto Nazionale di Statistica - Italian National Institute of Statistics (IT)](https://www.istat.it/en/)  
+### European Union
 [Eurostat - The Statistical Office of the European Union](https://ec.europa.eu/eurostat)  
+
+### Italy
+[Istituto Nazionale di Statistica - Italian National Institute of Statistics (IT)](https://www.istat.it/en/)  
+
+### United States
+[Bureau of Labor Statistics (US)](https://www.bls.gov/)  
