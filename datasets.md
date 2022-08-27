@@ -14,7 +14,7 @@ from Italy, Europe and the US.
 ### International Organizations
 [International Energy Agency](https://www.iea.org/)  
 
-## Economics
+## Economy
 ### European Union
 [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html)  
 [European Securities and Market Authority](https://www.esma.europa.eu/)  
@@ -25,7 +25,13 @@ from Italy, Europe and the US.
 
 ### United States
 [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)  
+[Board of Governors of the Federal Reserve System](https://www.federalreserve.gov/)  
 [U.S. Security and Exchange Commission](https://www.sec.gov/)  
+
+### International Organizations
+[International Monetary Fund](https://www.imf.org/en/Home)  
+[The World Bank](https://www.worldbank.org/en/home)  
+[The Organisation for Economic Co-operation and Development (OECD)](https://www.oecd.org/)  
 
 ## Environment
 ### Italy
