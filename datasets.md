@@ -34,6 +34,9 @@ from Italy, Europe and the US.
 [The Organisation for Economic Co-operation and Development (OECD)](https://www.oecd.org/)  
 
 ## Environment
+### European Union
+[The European Environment Agency](https://www.eea.europa.eu/)  
+
 ### Italy
 [The Italian Institute for Environmental Protection and Research - ISPRA](https://www.isprambiente.gov.it/en)  
 
