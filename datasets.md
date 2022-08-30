@@ -49,4 +49,4 @@ from Italy, Europe and the US.
 [Istituto Nazionale di Statistica - Italian National Institute of Statistics (IT)](https://www.istat.it/en/)  
 
 ### United States
-[Bureau of Labor Statistics (US)](https://www.bls.gov/)  
+[Bureau of Labor Statistics](https://www.bls.gov/)  
