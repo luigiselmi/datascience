@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<persons>
+    <person id="1">
+        <firstname>Pippo</firstname>
+        <lastname>Pippo</lastname>
+        <residence>United States</residence>
+    </person>
+    <person id="2">
+        <firstname>Mickey</firstname>
+        <lastname>Mouse</lastname>
+        <residence>Unites States</residence>
+    </person>
+</persons>
