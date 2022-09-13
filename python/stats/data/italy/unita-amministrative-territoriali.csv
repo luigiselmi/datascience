@@ -1,5 +1,5 @@
-Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice Comune formato alfanumerico,Denominazione in italiano,Codice Ripartizione Geografica,Ripartizione geografica,Regione,Provincia,Tipologia di Unità territoriale sovracomunale,Flag capoluogo di provincia città metropolitana,Sigla automobilistica,Codice Comune formato numerico,Codice Comune numerico con 103 province (dal 1995 al 2005),Codice Catastale del comune
-1,201,1,1001,Agliè,1,Nord-ovest,Piemonte,Torino,3,0,TO,1001,1001,A074
+Codice Regione,Codice UnitÃ  territoriale sovracomunale,Codice Provincia,Codice Comune formato alfanumerico,Denominazione in italiano,Codice Ripartizione Geografica,Ripartizione geografica,Regione,Provincia,Tipologia di UnitÃ  territoriale sovracomunale,Flag capoluogo di provincia cittÃ  metropolitana,Sigla automobilistica,Codice Comune formato numerico,Codice Comune numerico con 103 province (dal 1995 al 2005),Codice Catastale del comune
+1,201,1,1001,AgliÃ¨,1,Nord-ovest,Piemonte,Torino,3,0,TO,1001,1001,A074
 1,201,1,1002,Airasca,1,Nord-ovest,Piemonte,Torino,3,0,TO,1002,1002,A109
 1,201,1,1003,Ala di Stura,1,Nord-ovest,Piemonte,Torino,3,0,TO,1003,1003,A117
 1,201,1,1004,Albiano d'Ivrea,1,Nord-ovest,Piemonte,Torino,3,0,TO,1004,1004,A157
@@ -83,7 +83,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,201,1,1083,Ciconio,1,Nord-ovest,Piemonte,Torino,3,0,TO,1083,1083,C679
 1,201,1,1084,Cintano,1,Nord-ovest,Piemonte,Torino,3,0,TO,1084,1084,C711
 1,201,1,1085,Cinzano,1,Nord-ovest,Piemonte,Torino,3,0,TO,1085,1085,C715
-1,201,1,1086,Ciriè,1,Nord-ovest,Piemonte,Torino,3,0,TO,1086,1086,C722
+1,201,1,1086,CiriÃ¨,1,Nord-ovest,Piemonte,Torino,3,0,TO,1086,1086,C722
 1,201,1,1087,Claviere,1,Nord-ovest,Piemonte,Torino,3,0,TO,1087,1087,C793
 1,201,1,1088,Coassolo Torinese,1,Nord-ovest,Piemonte,Torino,3,0,TO,1088,1088,C801
 1,201,1,1089,Coazze,1,Nord-ovest,Piemonte,Torino,3,0,TO,1089,1089,C803
@@ -95,7 +95,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,201,1,1095,Cossano Canavese,1,Nord-ovest,Piemonte,Torino,3,0,TO,1095,1095,D092
 1,201,1,1096,Cuceglio,1,Nord-ovest,Piemonte,Torino,3,0,TO,1096,1096,D197
 1,201,1,1097,Cumiana,1,Nord-ovest,Piemonte,Torino,3,0,TO,1097,1097,D202
-1,201,1,1098,Cuorgnè,1,Nord-ovest,Piemonte,Torino,3,0,TO,1098,1098,D208
+1,201,1,1098,CuorgnÃ¨,1,Nord-ovest,Piemonte,Torino,3,0,TO,1098,1098,D208
 1,201,1,1099,Druento,1,Nord-ovest,Piemonte,Torino,3,0,TO,1099,1099,D373
 1,201,1,1100,Exilles,1,Nord-ovest,Piemonte,Torino,3,0,TO,1100,1100,D433
 1,201,1,1101,Favria,1,Nord-ovest,Piemonte,Torino,3,0,TO,1101,1101,D520
@@ -134,17 +134,17 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,201,1,1134,Locana,1,Nord-ovest,Piemonte,Torino,3,0,TO,1134,1134,E635
 1,201,1,1135,Lombardore,1,Nord-ovest,Piemonte,Torino,3,0,TO,1135,1135,E660
 1,201,1,1136,Lombriasco,1,Nord-ovest,Piemonte,Torino,3,0,TO,1136,1136,E661
-1,201,1,1137,Loranzè,1,Nord-ovest,Piemonte,Torino,3,0,TO,1137,1137,E683
+1,201,1,1137,LoranzÃ¨,1,Nord-ovest,Piemonte,Torino,3,0,TO,1137,1137,E683
 1,201,1,1139,Luserna San Giovanni,1,Nord-ovest,Piemonte,Torino,3,0,TO,1139,1139,E758
 1,201,1,1140,Lusernetta,1,Nord-ovest,Piemonte,Torino,3,0,TO,1140,1140,E759
-1,201,1,1141,Lusigliè,1,Nord-ovest,Piemonte,Torino,3,0,TO,1141,1141,E763
+1,201,1,1141,LusigliÃ¨,1,Nord-ovest,Piemonte,Torino,3,0,TO,1141,1141,E763
 1,201,1,1142,Macello,1,Nord-ovest,Piemonte,Torino,3,0,TO,1142,1142,E782
 1,201,1,1143,Maglione,1,Nord-ovest,Piemonte,Torino,3,0,TO,1143,1143,E817
 1,201,1,1144,Marentino,1,Nord-ovest,Piemonte,Torino,3,0,TO,1144,1144,E941
 1,201,1,1145,Massello,1,Nord-ovest,Piemonte,Torino,3,0,TO,1145,1145,F041
 1,201,1,1146,Mathi,1,Nord-ovest,Piemonte,Torino,3,0,TO,1146,1146,F053
 1,201,1,1147,Mattie,1,Nord-ovest,Piemonte,Torino,3,0,TO,1147,1147,F058
-1,201,1,1148,Mazzè,1,Nord-ovest,Piemonte,Torino,3,0,TO,1148,1148,F067
+1,201,1,1148,MazzÃ¨,1,Nord-ovest,Piemonte,Torino,3,0,TO,1148,1148,F067
 1,201,1,1149,Meana di Susa,1,Nord-ovest,Piemonte,Torino,3,0,TO,1149,1149,F074
 1,201,1,1150,Mercenasco,1,Nord-ovest,Piemonte,Torino,3,0,TO,1150,1150,F140
 1,201,1,1152,Mezzenile,1,Nord-ovest,Piemonte,Torino,3,0,TO,1152,1152,F182
@@ -220,7 +220,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,201,1,1223,Romano Canavese,1,Nord-ovest,Piemonte,Torino,3,0,TO,1223,1223,H511
 1,201,1,1224,Ronco Canavese,1,Nord-ovest,Piemonte,Torino,3,0,TO,1224,1224,H539
 1,201,1,1225,Rondissone,1,Nord-ovest,Piemonte,Torino,3,0,TO,1225,1225,H547
-1,201,1,1226,Rorà,1,Nord-ovest,Piemonte,Torino,3,0,TO,1226,1226,H554
+1,201,1,1226,RorÃ ,1,Nord-ovest,Piemonte,Torino,3,0,TO,1226,1226,H554
 1,201,1,1227,Roure,1,Nord-ovest,Piemonte,Torino,3,0,TO,1227,1227,H555
 1,201,1,1228,Rosta,1,Nord-ovest,Piemonte,Torino,3,0,TO,1228,1228,H583
 1,201,1,1229,Rubiana,1,Nord-ovest,Piemonte,Torino,3,0,TO,1229,1229,H627
@@ -288,8 +288,8 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,201,1,1292,Venaria Reale,1,Nord-ovest,Piemonte,Torino,3,0,TO,1292,1292,L727
 1,201,1,1293,Verolengo,1,Nord-ovest,Piemonte,Torino,3,0,TO,1293,1293,L779
 1,201,1,1294,Verrua Savoia,1,Nord-ovest,Piemonte,Torino,3,0,TO,1294,1294,L787
-1,201,1,1295,Vestignè,1,Nord-ovest,Piemonte,Torino,3,0,TO,1295,1295,L811
-1,201,1,1296,Vialfrè,1,Nord-ovest,Piemonte,Torino,3,0,TO,1296,1296,L830
+1,201,1,1295,VestignÃ¨,1,Nord-ovest,Piemonte,Torino,3,0,TO,1295,1295,L811
+1,201,1,1296,VialfrÃ¨,1,Nord-ovest,Piemonte,Torino,3,0,TO,1296,1296,L830
 1,201,1,1298,Vidracco,1,Nord-ovest,Piemonte,Torino,3,0,TO,1298,1298,L857
 1,201,1,1299,Vigone,1,Nord-ovest,Piemonte,Torino,3,0,TO,1299,1299,L898
 1,201,1,1300,Villafranca Piemonte,1,Nord-ovest,Piemonte,Torino,3,0,TO,1300,1300,L948
@@ -305,7 +305,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,201,1,1310,Virle Piemonte,1,Nord-ovest,Piemonte,Torino,3,0,TO,1310,1310,M069
 1,201,1,1311,Vische,1,Nord-ovest,Piemonte,Torino,3,0,TO,1311,1311,M071
 1,201,1,1312,Vistrorio,1,Nord-ovest,Piemonte,Torino,3,0,TO,1312,1312,M080
-1,201,1,1313,Viù,1,Nord-ovest,Piemonte,Torino,3,0,TO,1313,1313,M094
+1,201,1,1313,ViÃ¹,1,Nord-ovest,Piemonte,Torino,3,0,TO,1313,1313,M094
 1,201,1,1314,Volpiano,1,Nord-ovest,Piemonte,Torino,3,0,TO,1314,1314,M122
 1,201,1,1315,Volvera,1,Nord-ovest,Piemonte,Torino,3,0,TO,1315,1315,M133
 1,201,1,1316,Mappano,1,Nord-ovest,Piemonte,Torino,3,0,TO,1316,1316,M316
@@ -318,7 +318,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,2,2,2007,Asigliano Vercellese,1,Nord-ovest,Piemonte,Vercelli,1,0,VC,2007,2007,A466
 1,2,2,2008,Balmuccia,1,Nord-ovest,Piemonte,Vercelli,1,0,VC,2008,2008,A600
 1,2,2,2009,Balocco,1,Nord-ovest,Piemonte,Vercelli,1,0,VC,2009,2009,A601
-1,2,2,2011,Bianzè,1,Nord-ovest,Piemonte,Vercelli,1,0,VC,2011,2011,A847
+1,2,2,2011,BianzÃ¨,1,Nord-ovest,Piemonte,Vercelli,1,0,VC,2011,2011,A847
 1,2,2,2014,Boccioleto,1,Nord-ovest,Piemonte,Vercelli,1,0,VC,2014,2014,A914
 1,2,2,2015,Borgo d'Ale,1,Nord-ovest,Piemonte,Vercelli,1,0,VC,2015,2015,B009
 1,2,2,2016,Borgosesia,1,Nord-ovest,Piemonte,Vercelli,1,0,VC,2016,2016,B041
@@ -377,7 +377,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,2,2,2127,Sali Vercellese,1,Nord-ovest,Piemonte,Vercelli,1,0,VC,2127,2127,H707
 1,2,2,2128,Saluggia,1,Nord-ovest,Piemonte,Vercelli,1,0,VC,2128,2128,H725
 1,2,2,2131,San Germano Vercellese,1,Nord-ovest,Piemonte,Vercelli,1,0,VC,2131,2131,H861
-1,2,2,2133,Santhià,1,Nord-ovest,Piemonte,Vercelli,1,0,VC,2133,2133,I337
+1,2,2,2133,SanthiÃ ,1,Nord-ovest,Piemonte,Vercelli,1,0,VC,2133,2133,I337
 1,2,2,2134,Scopa,1,Nord-ovest,Piemonte,Vercelli,1,0,VC,2134,2134,I544
 1,2,2,2135,Scopello,1,Nord-ovest,Piemonte,Vercelli,1,0,VC,2135,2135,I545
 1,2,2,2137,Serravalle Sesia,1,Nord-ovest,Piemonte,Vercelli,1,0,VC,2137,2137,I663
@@ -493,7 +493,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,4,4,4011,Barbaresco,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4011,4011,A629
 1,4,4,4012,Barge,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4012,4012,A660
 1,4,4,4013,Barolo,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4013,4013,A671
-1,4,4,4014,Bastia Mondovì,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4014,4014,A709
+1,4,4,4014,Bastia MondovÃ¬,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4014,4014,A709
 1,4,4,4015,Battifollo,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4015,4015,A716
 1,4,4,4016,Beinette,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4016,4016,A735
 1,4,4,4017,Bellino,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4017,4017,A750
@@ -520,8 +520,8 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,4,4,4039,Caprauna,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4039,4039,B692
 1,4,4,4040,Caraglio,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4040,4040,B719
 1,4,4,4041,Caramagna Piemonte,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4041,4041,B720
-1,4,4,4042,Cardè,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4042,4042,B755
-1,4,4,4043,Carrù,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4043,4043,B841
+1,4,4,4042,CardÃ¨,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4042,4042,B755
+1,4,4,4043,CarrÃ¹,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4043,4043,B841
 1,4,4,4044,Cartignano,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4044,4044,B845
 1,4,4,4045,Casalgrasso,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4045,4045,B894
 1,4,4,4046,Castagnito,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4046,4046,C046
@@ -546,7 +546,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,4,4,4066,Ceva,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4066,4066,C589
 1,4,4,4067,Cherasco,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4067,4067,C599
 1,4,4,4068,Chiusa di Pesio,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4068,4068,C653
-1,4,4,4069,Cigliè,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4069,4069,C681
+1,4,4,4069,CigliÃ¨,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4069,4069,C681
 1,4,4,4070,Cissone,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4070,4070,C738
 1,4,4,4071,Clavesana,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4071,4071,C792
 1,4,4,4072,Corneliano d'Alba,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4072,4072,D022
@@ -607,11 +607,11 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,4,4,4127,Monasterolo Casotto,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4127,4127,F329
 1,4,4,4128,Monasterolo di Savigliano,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4128,4128,F330
 1,4,4,4129,Monchiero,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4129,4129,F338
-1,4,4,4130,Mondovì,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4130,4130,F351
+1,4,4,4130,MondovÃ¬,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4130,4130,F351
 1,4,4,4131,Monesiglio,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4131,4131,F355
 1,4,4,4132,Monforte d'Alba,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4132,4132,F358
-1,4,4,4133,Montà,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4133,4133,F385
-1,4,4,4134,Montaldo di Mondovì,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4134,4134,F405
+1,4,4,4133,MontÃ ,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4133,4133,F385
+1,4,4,4134,Montaldo di MondovÃ¬,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4134,4134,F405
 1,4,4,4135,Montaldo Roero,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4135,4135,F408
 1,4,4,4136,Montanera,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4136,4136,F424
 1,4,4,4137,Montelupo Albese,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4137,4137,F550
@@ -665,9 +665,9 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,4,4,4185,Robilante,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4185,4185,H377
 1,4,4,4186,Roburent,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4186,4186,H378
 1,4,4,4187,Roccabruna,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4187,4187,H385
-1,4,4,4188,Rocca Cigliè,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4188,4188,H391
+1,4,4,4188,Rocca CigliÃ¨,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4188,4188,H391
 1,4,4,4189,Rocca de' Baldi,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4189,4189,H395
-1,4,4,4190,Roccaforte Mondovì,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4190,4190,H407
+1,4,4,4190,Roccaforte MondovÃ¬,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4190,4190,H407
 1,4,4,4191,Roccasparvera,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4191,4191,H447
 1,4,4,4192,Roccavione,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4192,4192,H453
 1,4,4,4193,Rocchetta Belbo,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4193,4193,H462
@@ -685,9 +685,9 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,4,4,4205,Sampeyre,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4205,4205,H755
 1,4,4,4206,San Benedetto Belbo,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4206,4206,H770
 1,4,4,4207,San Damiano Macra,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4207,4207,H812
-1,4,4,4208,Sanfrè,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4208,4208,H851
+1,4,4,4208,SanfrÃ¨,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4208,4208,H851
 1,4,4,4209,Sanfront,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4209,4209,H852
-1,4,4,4210,San Michele Mondovì,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4210,4210,I037
+1,4,4,4210,San Michele MondovÃ¬,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4210,4210,I037
 1,4,4,4211,Sant'Albano Stura,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4211,4211,I210
 1,4,4,4212,Santa Vittoria d'Alba,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4212,4212,I316
 1,4,4,4213,Santo Stefano Belbo,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4213,4213,I367
@@ -704,12 +704,12 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,4,4,4224,Stroppo,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4224,4224,I985
 1,4,4,4225,Tarantasca,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4225,4225,L048
 1,4,4,4226,Torre Bormida,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4226,4226,L252
-1,4,4,4227,Torre Mondovì,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4227,4227,L241
+1,4,4,4227,Torre MondovÃ¬,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4227,4227,L241
 1,4,4,4228,Torre San Giorgio,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4228,4228,L278
 1,4,4,4229,Torresina,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4229,4229,L281
 1,4,4,4230,Treiso,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4230,4230,L367
 1,4,4,4231,Trezzo Tinella,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4231,4231,L410
-1,4,4,4232,Trinità,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4232,4232,L427
+1,4,4,4232,TrinitÃ ,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4232,4232,L427
 1,4,4,4233,Valdieri,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4233,4233,L558
 1,4,4,4234,Valgrana,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4234,4234,L580
 1,4,4,4235,Valloriate,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4235,4235,L631
@@ -721,7 +721,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,4,4,4242,Vicoforte,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4242,4242,L841
 1,4,4,4243,Vignolo,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4243,4243,L888
 1,4,4,4244,Villafalletto,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4244,4244,L942
-1,4,4,4245,Villanova Mondovì,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4245,4245,L974
+1,4,4,4245,Villanova MondovÃ¬,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4245,4245,L974
 1,4,4,4246,Villanova Solaro,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4246,4246,L990
 1,4,4,4247,Villar San Costanzo,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4247,4247,M015
 1,4,4,4248,Vinadio,1,Nord-ovest,Piemonte,Cuneo,1,0,CN,4248,4248,M055
@@ -810,7 +810,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,5,5,5083,Penango,1,Nord-ovest,Piemonte,Asti,1,0,AT,5083,5083,G430
 1,5,5,5084,Piea,1,Nord-ovest,Piemonte,Asti,1,0,AT,5084,5084,G593
 1,5,5,5085,Pino d'Asti,1,Nord-ovest,Piemonte,Asti,1,0,AT,5085,5085,G676
-1,5,5,5086,Piovà Massaia,1,Nord-ovest,Piemonte,Asti,1,0,AT,5086,5086,G692
+1,5,5,5086,PiovÃ  Massaia,1,Nord-ovest,Piemonte,Asti,1,0,AT,5086,5086,G692
 1,5,5,5087,Portacomaro,1,Nord-ovest,Piemonte,Asti,1,0,AT,5087,5087,G894
 1,5,5,5088,Quaranti,1,Nord-ovest,Piemonte,Asti,1,0,AT,5088,5088,H102
 1,5,5,5089,Refrancore,1,Nord-ovest,Piemonte,Asti,1,0,AT,5089,5089,H219
@@ -1046,7 +1046,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,96,96,96013,Caprile,1,Nord-ovest,Piemonte,Biella,1,0,BI,96013,96013,B708
 1,96,96,96014,Casapinta,1,Nord-ovest,Piemonte,Biella,1,0,BI,96014,96014,B933
 1,96,96,96015,Castelletto Cervo,1,Nord-ovest,Piemonte,Biella,1,0,BI,96015,96015,C155
-1,96,96,96016,Cavaglià,1,Nord-ovest,Piemonte,Biella,1,0,BI,96016,96016,C363
+1,96,96,96016,CavagliÃ ,1,Nord-ovest,Piemonte,Biella,1,0,BI,96016,96016,C363
 1,96,96,96018,Cerrione,1,Nord-ovest,Piemonte,Biella,1,0,BI,96018,96018,C532
 1,96,96,96019,Coggiola,1,Nord-ovest,Piemonte,Biella,1,0,BI,96019,96019,C819
 1,96,96,96020,Cossato,1,Nord-ovest,Piemonte,Biella,1,0,BI,96020,96020,D094
@@ -1180,80 +1180,80 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 1,103,103,103077,Vogogna,1,Nord-ovest,Piemonte,Verbano-Cusio-Ossola,1,0,VB,103077,103077,M111
 1,103,103,103078,Borgomezzavalle,1,Nord-ovest,Piemonte,Verbano-Cusio-Ossola,1,0,VB,103078,103078,M370
 1,103,103,103079,Valle Cannobina,1,Nord-ovest,Piemonte,Verbano-Cusio-Ossola,1,0,VB,103079,103079,M404
-2,7,7,7001,Allein,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7001,7001,A205
-2,7,7,7002,Antey-Saint-André,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7002,7002,A305
-2,7,7,7003,Aosta,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,1,AO,7003,7003,A326
-2,7,7,7004,Arnad,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7004,7004,A424
-2,7,7,7005,Arvier,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7005,7005,A452
-2,7,7,7006,Avise,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7006,7006,A521
-2,7,7,7007,Ayas,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7007,7007,A094
-2,7,7,7008,Aymavilles,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7008,7008,A108
-2,7,7,7009,Bard,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7009,7009,A643
-2,7,7,7010,Bionaz,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7010,7010,A877
-2,7,7,7011,Brissogne,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7011,7011,B192
-2,7,7,7012,Brusson,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7012,7012,B230
-2,7,7,7013,Challand-Saint-Anselme,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7013,7013,C593
-2,7,7,7014,Challand-Saint-Victor,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7014,7014,C594
-2,7,7,7015,Chambave,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7015,7015,C595
-2,7,7,7016,Chamois,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7016,7016,B491
-2,7,7,7017,Champdepraz,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7017,7017,C596
-2,7,7,7018,Champorcher,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7018,7018,B540
-2,7,7,7019,Charvensod,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7019,7019,C598
-2,7,7,7020,Châtillon,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7020,7020,C294
-2,7,7,7021,Cogne,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7021,7021,C821
-2,7,7,7022,Courmayeur,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7022,7022,D012
-2,7,7,7023,Donnas,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7023,7023,D338
-2,7,7,7024,Doues,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7024,7024,D356
-2,7,7,7025,Emarèse,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7025,7025,D402
-2,7,7,7026,Etroubles,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7026,7026,D444
-2,7,7,7027,Fénis,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7027,7027,D537
-2,7,7,7028,Fontainemore,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7028,7028,D666
-2,7,7,7029,Gaby,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7029,7029,D839
-2,7,7,7030,Gignod,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7030,7030,E029
-2,7,7,7031,Gressan,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7031,7031,E165
-2,7,7,7032,Gressoney-La-Trinité,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7032,7032,E167
-2,7,7,7033,Gressoney-Saint-Jean,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7033,7033,E168
-2,7,7,7034,Hône,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7034,7034,E273
-2,7,7,7035,Introd,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7035,7035,E306
-2,7,7,7036,Issime,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7036,7036,E369
-2,7,7,7037,Issogne,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7037,7037,E371
-2,7,7,7038,Jovençan,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7038,7038,E391
-2,7,7,7039,La Magdeleine,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7039,7039,A308
-2,7,7,7040,La Salle,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7040,7040,E458
-2,7,7,7041,La Thuile,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7041,7041,E470
-2,7,7,7042,Lillianes,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7042,7042,E587
-2,7,7,7043,Montjovet,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7043,7043,F367
-2,7,7,7044,Morgex,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7044,7044,F726
-2,7,7,7045,Nus,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7045,7045,F987
-2,7,7,7046,Ollomont,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7046,7046,G045
-2,7,7,7047,Oyace,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7047,7047,G012
-2,7,7,7048,Perloz,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7048,7048,G459
-2,7,7,7049,Pollein,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7049,7049,G794
-2,7,7,7050,Pontboset,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7050,7050,G545
-2,7,7,7051,Pontey,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7051,7051,G860
-2,7,7,7052,Pont-Saint-Martin,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7052,7052,G854
-2,7,7,7053,Pré-Saint-Didier,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7053,7053,H042
-2,7,7,7054,Quart,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7054,7054,H110
-2,7,7,7055,Rhêmes-Notre-Dame,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7055,7055,H262
-2,7,7,7056,Rhêmes-Saint-Georges,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7056,7056,H263
-2,7,7,7057,Roisan,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7057,7057,H497
-2,7,7,7058,Saint-Christophe,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7058,7058,H669
-2,7,7,7059,Saint-Denis,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7059,7059,H670
-2,7,7,7060,Saint-Marcel,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7060,7060,H671
-2,7,7,7061,Saint-Nicolas,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7061,7061,H672
-2,7,7,7062,Saint-Oyen,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7062,7062,H673
-2,7,7,7063,Saint-Pierre,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7063,7063,H674
-2,7,7,7064,Saint-Rhémy-en-Bosses,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7064,7064,H675
-2,7,7,7065,Saint-Vincent,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7065,7065,H676
-2,7,7,7066,Sarre,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7066,7066,I442
-2,7,7,7067,Torgnon,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7067,7067,L217
-2,7,7,7068,Valgrisenche,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7068,7068,L582
-2,7,7,7069,Valpelline,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7069,7069,L643
-2,7,7,7070,Valsavarenche,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7070,7070,L647
-2,7,7,7071,Valtournenche,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7071,7071,L654
-2,7,7,7072,Verrayes,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7072,7072,L783
-2,7,7,7073,Verrès,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7073,7073,C282
-2,7,7,7074,Villeneuve,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,1,0,AO,7074,7074,L981
+2,7,7,7001,Allein,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7001,7001,A205
+2,7,7,7002,Antey-Saint-AndrÃ©,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7002,7002,A305
+2,7,7,7003,Aosta,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,1,AO,7003,7003,A326
+2,7,7,7004,Arnad,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7004,7004,A424
+2,7,7,7005,Arvier,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7005,7005,A452
+2,7,7,7006,Avise,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7006,7006,A521
+2,7,7,7007,Ayas,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7007,7007,A094
+2,7,7,7008,Aymavilles,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7008,7008,A108
+2,7,7,7009,Bard,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7009,7009,A643
+2,7,7,7010,Bionaz,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7010,7010,A877
+2,7,7,7011,Brissogne,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7011,7011,B192
+2,7,7,7012,Brusson,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7012,7012,B230
+2,7,7,7013,Challand-Saint-Anselme,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7013,7013,C593
+2,7,7,7014,Challand-Saint-Victor,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7014,7014,C594
+2,7,7,7015,Chambave,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7015,7015,C595
+2,7,7,7016,Chamois,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7016,7016,B491
+2,7,7,7017,Champdepraz,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7017,7017,C596
+2,7,7,7018,Champorcher,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7018,7018,B540
+2,7,7,7019,Charvensod,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7019,7019,C598
+2,7,7,7020,ChÃ¢tillon,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7020,7020,C294
+2,7,7,7021,Cogne,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7021,7021,C821
+2,7,7,7022,Courmayeur,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7022,7022,D012
+2,7,7,7023,Donnas,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7023,7023,D338
+2,7,7,7024,Doues,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7024,7024,D356
+2,7,7,7025,EmarÃ¨se,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7025,7025,D402
+2,7,7,7026,Etroubles,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7026,7026,D444
+2,7,7,7027,FÃ©nis,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7027,7027,D537
+2,7,7,7028,Fontainemore,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7028,7028,D666
+2,7,7,7029,Gaby,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7029,7029,D839
+2,7,7,7030,Gignod,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7030,7030,E029
+2,7,7,7031,Gressan,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7031,7031,E165
+2,7,7,7032,Gressoney-La-TrinitÃ©,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7032,7032,E167
+2,7,7,7033,Gressoney-Saint-Jean,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7033,7033,E168
+2,7,7,7034,HÃ´ne,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7034,7034,E273
+2,7,7,7035,Introd,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7035,7035,E306
+2,7,7,7036,Issime,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7036,7036,E369
+2,7,7,7037,Issogne,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7037,7037,E371
+2,7,7,7038,JovenÃ§an,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7038,7038,E391
+2,7,7,7039,La Magdeleine,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7039,7039,A308
+2,7,7,7040,La Salle,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7040,7040,E458
+2,7,7,7041,La Thuile,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7041,7041,E470
+2,7,7,7042,Lillianes,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7042,7042,E587
+2,7,7,7043,Montjovet,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7043,7043,F367
+2,7,7,7044,Morgex,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7044,7044,F726
+2,7,7,7045,Nus,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7045,7045,F987
+2,7,7,7046,Ollomont,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7046,7046,G045
+2,7,7,7047,Oyace,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7047,7047,G012
+2,7,7,7048,Perloz,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7048,7048,G459
+2,7,7,7049,Pollein,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7049,7049,G794
+2,7,7,7050,Pontboset,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7050,7050,G545
+2,7,7,7051,Pontey,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7051,7051,G860
+2,7,7,7052,Pont-Saint-Martin,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7052,7052,G854
+2,7,7,7053,PrÃ©-Saint-Didier,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7053,7053,H042
+2,7,7,7054,Quart,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7054,7054,H110
+2,7,7,7055,RhÃªmes-Notre-Dame,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7055,7055,H262
+2,7,7,7056,RhÃªmes-Saint-Georges,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7056,7056,H263
+2,7,7,7057,Roisan,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7057,7057,H497
+2,7,7,7058,Saint-Christophe,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7058,7058,H669
+2,7,7,7059,Saint-Denis,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7059,7059,H670
+2,7,7,7060,Saint-Marcel,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7060,7060,H671
+2,7,7,7061,Saint-Nicolas,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7061,7061,H672
+2,7,7,7062,Saint-Oyen,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7062,7062,H673
+2,7,7,7063,Saint-Pierre,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7063,7063,H674
+2,7,7,7064,Saint-RhÃ©my-en-Bosses,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7064,7064,H675
+2,7,7,7065,Saint-Vincent,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7065,7065,H676
+2,7,7,7066,Sarre,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7066,7066,I442
+2,7,7,7067,Torgnon,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7067,7067,L217
+2,7,7,7068,Valgrisenche,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7068,7068,L582
+2,7,7,7069,Valpelline,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7069,7069,L643
+2,7,7,7070,Valsavarenche,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7070,7070,L647
+2,7,7,7071,Valtournenche,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7071,7071,L654
+2,7,7,7072,Verrayes,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7072,7072,L783
+2,7,7,7073,VerrÃ¨s,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7073,7073,C282
+2,7,7,7074,Villeneuve,1,Nord-ovest,Valle d'Aosta/VallÃ©e d'Aoste,Aosta,1,0,AO,7074,7074,L981
 3,12,12,12001,Agra,1,Nord-ovest,Lombardia,Varese,1,0,VA,12001,12001,A085
 3,12,12,12002,Albizzate,1,Nord-ovest,Lombardia,Varese,1,0,VA,12002,12002,A167
 3,12,12,12003,Angera,1,Nord-ovest,Lombardia,Varese,1,0,VA,12003,12003,A290
@@ -1387,7 +1387,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 3,12,12,12136,Venegono Inferiore,1,Nord-ovest,Lombardia,Varese,1,0,VA,12136,12136,L733
 3,12,12,12137,Venegono Superiore,1,Nord-ovest,Lombardia,Varese,1,0,VA,12137,12137,L734
 3,12,12,12138,Vergiate,1,Nord-ovest,Lombardia,Varese,1,0,VA,12138,12138,L765
-3,12,12,12139,Viggiù,1,Nord-ovest,Lombardia,Varese,1,0,VA,12139,12139,L876
+3,12,12,12139,ViggiÃ¹,1,Nord-ovest,Lombardia,Varese,1,0,VA,12139,12139,L876
 3,12,12,12140,Vizzola Ticino,1,Nord-ovest,Lombardia,Varese,1,0,VA,12140,12140,M101
 3,12,12,12141,Sangiano,1,Nord-ovest,Lombardia,Varese,1,0,VA,12141,12141,H872
 3,12,12,12142,Maccagno con Pino e Veddasca,1,Nord-ovest,Lombardia,Varese,1,0,VA,12142,12142,M339
@@ -1418,7 +1418,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 3,13,13,13036,Cadorago,1,Nord-ovest,Lombardia,Como,1,0,CO,13036,13036,B346
 3,13,13,13037,Caglio,1,Nord-ovest,Lombardia,Como,1,0,CO,13037,13037,B355
 3,13,13,13040,Campione d'Italia,1,Nord-ovest,Lombardia,Como,1,0,CO,13040,13040,B513
-3,13,13,13041,Cantù,1,Nord-ovest,Lombardia,Como,1,0,CO,13041,13041,B639
+3,13,13,13041,CantÃ¹,1,Nord-ovest,Lombardia,Como,1,0,CO,13041,13041,B639
 3,13,13,13042,Canzo,1,Nord-ovest,Lombardia,Como,1,0,CO,13042,13042,B641
 3,13,13,13043,Capiago Intimiano,1,Nord-ovest,Lombardia,Como,1,0,CO,13043,13043,B653
 3,13,13,13044,Carate Urio,1,Nord-ovest,Lombardia,Como,1,0,CO,13044,13044,B730
@@ -1451,7 +1451,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 3,13,13,13097,Eupilio,1,Nord-ovest,Lombardia,Como,1,0,CO,13097,13097,D445
 3,13,13,13098,Faggeto Lario,1,Nord-ovest,Lombardia,Como,1,0,CO,13098,13098,D462
 3,13,13,13099,Faloppio,1,Nord-ovest,Lombardia,Como,1,0,CO,13099,13099,D482
-3,13,13,13100,Fenegrò,1,Nord-ovest,Lombardia,Como,1,0,CO,13100,13100,D531
+3,13,13,13100,FenegrÃ²,1,Nord-ovest,Lombardia,Como,1,0,CO,13100,13100,D531
 3,13,13,13101,Figino Serenza,1,Nord-ovest,Lombardia,Como,1,0,CO,13101,13101,D579
 3,13,13,13102,Fino Mornasco,1,Nord-ovest,Lombardia,Como,1,0,CO,13102,13102,D605
 3,13,13,13106,Garzeno,1,Nord-ovest,Lombardia,Como,1,0,CO,13106,13106,D930
@@ -1754,7 +1754,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 3,16,16,16002,Adrara San Rocco,1,Nord-ovest,Lombardia,Bergamo,1,0,BG,16002,16002,A058
 3,16,16,16003,Albano Sant'Alessandro,1,Nord-ovest,Lombardia,Bergamo,1,0,BG,16003,16003,A129
 3,16,16,16004,Albino,1,Nord-ovest,Lombardia,Bergamo,1,0,BG,16004,16004,A163
-3,16,16,16005,Almè,1,Nord-ovest,Lombardia,Bergamo,1,0,BG,16005,16005,A214
+3,16,16,16005,AlmÃ¨,1,Nord-ovest,Lombardia,Bergamo,1,0,BG,16005,16005,A214
 3,16,16,16006,Almenno San Bartolomeo,1,Nord-ovest,Lombardia,Bergamo,1,0,BG,16006,16006,A216
 3,16,16,16007,Almenno San Salvatore,1,Nord-ovest,Lombardia,Bergamo,1,0,BG,16007,16007,A217
 3,16,16,16008,Alzano Lombardo,1,Nord-ovest,Lombardia,Bergamo,1,0,BG,16008,16008,A246
@@ -1978,7 +1978,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 3,16,16,16236,Vigano San Martino,1,Nord-ovest,Lombardia,Bergamo,1,0,BG,16236,16236,L865
 3,16,16,16237,Vigolo,1,Nord-ovest,Lombardia,Bergamo,1,0,BG,16237,16237,L894
 3,16,16,16238,Villa d'Adda,1,Nord-ovest,Lombardia,Bergamo,1,0,BG,16238,16238,L929
-3,16,16,16239,Villa d'Almè,1,Nord-ovest,Lombardia,Bergamo,1,0,BG,16239,16239,A215
+3,16,16,16239,Villa d'AlmÃ¨,1,Nord-ovest,Lombardia,Bergamo,1,0,BG,16239,16239,A215
 3,16,16,16240,Villa di Serio,1,Nord-ovest,Lombardia,Bergamo,1,0,BG,16240,16240,L936
 3,16,16,16241,Villa d'Ogna,1,Nord-ovest,Lombardia,Bergamo,1,0,BG,16241,16241,L938
 3,16,16,16242,Villongo,1,Nord-ovest,Lombardia,Bergamo,1,0,BG,16242,16242,M045
@@ -2155,13 +2155,13 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 3,17,17,17161,Rezzato,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17161,17161,H256
 3,17,17,17162,Roccafranca,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17162,17162,H410
 3,17,17,17163,Rodengo Saiano,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17163,17163,H477
-3,17,17,17164,Roè Volciano,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17164,17164,H484
+3,17,17,17164,RoÃ¨ Volciano,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17164,17164,H484
 3,17,17,17165,Roncadelle,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17165,17165,H525
 3,17,17,17166,Rovato,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17166,17166,H598
 3,17,17,17167,Rudiano,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17167,17167,H630
 3,17,17,17168,Sabbio Chiese,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17168,17168,H650
 3,17,17,17169,Sale Marasino,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17169,17169,H699
-3,17,17,17170,Salò,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17170,17170,H717
+3,17,17,17170,SalÃ²,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17170,17170,H717
 3,17,17,17171,San Felice del Benaco,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17171,17171,H838
 3,17,17,17172,San Gervasio Bresciano,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17172,17172,H865
 3,17,17,17173,San Zeno Naviglio,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17173,17173,I412
@@ -2175,7 +2175,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 3,17,17,17181,Sonico,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17181,17181,I831
 3,17,17,17182,Sulzano,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17182,17182,L002
 3,17,17,17183,Tavernole sul Mella,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17183,17183,C698
-3,17,17,17184,Temù,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17184,17184,L094
+3,17,17,17184,TemÃ¹,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17184,17184,L094
 3,17,17,17185,Tignale,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17185,17185,L169
 3,17,17,17186,Torbole Casaglia,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17186,17186,L210
 3,17,17,17187,Toscolano-Maderno,1,Nord-ovest,Lombardia,Brescia,1,0,BS,17187,17187,L312
@@ -2206,7 +2206,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 3,18,18,18006,Badia Pavese,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18006,18006,A538
 3,18,18,18007,Bagnaria,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18007,18007,A550
 3,18,18,18008,Barbianello,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18008,18008,A634
-3,18,18,18009,Bascapè,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18009,18009,A690
+3,18,18,18009,BascapÃ¨,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18009,18009,A690
 3,18,18,18011,Bastida Pancarana,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18011,18011,A712
 3,18,18,18012,Battuda,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18012,18012,A718
 3,18,18,18013,Belgioioso,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18013,18013,A741
@@ -2261,7 +2261,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 3,18,18,18065,Frascarolo,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18065,18065,D771
 3,18,18,18066,Galliavola,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18066,18066,D873
 3,18,18,18067,Gambarana,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18067,18067,D892
-3,18,18,18068,Gambolò,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18068,18068,D901
+3,18,18,18068,GambolÃ²,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18068,18068,D901
 3,18,18,18069,Garlasco,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18069,18069,D925
 3,18,18,18071,Gerenzago,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18071,18071,D980
 3,18,18,18072,Giussago,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18072,18072,E062
@@ -2292,7 +2292,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 3,18,18,18097,Montescano,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18097,18097,F638
 3,18,18,18098,Montesegale,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18098,18098,F644
 3,18,18,18099,Monticelli Pavese,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18099,18099,F670
-3,18,18,18100,Montù Beccaria,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18100,18100,F701
+3,18,18,18100,MontÃ¹ Beccaria,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18100,18100,F701
 3,18,18,18101,Mornico Losana,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18101,18101,F739
 3,18,18,18102,Mortara,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18102,18102,F754
 3,18,18,18103,Nicorvo,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18103,18103,F891
@@ -2353,7 +2353,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 3,18,18,18159,Torre d'Isola,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18159,18159,L269
 3,18,18,18160,Torrevecchia Pia,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18160,18160,L285
 3,18,18,18161,Torricella Verzate,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18161,18161,L292
-3,18,18,18162,Travacò Siccomario,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18162,18162,I236
+3,18,18,18162,TravacÃ² Siccomario,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18162,18162,I236
 3,18,18,18163,Trivolzio,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18163,18163,L440
 3,18,18,18164,Tromello,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18164,18164,L449
 3,18,18,18165,Trovo,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18165,18165,L453
@@ -2379,7 +2379,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 3,18,18,18186,Zeme,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18186,18186,M161
 3,18,18,18187,Zenevredo,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18187,18187,M162
 3,18,18,18188,Zerbo,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18188,18188,M166
-3,18,18,18189,Zerbolò,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18189,18189,M167
+3,18,18,18189,ZerbolÃ²,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18189,18189,M167
 3,18,18,18190,Zinasco,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18190,18190,M180
 3,18,18,18191,Cornale e Bastida,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18191,18191,M338
 3,18,18,18192,Corteolona e Genzone,1,Nord-ovest,Lombardia,Pavia,1,0,PV,18192,18192,M372
@@ -2566,7 +2566,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 3,97,97,97003,Annone di Brianza,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97003,97003,A301
 3,97,97,97004,Ballabio,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97004,97004,A594
 3,97,97,97005,Barzago,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97005,97005,A683
-3,97,97,97006,Barzanò,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97006,97006,A686
+3,97,97,97006,BarzanÃ²,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97006,97006,A686
 3,97,97,97007,Barzio,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97007,97007,A687
 3,97,97,97008,Bellano,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97008,97008,A745
 3,97,97,97009,Bosisio Parini,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97009,97009,B081
@@ -2631,7 +2631,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 3,97,97,97070,Primaluna,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97070,97070,H063
 3,97,97,97071,Robbiate,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97071,97071,G223
 3,97,97,97072,Rogeno,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97072,97072,H486
-3,97,97,97074,Santa Maria Hoè,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97074,97074,I243
+3,97,97,97074,Santa Maria HoÃ¨,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97074,97074,I243
 3,97,97,97075,Sirone,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97075,97075,I759
 3,97,97,97076,Sirtori,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97076,97076,I761
 3,97,97,97077,Sueglio,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97077,97077,I994
@@ -2641,7 +2641,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 3,97,97,97083,Valmadrera,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97083,97083,L634
 3,97,97,97084,Varenna,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97084,97084,L680
 3,97,97,97086,Vercurago,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97086,97086,L751
-3,97,97,97090,Viganò,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97090,97090,L866
+3,97,97,97090,ViganÃ²,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97090,97090,L866
 3,97,97,97091,Verderio,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97091,97091,M337
 3,97,97,97092,La Valletta Brianza,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97092,97092,M348
 3,97,97,97093,Valvarrone,1,Nord-ovest,Lombardia,Lecco,1,0,LC,97093,97093,M395
@@ -2705,343 +2705,343 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 3,98,98,98060,Villanova del Sillaro,1,Nord-ovest,Lombardia,Lodi,1,0,LO,98060,98060,L977
 3,98,98,98061,Zelo Buon Persico,1,Nord-ovest,Lombardia,Lodi,1,0,LO,98061,98061,M158
 3,98,98,98062,Castelgerundo,1,Nord-ovest,Lombardia,Lodi,1,0,LO,98062,98062,M393
-3,108,108,108001,Agrate Brianza,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108001,15003,A087
-3,108,108,108002,Aicurzio,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108002,15004,A096
-3,108,108,108003,Albiate,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108003,15006,A159
-3,108,108,108004,Arcore,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108004,15008,A376
-3,108,108,108005,Barlassina,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108005,15013,A668
-3,108,108,108006,Bellusco,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108006,15017,A759
-3,108,108,108007,Bernareggio,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108007,15018,A802
-3,108,108,108008,Besana in Brianza,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108008,15021,A818
-3,108,108,108009,Biassono,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108009,15023,A849
-3,108,108,108010,Bovisio-Masciago,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108010,15030,B105
-3,108,108,108011,Briosco,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108011,15033,B187
-3,108,108,108012,Brugherio,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108012,15034,B212
-3,108,108,108013,Burago di Molgora,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108013,15037,B272
-3,108,108,108014,Camparada,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108014,15045,B501
-3,108,108,108015,Carate Brianza,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108015,15048,B729
-3,108,108,108016,Carnate,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108016,15049,B798
-3,108,108,108017,Cavenago di Brianza,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108017,15068,C395
-3,108,108,108018,Ceriano Laghetto,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108018,15069,C512
-3,108,108,108019,Cesano Maderno,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108019,15075,C566
-3,108,108,108020,Cogliate,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108020,15080,C820
-3,108,108,108021,Concorezzo,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108021,15084,C952
-3,108,108,108022,Correzzana,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108022,15092,D038
-3,108,108,108023,Desio,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108023,15100,D286
-3,108,108,108024,Giussano,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108024,15107,E063
-3,108,108,108025,Lazzate,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108025,15117,E504
-3,108,108,108026,Lesmo,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108026,15120,E550
-3,108,108,108027,Limbiate,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108027,15121,E591
-3,108,108,108028,Lissone,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108028,15123,E617
-3,108,108,108029,Macherio,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108029,15129,E786
-3,108,108,108030,Meda,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108030,15138,F078
-3,108,108,108031,Mezzago,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108031,15145,F165
-3,108,108,108032,Misinto,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108032,15147,F247
-3,108,108,108033,Monza,1,Nord-ovest,Lombardia,Monza e della Brianza,1,1,MB,108033,15149,F704
-3,108,108,108034,Muggiò,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108034,15152,F797
-3,108,108,108035,Nova Milanese,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108035,15156,F944
-3,108,108,108036,Ornago,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108036,15161,G116
-3,108,108,108037,Renate,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108037,15180,H233
-3,108,108,108038,Ronco Briantino,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108038,15187,H537
-3,108,108,108039,Seregno,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108039,15208,I625
-3,108,108,108040,Seveso,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108040,15212,I709
-3,108,108,108041,Sovico,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108041,15216,I878
-3,108,108,108042,Sulbiate,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108042,15217,I998
-3,108,108,108043,Triuggio,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108043,15223,L434
-3,108,108,108044,Usmate Velate,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108044,15227,L511
-3,108,108,108045,Varedo,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108045,15231,L677
-3,108,108,108046,Vedano al Lambro,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108046,15232,L704
-3,108,108,108047,Veduggio con Colzano,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108047,15233,L709
-3,108,108,108048,Verano Brianza,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108048,15234,L744
-3,108,108,108049,Villasanta,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108049,15239,M017
-3,108,108,108050,Vimercate,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108050,15241,M052
-3,108,108,108051,Busnago,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108051,15039,B289
-3,108,108,108052,Caponago,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108052,15047,B671
-3,108,108,108053,Cornate d'Adda,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108053,15088,D019
-3,108,108,108054,Lentate sul Seveso,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108054,15119,E530
-3,108,108,108055,Roncello,1,Nord-ovest,Lombardia,Monza e della Brianza,1,0,MB,108055,15186,H529
-4,21,21,21001,Aldino,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21001,21001,A179
-4,21,21,21002,Andriano,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21002,21002,A286
-4,21,21,21003,Anterivo,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21003,21003,A306
-4,21,21,21004,Appiano sulla strada del vino,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21004,21004,A332
-4,21,21,21005,Avelengo,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21005,21005,A507
-4,21,21,21006,Badia,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21006,21006,A537
-4,21,21,21007,Barbiano,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21007,21007,A635
-4,21,21,21008,Bolzano,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,1,BZ,21008,21008,A952
-4,21,21,21009,Braies,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21009,21009,B116
-4,21,21,21010,Brennero,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21010,21010,B145
-4,21,21,21011,Bressanone,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21011,21011,B160
-4,21,21,21012,Bronzolo,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21012,21012,B203
-4,21,21,21013,Brunico,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21013,21013,B220
-4,21,21,21014,Caines,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21014,21014,B364
-4,21,21,21015,Caldaro sulla strada del vino,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21015,21015,B397
-4,21,21,21016,Campo di Trens,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21016,21016,B529
-4,21,21,21017,Campo Tures,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21017,21017,B570
-4,21,21,21018,Castelbello-Ciardes,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21018,21018,C062
-4,21,21,21019,Castelrotto,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21019,21019,C254
-4,21,21,21020,Cermes,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21020,21020,A022
-4,21,21,21021,Chienes,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21021,21021,C625
-4,21,21,21022,Chiusa,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21022,21022,C652
-4,21,21,21023,Cornedo all'Isarco,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21023,21023,B799
-4,21,21,21024,Cortaccia sulla strada del vino,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21024,21024,D048
-4,21,21,21025,Cortina sulla strada del vino,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21025,21025,D075
-4,21,21,21026,Corvara in Badia,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21026,21026,D079
-4,21,21,21027,Curon Venosta,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21027,21027,D222
-4,21,21,21028,Dobbiaco,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21028,21028,D311
-4,21,21,21029,Egna,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21029,21029,D392
-4,21,21,21030,Falzes,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21030,21030,D484
-4,21,21,21031,Fiè allo Sciliar,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21031,21031,D571
-4,21,21,21032,Fortezza,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21032,21032,D731
-4,21,21,21033,Funes,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21033,21033,D821
-4,21,21,21034,Gais,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21034,21034,D860
-4,21,21,21035,Gargazzone,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21035,21035,D923
-4,21,21,21036,Glorenza,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21036,21036,E069
-4,21,21,21037,Laces,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21037,21037,E398
-4,21,21,21038,Lagundo,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21038,21038,E412
-4,21,21,21039,Laion,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21039,21039,E420
-4,21,21,21040,Laives,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21040,21040,E421
-4,21,21,21041,Lana,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21041,21041,E434
-4,21,21,21042,Lasa,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21042,21042,E457
-4,21,21,21043,Lauregno,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21043,21043,E481
-4,21,21,21044,Luson,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21044,21044,E764
-4,21,21,21045,Magrè sulla strada del vino,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21045,21045,E829
-4,21,21,21046,Malles Venosta,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21046,21046,E862
-4,21,21,21047,Marebbe,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21047,21047,E938
-4,21,21,21048,Marlengo,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21048,21048,E959
-4,21,21,21049,Martello,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21049,21049,E981
-4,21,21,21050,Meltina,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21050,21050,F118
-4,21,21,21051,Merano,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21051,21051,F132
-4,21,21,21052,Monguelfo-Tesido,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21052,21052,F371
-4,21,21,21053,Montagna,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21053,21053,F392
-4,21,21,21054,Moso in Passiria,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21054,21054,F766
-4,21,21,21055,Nalles,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21055,21055,F836
-4,21,21,21056,Naturno,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21056,21056,F849
-4,21,21,21057,Naz-Sciaves,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21057,21057,F856
-4,21,21,21058,Nova Levante,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21058,21058,F949
-4,21,21,21059,Nova Ponente,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21059,21059,F950
-4,21,21,21060,Ora,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21060,21060,G083
-4,21,21,21061,Ortisei,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21061,21061,G140
-4,21,21,21062,Parcines,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21062,21062,G328
-4,21,21,21063,Perca,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21063,21063,G443
-4,21,21,21064,Plaus,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21064,21064,G299
-4,21,21,21065,Ponte Gardena,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21065,21065,G830
-4,21,21,21066,Postal,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21066,21066,G936
-4,21,21,21067,Prato allo Stelvio,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21067,21067,H004
-4,21,21,21068,Predoi,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21068,21068,H019
-4,21,21,21069,Proves,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21069,21069,H081
-4,21,21,21070,Racines,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21070,21070,H152
-4,21,21,21071,Rasun-Anterselva,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21071,21071,H189
-4,21,21,21072,Renon,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21072,21072,H236
-4,21,21,21073,Rifiano,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21073,21073,H284
-4,21,21,21074,Rio di Pusteria,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21074,21074,H299
-4,21,21,21075,Rodengo,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21075,21075,H475
-4,21,21,21076,Salorno sulla strada del vino,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21076,21076,H719
-4,21,21,21077,San Candido,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21077,21077,H786
-4,21,21,21079,San Genesio Atesino,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21079,21079,H858
-4,21,21,21080,San Leonardo in Passiria,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21080,21080,H952
-4,21,21,21081,San Lorenzo di Sebato,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21081,21081,H956
-4,21,21,21082,San Martino in Badia,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21082,21082,H988
-4,21,21,21083,San Martino in Passiria,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21083,21083,H989
-4,21,21,21084,San Pancrazio,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21084,21084,I065
-4,21,21,21085,Santa Cristina Valgardena,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21085,21085,I173
-4,21,21,21086,Sarentino,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21086,21086,I431
-4,21,21,21087,Scena,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21087,21087,I519
-4,21,21,21088,Selva dei Molini,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21088,21088,I593
-4,21,21,21089,Selva di Val Gardena,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21089,21089,I591
-4,21,21,21091,Senales,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21091,21091,I604
-4,21,21,21092,Sesto,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21092,21092,I687
-4,21,21,21093,Silandro,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21093,21093,I729
-4,21,21,21094,Sluderno,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21094,21094,I771
-4,21,21,21095,Stelvio,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21095,21095,I948
-4,21,21,21096,Terento,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21096,21096,L106
-4,21,21,21097,Terlano,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21097,21097,L108
-4,21,21,21098,Termeno sulla strada del vino,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21098,21098,L111
-4,21,21,21099,Tesimo,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21099,21099,L149
-4,21,21,21100,Tires,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21100,21100,L176
-4,21,21,21101,Tirolo,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21101,21101,L178
-4,21,21,21102,Trodena nel parco naturale,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21102,21102,L444
-4,21,21,21103,Tubre,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21103,21103,L455
-4,21,21,21104,Ultimo,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21104,21104,L490
-4,21,21,21105,Vadena,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21105,21105,L527
-4,21,21,21106,Valdaora,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21106,21106,L552
-4,21,21,21107,Val di Vizze,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21107,21107,L564
-4,21,21,21108,Valle Aurina,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21108,21108,L595
-4,21,21,21109,Valle di Casies,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21109,21109,L601
-4,21,21,21110,Vandoies,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21110,21110,L660
-4,21,21,21111,Varna,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21111,21111,L687
-4,21,21,21112,Verano,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21112,21112,L745
-4,21,21,21113,Villabassa,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21113,21113,L915
-4,21,21,21114,Villandro,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21114,21114,L971
-4,21,21,21115,Vipiteno,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21115,21115,M067
-4,21,21,21116,Velturno,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21116,21116,L724
-4,21,21,21117,La Valle,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21117,21117,E491
-4,21,21,21118,Senale-San Felice,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,2,0,BZ,21118,21118,I603
-4,22,22,22001,Ala,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22001,22001,A116
-4,22,22,22002,Albiano,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22002,22002,A158
-4,22,22,22003,Aldeno,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22003,22003,A178
-4,22,22,22005,Andalo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22005,22005,A274
-4,22,22,22006,Arco,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22006,22006,A372
-4,22,22,22007,Avio,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22007,22007,A520
-4,22,22,22009,Baselga di Pinè,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22009,22009,A694
-4,22,22,22011,Bedollo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22011,22011,A730
-4,22,22,22013,Besenello,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22013,22013,A821
-4,22,22,22015,Bieno,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22015,22015,A863
-4,22,22,22017,Bleggio Superiore,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22017,22017,A902
-4,22,22,22018,Bocenago,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22018,22018,A916
-4,22,22,22021,Bondone,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22021,22021,A968
-4,22,22,22022,Borgo Valsugana,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22022,22022,B006
-4,22,22,22025,Brentonico,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22025,22025,B153
-4,22,22,22026,Bresimo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22026,22026,B158
-4,22,22,22029,Caderzone Terme,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22029,22029,B335
-4,22,22,22032,Calceranica al Lago,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22032,22032,B389
-4,22,22,22033,Caldes,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22033,22033,B400
-4,22,22,22034,Caldonazzo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22034,22034,B404
-4,22,22,22035,Calliano,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22035,22035,B419
-4,22,22,22036,Campitello di Fassa,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22036,22036,B514
-4,22,22,22037,Campodenno,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22037,22037,B525
-4,22,22,22038,Canal San Bovo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22038,22038,B577
-4,22,22,22039,Canazei,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22039,22039,B579
-4,22,22,22040,Capriana,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22040,22040,B697
-4,22,22,22042,Carisolo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22042,22042,B783
-4,22,22,22043,Carzano,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22043,22043,B856
-4,22,22,22045,Castel Condino,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22045,22045,C183
-4,22,22,22047,Castello-Molina di Fiemme,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22047,22047,C189
-4,22,22,22048,Castello Tesino,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22048,22048,C194
-4,22,22,22049,Castelnuovo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22049,22049,C216
-4,22,22,22050,Cavalese,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22050,22050,C372
-4,22,22,22051,Cavareno,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22051,22051,C380
-4,22,22,22052,Cavedago,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22052,22052,C392
-4,22,22,22053,Cavedine,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22053,22053,C393
-4,22,22,22054,Cavizzana,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22054,22054,C400
-4,22,22,22058,Cimone,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22058,22058,C700
-4,22,22,22059,Cinte Tesino,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22059,22059,C712
-4,22,22,22060,Cis,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22060,22060,C727
-4,22,22,22061,Civezzano,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22061,22061,C756
-4,22,22,22062,Cles,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22062,22062,C794
-4,22,22,22064,Commezzadura,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22064,22064,C931
-4,22,22,22068,Croviana,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22068,22068,D188
-4,22,22,22071,Dambel,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22071,22071,D246
-4,22,22,22074,Denno,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22074,22074,D273
-4,22,22,22078,Drena,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22078,22078,D365
-4,22,22,22079,Dro,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22079,22079,D371
-4,22,22,22081,Fai della Paganella,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22081,22081,D468
-4,22,22,22083,Fiavè,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22083,22083,D565
-4,22,22,22085,Fierozzo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22085,22085,D573
-4,22,22,22087,Folgaria,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22087,22087,D651
-4,22,22,22089,Fornace,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22089,22089,D714
-4,22,22,22090,Frassilongo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22090,22090,D775
-4,22,22,22091,Garniga Terme,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22091,22091,D928
-4,22,22,22092,Giovo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22092,22092,E048
-4,22,22,22093,Giustino,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22093,22093,E065
-4,22,22,22095,Grigno,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22095,22095,E178
-4,22,22,22097,Imer,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22097,22097,E288
-4,22,22,22098,Isera,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22098,22098,E334
-4,22,22,22102,Lavarone,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22102,22102,E492
-4,22,22,22103,Lavis,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22103,22103,E500
-4,22,22,22104,Levico Terme,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22104,22104,E565
-4,22,22,22106,Livo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22106,22106,E624
-4,22,22,22108,Lona-Lases,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22108,22108,E664
-4,22,22,22109,Luserna,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22109,22109,E757
-4,22,22,22110,Malé,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22110,22110,E850
-4,22,22,22112,Massimeno,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22112,22112,F045
-4,22,22,22113,Mazzin,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22113,22113,F068
-4,22,22,22114,Mezzana,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22114,22114,F168
-4,22,22,22115,Mezzano,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22115,22115,F176
-4,22,22,22116,Mezzocorona,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22116,22116,F183
-4,22,22,22117,Mezzolombardo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22117,22117,F187
-4,22,22,22118,Moena,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22118,22118,F263
-4,22,22,22120,Molveno,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22120,22120,F307
-4,22,22,22123,Mori,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22123,22123,F728
-4,22,22,22124,Nago-Torbole,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22124,22124,F835
-4,22,22,22127,Nogaredo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22127,22127,F920
-4,22,22,22128,Nomi,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22128,22128,F929
-4,22,22,22129,Novaledo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22129,22129,F947
-4,22,22,22130,Ospedaletto,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22130,22130,G168
-4,22,22,22131,Ossana,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22131,22131,G173
-4,22,22,22133,Palù del Fersina,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22133,22133,G296
-4,22,22,22134,Panchià,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22134,22134,G305
-4,22,22,22135,Ronzo-Chienis,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22135,22135,M303
-4,22,22,22136,Peio,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22136,22136,G419
-4,22,22,22137,Pellizzano,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22137,22137,G428
-4,22,22,22138,Pelugo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22138,22138,G429
-4,22,22,22139,Pergine Valsugana,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22139,22139,G452
-4,22,22,22142,Pieve Tesino,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22142,22142,G656
-4,22,22,22143,Pinzolo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22143,22143,G681
-4,22,22,22144,Pomarolo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22144,22144,G808
-4,22,22,22147,Predazzo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22147,22147,H018
-4,22,22,22150,Rabbi,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22150,22150,H146
-4,22,22,22153,Riva del Garda,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22153,22153,H330
-4,22,22,22155,Romeno,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22155,22155,H517
-4,22,22,22156,Roncegno Terme,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22156,22156,H528
-4,22,22,22157,Ronchi Valsugana,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22157,22157,H532
-4,22,22,22159,Ronzone,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22159,22159,H552
-4,22,22,22160,Roverè della Luna,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22160,22160,H607
-4,22,22,22161,Rovereto,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22161,22161,H612
-4,22,22,22162,Ruffrè-Mendola,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22162,22162,H634
-4,22,22,22163,Rumo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22163,22163,H639
-4,22,22,22164,Sagron Mis,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22164,22164,H666
-4,22,22,22165,Samone,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22165,22165,H754
-4,22,22,22167,San Michele all'Adige,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22167,22167,I042
-4,22,22,22168,Sant'Orsola Terme,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22168,22168,I354
-4,22,22,22169,Sanzeno,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22169,22169,I411
-4,22,22,22170,Sarnonico,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22170,22170,I439
-4,22,22,22171,Scurelle,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22171,22171,I554
-4,22,22,22172,Segonzano,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22172,22172,I576
-4,22,22,22173,Sfruz,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22173,22173,I714
-4,22,22,22176,Soraga di Fassa,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22176,22176,I839
-4,22,22,22177,Sover,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22177,22177,I871
-4,22,22,22179,Spiazzo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22179,22179,I899
-4,22,22,22180,Spormaggiore,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22180,22180,I924
-4,22,22,22181,Sporminore,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22181,22181,I925
-4,22,22,22182,Stenico,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22182,22182,I949
-4,22,22,22183,Storo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22183,22183,I964
-4,22,22,22184,Strembo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22184,22184,I975
-4,22,22,22188,Telve,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22188,22188,L089
-4,22,22,22189,Telve di Sopra,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22189,22189,L090
-4,22,22,22190,Tenna,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22190,22190,L096
-4,22,22,22191,Tenno,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22191,22191,L097
-4,22,22,22193,Terragnolo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22193,22193,L121
-4,22,22,22195,Terzolas,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22195,22195,L145
-4,22,22,22196,Tesero,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22196,22196,L147
-4,22,22,22199,Tione di Trento,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22199,22199,L174
-4,22,22,22200,Ton,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22200,22200,L200
-4,22,22,22202,Torcegno,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22202,22202,L211
-4,22,22,22203,Trambileno,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22203,22203,L322
-4,22,22,22205,Trento,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,1,TN,22205,22205,L378
-4,22,22,22209,Valfloriana,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22209,22209,L575
-4,22,22,22210,Vallarsa,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22210,22210,L588
-4,22,22,22213,Vermiglio,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22213,22213,L769
-4,22,22,22216,Vignola-Falesina,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22216,22216,L886
-4,22,22,22222,Villa Lagarina,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22222,22222,L957
-4,22,22,22224,Volano,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22224,22224,M113
-4,22,22,22226,Ziano di Fiemme,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22226,22226,M173
-4,22,22,22228,Comano Terme,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22228,22228,M314
-4,22,22,22229,Ledro,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22229,22229,M313
-4,22,22,22230,Predaia,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22230,22230,M344
-4,22,22,22231,San Lorenzo Dorsino,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22231,22231,M345
-4,22,22,22232,Valdaone,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22232,22232,M343
-4,22,22,22233,Dimaro Folgarida,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22233,22233,M366
-4,22,22,22234,Pieve di Bono-Prezzo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22234,22234,M365
-4,22,22,22235,Altavalle,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22235,22235,M349
-4,22,22,22236,Altopiano della Vigolana,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22236,22236,M350
-4,22,22,22237,Amblar-Don,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22237,22237,M351
-4,22,22,22238,Borgo Chiese,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22238,22238,M352
-4,22,22,22239,Borgo Lares,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22239,22239,M353
-4,22,22,22240,Castel Ivano,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22240,22240,M354
-4,22,22,22241,Cembra Lisignago,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22241,22241,M355
-4,22,22,22242,Contà,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22242,22242,M356
-4,22,22,22243,Madruzzo,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22243,22243,M357
-4,22,22,22244,Porte di Rendena,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22244,22244,M358
-4,22,22,22245,Primiero San Martino di Castrozza,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22245,22245,M359
-4,22,22,22246,Sella Giudicarie,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22246,22246,M360
-4,22,22,22247,Tre Ville,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22247,22247,M361
-4,22,22,22248,Vallelaghi,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22248,22248,M362
-4,22,22,22249,Ville d'Anaunia,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22249,22249,M363
-4,22,22,22250,San Giovanni di Fassa,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22250,22250,M390
-4,22,22,22251,Terre d'Adige,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22251,22251,M407
-4,22,22,22252,Borgo d'Anaunia,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22252,22252,M429
-4,22,22,22253,Novella,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22253,22253,M430
-4,22,22,22254,Ville di Fiemme,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,2,0,TN,22254,22254,M431
+3,108,108,108001,Agrate Brianza,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108001,15003,A087
+3,108,108,108002,Aicurzio,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108002,15004,A096
+3,108,108,108003,Albiate,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108003,15006,A159
+3,108,108,108004,Arcore,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108004,15008,A376
+3,108,108,108005,Barlassina,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108005,15013,A668
+3,108,108,108006,Bellusco,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108006,15017,A759
+3,108,108,108007,Bernareggio,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108007,15018,A802
+3,108,108,108008,Besana in Brianza,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108008,15021,A818
+3,108,108,108009,Biassono,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108009,15023,A849
+3,108,108,108010,Bovisio-Masciago,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108010,15030,B105
+3,108,108,108011,Briosco,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108011,15033,B187
+3,108,108,108012,Brugherio,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108012,15034,B212
+3,108,108,108013,Burago di Molgora,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108013,15037,B272
+3,108,108,108014,Camparada,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108014,15045,B501
+3,108,108,108015,Carate Brianza,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108015,15048,B729
+3,108,108,108016,Carnate,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108016,15049,B798
+3,108,108,108017,Cavenago di Brianza,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108017,15068,C395
+3,108,108,108018,Ceriano Laghetto,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108018,15069,C512
+3,108,108,108019,Cesano Maderno,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108019,15075,C566
+3,108,108,108020,Cogliate,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108020,15080,C820
+3,108,108,108021,Concorezzo,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108021,15084,C952
+3,108,108,108022,Correzzana,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108022,15092,D038
+3,108,108,108023,Desio,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108023,15100,D286
+3,108,108,108024,Giussano,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108024,15107,E063
+3,108,108,108025,Lazzate,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108025,15117,E504
+3,108,108,108026,Lesmo,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108026,15120,E550
+3,108,108,108027,Limbiate,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108027,15121,E591
+3,108,108,108028,Lissone,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108028,15123,E617
+3,108,108,108029,Macherio,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108029,15129,E786
+3,108,108,108030,Meda,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108030,15138,F078
+3,108,108,108031,Mezzago,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108031,15145,F165
+3,108,108,108032,Misinto,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108032,15147,F247
+3,108,108,108033,Monza,1,Nord-ovest,Lombardia,Monza Brianza,1,1,MB,108033,15149,F704
+3,108,108,108034,MuggiÃ²,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108034,15152,F797
+3,108,108,108035,Nova Milanese,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108035,15156,F944
+3,108,108,108036,Ornago,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108036,15161,G116
+3,108,108,108037,Renate,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108037,15180,H233
+3,108,108,108038,Ronco Briantino,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108038,15187,H537
+3,108,108,108039,Seregno,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108039,15208,I625
+3,108,108,108040,Seveso,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108040,15212,I709
+3,108,108,108041,Sovico,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108041,15216,I878
+3,108,108,108042,Sulbiate,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108042,15217,I998
+3,108,108,108043,Triuggio,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108043,15223,L434
+3,108,108,108044,Usmate Velate,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108044,15227,L511
+3,108,108,108045,Varedo,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108045,15231,L677
+3,108,108,108046,Vedano al Lambro,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108046,15232,L704
+3,108,108,108047,Veduggio con Colzano,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108047,15233,L709
+3,108,108,108048,Verano Brianza,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108048,15234,L744
+3,108,108,108049,Villasanta,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108049,15239,M017
+3,108,108,108050,Vimercate,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108050,15241,M052
+3,108,108,108051,Busnago,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108051,15039,B289
+3,108,108,108052,Caponago,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108052,15047,B671
+3,108,108,108053,Cornate d'Adda,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108053,15088,D019
+3,108,108,108054,Lentate sul Seveso,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108054,15119,E530
+3,108,108,108055,Roncello,1,Nord-ovest,Lombardia,Monza Brianza,1,0,MB,108055,15186,H529
+4,21,21,21001,Aldino,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21001,21001,A179
+4,21,21,21002,Andriano,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21002,21002,A286
+4,21,21,21003,Anterivo,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21003,21003,A306
+4,21,21,21004,Appiano sulla strada del vino,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21004,21004,A332
+4,21,21,21005,Avelengo,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21005,21005,A507
+4,21,21,21006,Badia,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21006,21006,A537
+4,21,21,21007,Barbiano,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21007,21007,A635
+4,21,21,21008,Bolzano,2,Nord-est,Trentino-Alto Adige,Bolzano,2,1,BZ,21008,21008,A952
+4,21,21,21009,Braies,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21009,21009,B116
+4,21,21,21010,Brennero,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21010,21010,B145
+4,21,21,21011,Bressanone,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21011,21011,B160
+4,21,21,21012,Bronzolo,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21012,21012,B203
+4,21,21,21013,Brunico,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21013,21013,B220
+4,21,21,21014,Caines,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21014,21014,B364
+4,21,21,21015,Caldaro sulla strada del vino,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21015,21015,B397
+4,21,21,21016,Campo di Trens,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21016,21016,B529
+4,21,21,21017,Campo Tures,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21017,21017,B570
+4,21,21,21018,Castelbello-Ciardes,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21018,21018,C062
+4,21,21,21019,Castelrotto,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21019,21019,C254
+4,21,21,21020,Cermes,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21020,21020,A022
+4,21,21,21021,Chienes,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21021,21021,C625
+4,21,21,21022,Chiusa,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21022,21022,C652
+4,21,21,21023,Cornedo all'Isarco,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21023,21023,B799
+4,21,21,21024,Cortaccia sulla strada del vino,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21024,21024,D048
+4,21,21,21025,Cortina sulla strada del vino,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21025,21025,D075
+4,21,21,21026,Corvara in Badia,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21026,21026,D079
+4,21,21,21027,Curon Venosta,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21027,21027,D222
+4,21,21,21028,Dobbiaco,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21028,21028,D311
+4,21,21,21029,Egna,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21029,21029,D392
+4,21,21,21030,Falzes,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21030,21030,D484
+4,21,21,21031,FiÃ¨ allo Sciliar,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21031,21031,D571
+4,21,21,21032,Fortezza,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21032,21032,D731
+4,21,21,21033,Funes,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21033,21033,D821
+4,21,21,21034,Gais,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21034,21034,D860
+4,21,21,21035,Gargazzone,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21035,21035,D923
+4,21,21,21036,Glorenza,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21036,21036,E069
+4,21,21,21037,Laces,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21037,21037,E398
+4,21,21,21038,Lagundo,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21038,21038,E412
+4,21,21,21039,Laion,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21039,21039,E420
+4,21,21,21040,Laives,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21040,21040,E421
+4,21,21,21041,Lana,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21041,21041,E434
+4,21,21,21042,Lasa,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21042,21042,E457
+4,21,21,21043,Lauregno,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21043,21043,E481
+4,21,21,21044,Luson,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21044,21044,E764
+4,21,21,21045,MagrÃ¨ sulla strada del vino,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21045,21045,E829
+4,21,21,21046,Malles Venosta,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21046,21046,E862
+4,21,21,21047,Marebbe,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21047,21047,E938
+4,21,21,21048,Marlengo,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21048,21048,E959
+4,21,21,21049,Martello,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21049,21049,E981
+4,21,21,21050,Meltina,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21050,21050,F118
+4,21,21,21051,Merano,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21051,21051,F132
+4,21,21,21052,Monguelfo-Tesido,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21052,21052,F371
+4,21,21,21053,Montagna,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21053,21053,F392
+4,21,21,21054,Moso in Passiria,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21054,21054,F766
+4,21,21,21055,Nalles,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21055,21055,F836
+4,21,21,21056,Naturno,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21056,21056,F849
+4,21,21,21057,Naz-Sciaves,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21057,21057,F856
+4,21,21,21058,Nova Levante,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21058,21058,F949
+4,21,21,21059,Nova Ponente,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21059,21059,F950
+4,21,21,21060,Ora,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21060,21060,G083
+4,21,21,21061,Ortisei,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21061,21061,G140
+4,21,21,21062,Parcines,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21062,21062,G328
+4,21,21,21063,Perca,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21063,21063,G443
+4,21,21,21064,Plaus,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21064,21064,G299
+4,21,21,21065,Ponte Gardena,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21065,21065,G830
+4,21,21,21066,Postal,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21066,21066,G936
+4,21,21,21067,Prato allo Stelvio,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21067,21067,H004
+4,21,21,21068,Predoi,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21068,21068,H019
+4,21,21,21069,Proves,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21069,21069,H081
+4,21,21,21070,Racines,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21070,21070,H152
+4,21,21,21071,Rasun-Anterselva,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21071,21071,H189
+4,21,21,21072,Renon,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21072,21072,H236
+4,21,21,21073,Rifiano,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21073,21073,H284
+4,21,21,21074,Rio di Pusteria,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21074,21074,H299
+4,21,21,21075,Rodengo,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21075,21075,H475
+4,21,21,21076,Salorno sulla strada del vino,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21076,21076,H719
+4,21,21,21077,San Candido,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21077,21077,H786
+4,21,21,21079,San Genesio Atesino,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21079,21079,H858
+4,21,21,21080,San Leonardo in Passiria,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21080,21080,H952
+4,21,21,21081,San Lorenzo di Sebato,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21081,21081,H956
+4,21,21,21082,San Martino in Badia,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21082,21082,H988
+4,21,21,21083,San Martino in Passiria,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21083,21083,H989
+4,21,21,21084,San Pancrazio,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21084,21084,I065
+4,21,21,21085,Santa Cristina Valgardena,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21085,21085,I173
+4,21,21,21086,Sarentino,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21086,21086,I431
+4,21,21,21087,Scena,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21087,21087,I519
+4,21,21,21088,Selva dei Molini,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21088,21088,I593
+4,21,21,21089,Selva di Val Gardena,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21089,21089,I591
+4,21,21,21091,Senales,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21091,21091,I604
+4,21,21,21092,Sesto,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21092,21092,I687
+4,21,21,21093,Silandro,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21093,21093,I729
+4,21,21,21094,Sluderno,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21094,21094,I771
+4,21,21,21095,Stelvio,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21095,21095,I948
+4,21,21,21096,Terento,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21096,21096,L106
+4,21,21,21097,Terlano,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21097,21097,L108
+4,21,21,21098,Termeno sulla strada del vino,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21098,21098,L111
+4,21,21,21099,Tesimo,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21099,21099,L149
+4,21,21,21100,Tires,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21100,21100,L176
+4,21,21,21101,Tirolo,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21101,21101,L178
+4,21,21,21102,Trodena nel parco naturale,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21102,21102,L444
+4,21,21,21103,Tubre,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21103,21103,L455
+4,21,21,21104,Ultimo,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21104,21104,L490
+4,21,21,21105,Vadena,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21105,21105,L527
+4,21,21,21106,Valdaora,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21106,21106,L552
+4,21,21,21107,Val di Vizze,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21107,21107,L564
+4,21,21,21108,Valle Aurina,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21108,21108,L595
+4,21,21,21109,Valle di Casies,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21109,21109,L601
+4,21,21,21110,Vandoies,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21110,21110,L660
+4,21,21,21111,Varna,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21111,21111,L687
+4,21,21,21112,Verano,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21112,21112,L745
+4,21,21,21113,Villabassa,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21113,21113,L915
+4,21,21,21114,Villandro,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21114,21114,L971
+4,21,21,21115,Vipiteno,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21115,21115,M067
+4,21,21,21116,Velturno,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21116,21116,L724
+4,21,21,21117,La Valle,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21117,21117,E491
+4,21,21,21118,Senale-San Felice,2,Nord-est,Trentino-Alto Adige,Bolzano,2,0,BZ,21118,21118,I603
+4,22,22,22001,Ala,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22001,22001,A116
+4,22,22,22002,Albiano,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22002,22002,A158
+4,22,22,22003,Aldeno,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22003,22003,A178
+4,22,22,22005,Andalo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22005,22005,A274
+4,22,22,22006,Arco,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22006,22006,A372
+4,22,22,22007,Avio,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22007,22007,A520
+4,22,22,22009,Baselga di PinÃ¨,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22009,22009,A694
+4,22,22,22011,Bedollo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22011,22011,A730
+4,22,22,22013,Besenello,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22013,22013,A821
+4,22,22,22015,Bieno,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22015,22015,A863
+4,22,22,22017,Bleggio Superiore,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22017,22017,A902
+4,22,22,22018,Bocenago,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22018,22018,A916
+4,22,22,22021,Bondone,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22021,22021,A968
+4,22,22,22022,Borgo Valsugana,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22022,22022,B006
+4,22,22,22025,Brentonico,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22025,22025,B153
+4,22,22,22026,Bresimo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22026,22026,B158
+4,22,22,22029,Caderzone Terme,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22029,22029,B335
+4,22,22,22032,Calceranica al Lago,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22032,22032,B389
+4,22,22,22033,Caldes,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22033,22033,B400
+4,22,22,22034,Caldonazzo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22034,22034,B404
+4,22,22,22035,Calliano,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22035,22035,B419
+4,22,22,22036,Campitello di Fassa,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22036,22036,B514
+4,22,22,22037,Campodenno,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22037,22037,B525
+4,22,22,22038,Canal San Bovo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22038,22038,B577
+4,22,22,22039,Canazei,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22039,22039,B579
+4,22,22,22040,Capriana,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22040,22040,B697
+4,22,22,22042,Carisolo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22042,22042,B783
+4,22,22,22043,Carzano,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22043,22043,B856
+4,22,22,22045,Castel Condino,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22045,22045,C183
+4,22,22,22047,Castello-Molina di Fiemme,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22047,22047,C189
+4,22,22,22048,Castello Tesino,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22048,22048,C194
+4,22,22,22049,Castelnuovo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22049,22049,C216
+4,22,22,22050,Cavalese,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22050,22050,C372
+4,22,22,22051,Cavareno,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22051,22051,C380
+4,22,22,22052,Cavedago,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22052,22052,C392
+4,22,22,22053,Cavedine,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22053,22053,C393
+4,22,22,22054,Cavizzana,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22054,22054,C400
+4,22,22,22058,Cimone,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22058,22058,C700
+4,22,22,22059,Cinte Tesino,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22059,22059,C712
+4,22,22,22060,Cis,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22060,22060,C727
+4,22,22,22061,Civezzano,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22061,22061,C756
+4,22,22,22062,Cles,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22062,22062,C794
+4,22,22,22064,Commezzadura,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22064,22064,C931
+4,22,22,22068,Croviana,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22068,22068,D188
+4,22,22,22071,Dambel,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22071,22071,D246
+4,22,22,22074,Denno,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22074,22074,D273
+4,22,22,22078,Drena,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22078,22078,D365
+4,22,22,22079,Dro,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22079,22079,D371
+4,22,22,22081,Fai della Paganella,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22081,22081,D468
+4,22,22,22083,FiavÃ¨,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22083,22083,D565
+4,22,22,22085,Fierozzo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22085,22085,D573
+4,22,22,22087,Folgaria,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22087,22087,D651
+4,22,22,22089,Fornace,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22089,22089,D714
+4,22,22,22090,Frassilongo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22090,22090,D775
+4,22,22,22091,Garniga Terme,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22091,22091,D928
+4,22,22,22092,Giovo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22092,22092,E048
+4,22,22,22093,Giustino,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22093,22093,E065
+4,22,22,22095,Grigno,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22095,22095,E178
+4,22,22,22097,Imer,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22097,22097,E288
+4,22,22,22098,Isera,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22098,22098,E334
+4,22,22,22102,Lavarone,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22102,22102,E492
+4,22,22,22103,Lavis,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22103,22103,E500
+4,22,22,22104,Levico Terme,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22104,22104,E565
+4,22,22,22106,Livo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22106,22106,E624
+4,22,22,22108,Lona-Lases,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22108,22108,E664
+4,22,22,22109,Luserna,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22109,22109,E757
+4,22,22,22110,MalÃ©,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22110,22110,E850
+4,22,22,22112,Massimeno,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22112,22112,F045
+4,22,22,22113,Mazzin,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22113,22113,F068
+4,22,22,22114,Mezzana,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22114,22114,F168
+4,22,22,22115,Mezzano,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22115,22115,F176
+4,22,22,22116,Mezzocorona,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22116,22116,F183
+4,22,22,22117,Mezzolombardo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22117,22117,F187
+4,22,22,22118,Moena,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22118,22118,F263
+4,22,22,22120,Molveno,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22120,22120,F307
+4,22,22,22123,Mori,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22123,22123,F728
+4,22,22,22124,Nago-Torbole,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22124,22124,F835
+4,22,22,22127,Nogaredo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22127,22127,F920
+4,22,22,22128,Nomi,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22128,22128,F929
+4,22,22,22129,Novaledo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22129,22129,F947
+4,22,22,22130,Ospedaletto,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22130,22130,G168
+4,22,22,22131,Ossana,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22131,22131,G173
+4,22,22,22133,PalÃ¹ del Fersina,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22133,22133,G296
+4,22,22,22134,PanchiÃ ,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22134,22134,G305
+4,22,22,22135,Ronzo-Chienis,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22135,22135,M303
+4,22,22,22136,Peio,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22136,22136,G419
+4,22,22,22137,Pellizzano,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22137,22137,G428
+4,22,22,22138,Pelugo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22138,22138,G429
+4,22,22,22139,Pergine Valsugana,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22139,22139,G452
+4,22,22,22142,Pieve Tesino,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22142,22142,G656
+4,22,22,22143,Pinzolo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22143,22143,G681
+4,22,22,22144,Pomarolo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22144,22144,G808
+4,22,22,22147,Predazzo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22147,22147,H018
+4,22,22,22150,Rabbi,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22150,22150,H146
+4,22,22,22153,Riva del Garda,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22153,22153,H330
+4,22,22,22155,Romeno,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22155,22155,H517
+4,22,22,22156,Roncegno Terme,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22156,22156,H528
+4,22,22,22157,Ronchi Valsugana,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22157,22157,H532
+4,22,22,22159,Ronzone,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22159,22159,H552
+4,22,22,22160,RoverÃ¨ della Luna,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22160,22160,H607
+4,22,22,22161,Rovereto,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22161,22161,H612
+4,22,22,22162,RuffrÃ¨-Mendola,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22162,22162,H634
+4,22,22,22163,Rumo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22163,22163,H639
+4,22,22,22164,Sagron Mis,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22164,22164,H666
+4,22,22,22165,Samone,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22165,22165,H754
+4,22,22,22167,San Michele all'Adige,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22167,22167,I042
+4,22,22,22168,Sant'Orsola Terme,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22168,22168,I354
+4,22,22,22169,Sanzeno,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22169,22169,I411
+4,22,22,22170,Sarnonico,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22170,22170,I439
+4,22,22,22171,Scurelle,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22171,22171,I554
+4,22,22,22172,Segonzano,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22172,22172,I576
+4,22,22,22173,Sfruz,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22173,22173,I714
+4,22,22,22176,Soraga di Fassa,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22176,22176,I839
+4,22,22,22177,Sover,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22177,22177,I871
+4,22,22,22179,Spiazzo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22179,22179,I899
+4,22,22,22180,Spormaggiore,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22180,22180,I924
+4,22,22,22181,Sporminore,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22181,22181,I925
+4,22,22,22182,Stenico,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22182,22182,I949
+4,22,22,22183,Storo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22183,22183,I964
+4,22,22,22184,Strembo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22184,22184,I975
+4,22,22,22188,Telve,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22188,22188,L089
+4,22,22,22189,Telve di Sopra,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22189,22189,L090
+4,22,22,22190,Tenna,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22190,22190,L096
+4,22,22,22191,Tenno,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22191,22191,L097
+4,22,22,22193,Terragnolo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22193,22193,L121
+4,22,22,22195,Terzolas,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22195,22195,L145
+4,22,22,22196,Tesero,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22196,22196,L147
+4,22,22,22199,Tione di Trento,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22199,22199,L174
+4,22,22,22200,Ton,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22200,22200,L200
+4,22,22,22202,Torcegno,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22202,22202,L211
+4,22,22,22203,Trambileno,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22203,22203,L322
+4,22,22,22205,Trento,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,1,TN,22205,22205,L378
+4,22,22,22209,Valfloriana,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22209,22209,L575
+4,22,22,22210,Vallarsa,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22210,22210,L588
+4,22,22,22213,Vermiglio,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22213,22213,L769
+4,22,22,22216,Vignola-Falesina,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22216,22216,L886
+4,22,22,22222,Villa Lagarina,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22222,22222,L957
+4,22,22,22224,Volano,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22224,22224,M113
+4,22,22,22226,Ziano di Fiemme,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22226,22226,M173
+4,22,22,22228,Comano Terme,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22228,22228,M314
+4,22,22,22229,Ledro,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22229,22229,M313
+4,22,22,22230,Predaia,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22230,22230,M344
+4,22,22,22231,San Lorenzo Dorsino,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22231,22231,M345
+4,22,22,22232,Valdaone,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22232,22232,M343
+4,22,22,22233,Dimaro Folgarida,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22233,22233,M366
+4,22,22,22234,Pieve di Bono-Prezzo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22234,22234,M365
+4,22,22,22235,Altavalle,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22235,22235,M349
+4,22,22,22236,Altopiano della Vigolana,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22236,22236,M350
+4,22,22,22237,Amblar-Don,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22237,22237,M351
+4,22,22,22238,Borgo Chiese,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22238,22238,M352
+4,22,22,22239,Borgo Lares,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22239,22239,M353
+4,22,22,22240,Castel Ivano,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22240,22240,M354
+4,22,22,22241,Cembra Lisignago,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22241,22241,M355
+4,22,22,22242,ContÃ ,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22242,22242,M356
+4,22,22,22243,Madruzzo,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22243,22243,M357
+4,22,22,22244,Porte di Rendena,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22244,22244,M358
+4,22,22,22245,Primiero San Martino di Castrozza,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22245,22245,M359
+4,22,22,22246,Sella Giudicarie,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22246,22246,M360
+4,22,22,22247,Tre Ville,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22247,22247,M361
+4,22,22,22248,Vallelaghi,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22248,22248,M362
+4,22,22,22249,Ville d'Anaunia,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22249,22249,M363
+4,22,22,22250,San Giovanni di Fassa,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22250,22250,M390
+4,22,22,22251,Terre d'Adige,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22251,22251,M407
+4,22,22,22252,Borgo d'Anaunia,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22252,22252,M429
+4,22,22,22253,Novella,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22253,22253,M430
+4,22,22,22254,Ville di Fiemme,2,Nord-est,Trentino-Alto Adige/SÃ¼dtirol,Trento,2,0,TN,22254,22254,M431
 5,23,23,23001,Affi,2,Nord-est,Veneto,Verona,1,0,VR,23001,23001,A061
 5,23,23,23002,Albaredo d'Adige,2,Nord-est,Veneto,Verona,1,0,VR,23002,23002,A137
 5,23,23,23003,Angiari,2,Nord-est,Veneto,Verona,1,0,VR,23003,23003,A292
@@ -3072,8 +3072,8 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 5,23,23,23028,Colognola ai Colli,2,Nord-est,Veneto,Verona,1,0,VR,23028,23028,C897
 5,23,23,23029,Concamarise,2,Nord-est,Veneto,Verona,1,0,VR,23029,23029,C943
 5,23,23,23030,Costermano sul Garda,2,Nord-est,Veneto,Verona,1,0,VR,23030,23030,D118
-5,23,23,23031,Dolcè,2,Nord-est,Veneto,Verona,1,0,VR,23031,23031,D317
-5,23,23,23032,Erbè,2,Nord-est,Veneto,Verona,1,0,VR,23032,23032,D419
+5,23,23,23031,DolcÃ¨,2,Nord-est,Veneto,Verona,1,0,VR,23031,23031,D317
+5,23,23,23032,ErbÃ¨,2,Nord-est,Veneto,Verona,1,0,VR,23032,23032,D419
 5,23,23,23033,Erbezzo,2,Nord-est,Veneto,Verona,1,0,VR,23033,23033,D420
 5,23,23,23034,Ferrara di Monte Baldo,2,Nord-est,Veneto,Verona,1,0,VR,23034,23034,D549
 5,23,23,23035,Fumane,2,Nord-est,Veneto,Verona,1,0,VR,23035,23035,D818
@@ -3097,18 +3097,18 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 5,23,23,23053,Nogara,2,Nord-est,Veneto,Verona,1,0,VR,23053,23053,F918
 5,23,23,23054,Nogarole Rocca,2,Nord-est,Veneto,Verona,1,0,VR,23054,23054,F921
 5,23,23,23055,Oppeano,2,Nord-est,Veneto,Verona,1,0,VR,23055,23055,G080
-5,23,23,23056,Palù,2,Nord-est,Veneto,Verona,1,0,VR,23056,23056,G297
+5,23,23,23056,PalÃ¹,2,Nord-est,Veneto,Verona,1,0,VR,23056,23056,G297
 5,23,23,23057,Pastrengo,2,Nord-est,Veneto,Verona,1,0,VR,23057,23057,G365
 5,23,23,23058,Pescantina,2,Nord-est,Veneto,Verona,1,0,VR,23058,23058,G481
 5,23,23,23059,Peschiera del Garda,2,Nord-est,Veneto,Verona,1,0,VR,23059,23059,G489
 5,23,23,23060,Povegliano Veronese,2,Nord-est,Veneto,Verona,1,0,VR,23060,23060,G945
 5,23,23,23061,Pressana,2,Nord-est,Veneto,Verona,1,0,VR,23061,23061,H048
 5,23,23,23062,Rivoli Veronese,2,Nord-est,Veneto,Verona,1,0,VR,23062,23062,H356
-5,23,23,23063,Roncà,2,Nord-est,Veneto,Verona,1,0,VR,23063,23063,H522
+5,23,23,23063,RoncÃ ,2,Nord-est,Veneto,Verona,1,0,VR,23063,23063,H522
 5,23,23,23064,Ronco all'Adige,2,Nord-est,Veneto,Verona,1,0,VR,23064,23064,H540
 5,23,23,23065,Roverchiara,2,Nord-est,Veneto,Verona,1,0,VR,23065,23065,H606
-5,23,23,23066,Roveredo di Guà,2,Nord-est,Veneto,Verona,1,0,VR,23066,23066,H610
-5,23,23,23067,Roverè Veronese,2,Nord-est,Veneto,Verona,1,0,VR,23067,23067,H608
+5,23,23,23066,Roveredo di GuÃ ,2,Nord-est,Veneto,Verona,1,0,VR,23066,23066,H610
+5,23,23,23067,RoverÃ¨ Veronese,2,Nord-est,Veneto,Verona,1,0,VR,23067,23067,H608
 5,23,23,23068,Salizzole,2,Nord-est,Veneto,Verona,1,0,VR,23068,23068,H714
 5,23,23,23069,San Bonifacio,2,Nord-est,Veneto,Verona,1,0,VR,23069,23069,H783
 5,23,23,23070,San Giovanni Ilarione,2,Nord-est,Veneto,Verona,1,0,VR,23070,23070,H916
@@ -3125,7 +3125,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 5,23,23,23081,Soave,2,Nord-est,Veneto,Verona,1,0,VR,23081,23081,I775
 5,23,23,23082,Sommacampagna,2,Nord-est,Veneto,Verona,1,0,VR,23082,23082,I821
 5,23,23,23083,Sona,2,Nord-est,Veneto,Verona,1,0,VR,23083,23083,I826
-5,23,23,23084,Sorgà,2,Nord-est,Veneto,Verona,1,0,VR,23084,23084,I850
+5,23,23,23084,SorgÃ ,2,Nord-est,Veneto,Verona,1,0,VR,23084,23084,I850
 5,23,23,23085,Terrazzo,2,Nord-est,Veneto,Verona,1,0,VR,23085,23085,L136
 5,23,23,23086,Torri del Benaco,2,Nord-est,Veneto,Verona,1,0,VR,23086,23086,L287
 5,23,23,23087,Tregnago,2,Nord-est,Veneto,Verona,1,0,VR,23087,23087,L364
@@ -3161,7 +3161,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 5,24,24,24020,Calvene,2,Nord-est,Veneto,Vicenza,1,0,VI,24020,24020,B441
 5,24,24,24021,Camisano Vicentino,2,Nord-est,Veneto,Vicenza,1,0,VI,24021,24021,B485
 5,24,24,24022,Campiglia dei Berici,2,Nord-est,Veneto,Vicenza,1,0,VI,24022,24022,B511
-5,24,24,24024,Carrè,2,Nord-est,Veneto,Vicenza,1,0,VI,24024,24024,B835
+5,24,24,24024,CarrÃ¨,2,Nord-est,Veneto,Vicenza,1,0,VI,24024,24024,B835
 5,24,24,24025,Cartigliano,2,Nord-est,Veneto,Vicenza,1,0,VI,24025,24025,B844
 5,24,24,24026,Cassola,2,Nord-est,Veneto,Vicenza,1,0,VI,24026,24026,C037
 5,24,24,24027,Castegnero,2,Nord-est,Veneto,Vicenza,1,0,VI,24027,24027,C056
@@ -3217,7 +3217,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 5,24,24,24084,Recoaro Terme,2,Nord-est,Veneto,Vicenza,1,0,VI,24084,24084,H214
 5,24,24,24085,Roana,2,Nord-est,Veneto,Vicenza,1,0,VI,24085,24085,H361
 5,24,24,24086,Romano d'Ezzelino,2,Nord-est,Veneto,Vicenza,1,0,VI,24086,24086,H512
-5,24,24,24087,Rosà,2,Nord-est,Veneto,Vicenza,1,0,VI,24087,24087,H556
+5,24,24,24087,RosÃ ,2,Nord-est,Veneto,Vicenza,1,0,VI,24087,24087,H556
 5,24,24,24088,Rossano Veneto,2,Nord-est,Veneto,Vicenza,1,0,VI,24088,24088,H580
 5,24,24,24089,Rotzo,2,Nord-est,Veneto,Vicenza,1,0,VI,24089,24089,H594
 5,24,24,24090,Salcedo,2,Nord-est,Veneto,Vicenza,1,0,VI,24090,24090,F810
@@ -3245,7 +3245,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 5,24,24,24116,Vicenza,2,Nord-est,Veneto,Vicenza,1,1,VI,24116,24116,L840
 5,24,24,24117,Villaga,2,Nord-est,Veneto,Vicenza,1,0,VI,24117,24117,L952
 5,24,24,24118,Villaverla,2,Nord-est,Veneto,Vicenza,1,0,VI,24118,24118,M032
-5,24,24,24119,Zanè,2,Nord-est,Veneto,Vicenza,1,0,VI,24119,24119,M145
+5,24,24,24119,ZanÃ¨,2,Nord-est,Veneto,Vicenza,1,0,VI,24119,24119,M145
 5,24,24,24120,Zermeghedo,2,Nord-est,Veneto,Vicenza,1,0,VI,24120,24120,M170
 5,24,24,24121,Zovencedo,2,Nord-est,Veneto,Vicenza,1,0,VI,24121,24121,M194
 5,24,24,24122,Zugliano,2,Nord-est,Veneto,Vicenza,1,0,VI,24122,24122,M199
@@ -3257,7 +3257,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 5,25,25,25001,Agordo,2,Nord-est,Veneto,Belluno,1,0,BL,25001,25001,A083
 5,25,25,25002,Alano di Piave,2,Nord-est,Veneto,Belluno,1,0,BL,25002,25002,A121
 5,25,25,25003,Alleghe,2,Nord-est,Veneto,Belluno,1,0,BL,25003,25003,A206
-5,25,25,25004,Arsiè,2,Nord-est,Veneto,Belluno,1,0,BL,25004,25004,A443
+5,25,25,25004,ArsiÃ¨,2,Nord-est,Veneto,Belluno,1,0,BL,25004,25004,A443
 5,25,25,25005,Auronzo di Cadore,2,Nord-est,Veneto,Belluno,1,0,BL,25005,25005,A501
 5,25,25,25006,Belluno,2,Nord-est,Veneto,Belluno,1,1,BL,25006,25006,A757
 5,25,25,25007,Borca di Cadore,2,Nord-est,Veneto,Belluno,1,0,BL,25007,25007,A982
@@ -3290,7 +3290,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 5,25,25,25043,Rivamonte Agordino,2,Nord-est,Veneto,Belluno,1,0,BL,25043,25043,H327
 5,25,25,25044,Rocca Pietore,2,Nord-est,Veneto,Belluno,1,0,BL,25044,25044,H379
 5,25,25,25045,San Gregorio nelle Alpi,2,Nord-est,Veneto,Belluno,1,0,BL,25045,25045,H938
-5,25,25,25046,San Nicolò di Comelico,2,Nord-est,Veneto,Belluno,1,0,BL,25046,25046,I063
+5,25,25,25046,San NicolÃ² di Comelico,2,Nord-est,Veneto,Belluno,1,0,BL,25046,25046,I063
 5,25,25,25047,San Pietro di Cadore,2,Nord-est,Veneto,Belluno,1,0,BL,25047,25047,I088
 5,25,25,25048,Santa Giustina,2,Nord-est,Veneto,Belluno,1,0,BL,25048,25048,I206
 5,25,25,25049,San Tomaso Agordino,2,Nord-est,Veneto,Belluno,1,0,BL,25049,25049,I347
@@ -3309,7 +3309,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 5,25,25,25065,Vigo di Cadore,2,Nord-est,Veneto,Belluno,1,0,BL,25065,25065,L890
 5,25,25,25066,Vodo Cadore,2,Nord-est,Veneto,Belluno,1,0,BL,25066,25066,M108
 5,25,25,25067,Voltago Agordino,2,Nord-est,Veneto,Belluno,1,0,BL,25067,25067,M124
-5,25,25,25069,Zoppè di Cadore,2,Nord-est,Veneto,Belluno,1,0,BL,25069,25069,M189
+5,25,25,25069,ZoppÃ¨ di Cadore,2,Nord-est,Veneto,Belluno,1,0,BL,25069,25069,M189
 5,25,25,25070,Quero Vas,2,Nord-est,Veneto,Belluno,1,0,BL,25070,25070,M332
 5,25,25,25071,Longarone,2,Nord-est,Veneto,Belluno,1,0,BL,25071,25071,M342
 5,25,25,25072,Alpago,2,Nord-est,Veneto,Belluno,1,0,BL,25072,25072,M375
@@ -3333,7 +3333,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 5,26,26,26016,Chiarano,2,Nord-est,Veneto,Treviso,1,0,TV,26016,26016,C614
 5,26,26,26017,Cimadolmo,2,Nord-est,Veneto,Treviso,1,0,TV,26017,26017,C689
 5,26,26,26018,Cison di Valmarino,2,Nord-est,Veneto,Treviso,1,0,TV,26018,26018,C735
-5,26,26,26019,Codognè,2,Nord-est,Veneto,Treviso,1,0,TV,26019,26019,C815
+5,26,26,26019,CodognÃ¨,2,Nord-est,Veneto,Treviso,1,0,TV,26019,26019,C815
 5,26,26,26020,Colle Umberto,2,Nord-est,Veneto,Treviso,1,0,TV,26020,26020,C848
 5,26,26,26021,Conegliano,2,Nord-est,Veneto,Treviso,1,0,TV,26021,26021,C957
 5,26,26,26022,Cordignano,2,Nord-est,Veneto,Treviso,1,0,TV,26022,26022,C992
@@ -3350,7 +3350,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 5,26,26,26034,Gorgo al Monticano,2,Nord-est,Veneto,Treviso,1,0,TV,26034,26034,E092
 5,26,26,26035,Istrana,2,Nord-est,Veneto,Treviso,1,0,TV,26035,26035,E373
 5,26,26,26036,Loria,2,Nord-est,Veneto,Treviso,1,0,TV,26036,26036,E692
-5,26,26,26037,Mansuè,2,Nord-est,Veneto,Treviso,1,0,TV,26037,26037,E893
+5,26,26,26037,MansuÃ¨,2,Nord-est,Veneto,Treviso,1,0,TV,26037,26037,E893
 5,26,26,26038,Mareno di Piave,2,Nord-est,Veneto,Treviso,1,0,TV,26038,26038,E940
 5,26,26,26039,Maser,2,Nord-est,Veneto,Treviso,1,0,TV,26039,26039,F009
 5,26,26,26040,Maserada sul Piave,2,Nord-est,Veneto,Treviso,1,0,TV,26040,26040,F012
@@ -3372,7 +3372,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 5,26,26,26057,Pieve di Soligo,2,Nord-est,Veneto,Treviso,1,0,TV,26057,26057,G645
 5,26,26,26058,Ponte di Piave,2,Nord-est,Veneto,Treviso,1,0,TV,26058,26058,G846
 5,26,26,26059,Ponzano Veneto,2,Nord-est,Veneto,Treviso,1,0,TV,26059,26059,G875
-5,26,26,26060,Portobuffolè,2,Nord-est,Veneto,Treviso,1,0,TV,26060,26060,G909
+5,26,26,26060,PortobuffolÃ¨,2,Nord-est,Veneto,Treviso,1,0,TV,26060,26060,G909
 5,26,26,26061,Possagno,2,Nord-est,Veneto,Treviso,1,0,TV,26061,26061,G933
 5,26,26,26062,Povegliano,2,Nord-est,Veneto,Treviso,1,0,TV,26062,26062,G944
 5,26,26,26063,Preganziol,2,Nord-est,Veneto,Treviso,1,0,TV,26063,26063,H022
@@ -3425,7 +3425,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 5,227,27,27014,Fiesso d'Artico,2,Nord-est,Veneto,Venezia,3,0,VE,27014,27014,D578
 5,227,27,27015,Fossalta di Piave,2,Nord-est,Veneto,Venezia,3,0,VE,27015,27015,D740
 5,227,27,27016,Fossalta di Portogruaro,2,Nord-est,Veneto,Venezia,3,0,VE,27016,27016,D741
-5,227,27,27017,Fossò,2,Nord-est,Veneto,Venezia,3,0,VE,27017,27017,D748
+5,227,27,27017,FossÃ²,2,Nord-est,Veneto,Venezia,3,0,VE,27017,27017,D748
 5,227,27,27018,Gruaro,2,Nord-est,Veneto,Venezia,3,0,VE,27018,27018,E215
 5,227,27,27019,Jesolo,2,Nord-est,Veneto,Venezia,3,0,VE,27019,27019,C388
 5,227,27,27020,Marcon,2,Nord-est,Veneto,Venezia,3,0,VE,27020,27020,E936
@@ -3441,11 +3441,11 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 5,227,27,27030,Pramaggiore,2,Nord-est,Veneto,Venezia,3,0,VE,27030,27030,G981
 5,227,27,27031,Quarto d'Altino,2,Nord-est,Veneto,Venezia,3,0,VE,27031,27031,H117
 5,227,27,27032,Salzano,2,Nord-est,Veneto,Venezia,3,0,VE,27032,27032,H735
-5,227,27,27033,San Donà di Piave,2,Nord-est,Veneto,Venezia,3,0,VE,27033,27033,H823
+5,227,27,27033,San DonÃ  di Piave,2,Nord-est,Veneto,Venezia,3,0,VE,27033,27033,H823
 5,227,27,27034,San Michele al Tagliamento,2,Nord-est,Veneto,Venezia,3,0,VE,27034,27034,I040
 5,227,27,27035,Santa Maria di Sala,2,Nord-est,Veneto,Venezia,3,0,VE,27035,27035,I242
 5,227,27,27036,San Stino di Livenza,2,Nord-est,Veneto,Venezia,3,0,VE,27036,27036,I373
-5,227,27,27037,Scorzè,2,Nord-est,Veneto,Venezia,3,0,VE,27037,27037,I551
+5,227,27,27037,ScorzÃ¨,2,Nord-est,Veneto,Venezia,3,0,VE,27037,27037,I551
 5,227,27,27038,Spinea,2,Nord-est,Veneto,Venezia,3,0,VE,27038,27038,I908
 5,227,27,27039,Stra,2,Nord-est,Veneto,Venezia,3,0,VE,27039,27039,I965
 5,227,27,27040,Teglio Veneto,2,Nord-est,Veneto,Venezia,3,0,VE,27040,27040,L085
@@ -3457,7 +3457,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 5,28,28,28002,Agna,2,Nord-est,Veneto,Padova,1,0,PD,28002,28002,A075
 5,28,28,28003,Albignasego,2,Nord-est,Veneto,Padova,1,0,PD,28003,28003,A161
 5,28,28,28004,Anguillara Veneta,2,Nord-est,Veneto,Padova,1,0,PD,28004,28004,A296
-5,28,28,28005,Arquà Petrarca,2,Nord-est,Veneto,Padova,1,0,PD,28005,28005,A434
+5,28,28,28005,ArquÃ  Petrarca,2,Nord-est,Veneto,Padova,1,0,PD,28005,28005,A434
 5,28,28,28006,Arre,2,Nord-est,Veneto,Padova,1,0,PD,28006,28006,A438
 5,28,28,28007,Arzergrande,2,Nord-est,Veneto,Padova,1,0,PD,28007,28007,A458
 5,28,28,28008,Bagnoli di Sopra,2,Nord-est,Veneto,Padova,1,0,PD,28008,28008,A568
@@ -3498,7 +3498,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 5,28,28,28045,Limena,2,Nord-est,Veneto,Padova,1,0,PD,28045,28045,E592
 5,28,28,28046,Loreggia,2,Nord-est,Veneto,Padova,1,0,PD,28046,28046,E684
 5,28,28,28047,Lozzo Atestino,2,Nord-est,Veneto,Padova,1,0,PD,28047,28047,E709
-5,28,28,28048,Maserà di Padova,2,Nord-est,Veneto,Padova,1,0,PD,28048,28048,F011
+5,28,28,28048,MaserÃ  di Padova,2,Nord-est,Veneto,Padova,1,0,PD,28048,28048,F011
 5,28,28,28049,Masi,2,Nord-est,Veneto,Padova,1,0,PD,28049,28049,F013
 5,28,28,28050,Massanzago,2,Nord-est,Veneto,Padova,1,0,PD,28050,28050,F033
 5,28,28,28052,Megliadino San Vitale,2,Nord-est,Veneto,Padova,1,0,PD,28052,28052,F092
@@ -3518,7 +3518,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 5,28,28,28066,Polverara,2,Nord-est,Veneto,Padova,1,0,PD,28066,28066,G802
 5,28,28,28067,Ponso,2,Nord-est,Veneto,Padova,1,0,PD,28067,28067,G823
 5,28,28,28068,Pontelongo,2,Nord-est,Veneto,Padova,1,0,PD,28068,28068,G850
-5,28,28,28069,Ponte San Nicolò,2,Nord-est,Veneto,Padova,1,0,PD,28069,28069,G855
+5,28,28,28069,Ponte San NicolÃ²,2,Nord-est,Veneto,Padova,1,0,PD,28069,28069,G855
 5,28,28,28070,Pozzonovo,2,Nord-est,Veneto,Padova,1,0,PD,28070,28070,G963
 5,28,28,28071,Rovolon,2,Nord-est,Veneto,Padova,1,0,PD,28071,28071,H622
 5,28,28,28072,Rubano,2,Nord-est,Veneto,Padova,1,0,PD,28072,28072,H625
@@ -3557,7 +3557,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 5,28,28,28107,Borgo Veneto,2,Nord-est,Veneto,Padova,1,0,PD,28107,28107,M402
 5,29,29,29001,Adria,2,Nord-est,Veneto,Rovigo,1,0,RO,29001,29001,A059
 5,29,29,29002,Ariano nel Polesine,2,Nord-est,Veneto,Rovigo,1,0,RO,29002,29002,A400
-5,29,29,29003,Arquà Polesine,2,Nord-est,Veneto,Rovigo,1,0,RO,29003,29003,A435
+5,29,29,29003,ArquÃ  Polesine,2,Nord-est,Veneto,Rovigo,1,0,RO,29003,29003,A435
 5,29,29,29004,Badia Polesine,2,Nord-est,Veneto,Rovigo,1,0,RO,29004,29004,A539
 5,29,29,29005,Bagnolo di Po,2,Nord-est,Veneto,Rovigo,1,0,RO,29005,29005,A574
 5,29,29,29006,Bergantino,2,Nord-est,Veneto,Rovigo,1,0,RO,29006,29006,A795
@@ -3741,7 +3741,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 6,30,30,30191,Treppo Ligosullo,2,Nord-est,Friuli-Venezia Giulia,Udine,5,0,UD,30191,30191,M399
 6,31,31,31001,Capriva del Friuli,2,Nord-est,Friuli-Venezia Giulia,Gorizia,5,0,GO,31001,31001,B712
 6,31,31,31002,Cormons,2,Nord-est,Friuli-Venezia Giulia,Gorizia,5,0,GO,31002,31002,D014
-6,31,31,31003,Doberdò del Lago,2,Nord-est,Friuli-Venezia Giulia,Gorizia,5,0,GO,31003,31003,D312
+6,31,31,31003,DoberdÃ² del Lago,2,Nord-est,Friuli-Venezia Giulia,Gorizia,5,0,GO,31003,31003,D312
 6,31,31,31004,Dolegna del Collio,2,Nord-est,Friuli-Venezia Giulia,Gorizia,5,0,GO,31004,31004,D321
 6,31,31,31005,Farra d'Isonzo,2,Nord-est,Friuli-Venezia Giulia,Gorizia,5,0,GO,31005,31005,D504
 6,31,31,31006,Fogliano Redipuglia,2,Nord-est,Friuli-Venezia Giulia,Gorizia,5,0,GO,31006,31006,D645
@@ -3864,7 +3864,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 7,8,8,8044,Pompeiana,1,Nord-ovest,Liguria,Imperia,1,0,IM,8044,8044,G814
 7,8,8,8045,Pontedassio,1,Nord-ovest,Liguria,Imperia,1,0,IM,8045,8045,G840
 7,8,8,8046,Pornassio,1,Nord-ovest,Liguria,Imperia,1,0,IM,8046,8046,G890
-7,8,8,8047,Prelà,1,Nord-ovest,Liguria,Imperia,1,0,IM,8047,8047,H027
+7,8,8,8047,PrelÃ ,1,Nord-ovest,Liguria,Imperia,1,0,IM,8047,8047,H027
 7,8,8,8048,Ranzo,1,Nord-ovest,Liguria,Imperia,1,0,IM,8048,8048,H180
 7,8,8,8049,Rezzo,1,Nord-ovest,Liguria,Imperia,1,0,IM,8049,8049,H257
 7,8,8,8050,Riva Ligure,1,Nord-ovest,Liguria,Imperia,1,0,IM,8050,8050,H328
@@ -4012,7 +4012,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 7,210,10,10055,Sant'Olcese,1,Nord-ovest,Liguria,Genova,3,0,GE,10055,10055,I346
 7,210,10,10056,Santo Stefano d'Aveto,1,Nord-ovest,Liguria,Genova,3,0,GE,10056,10056,I368
 7,210,10,10057,Savignone,1,Nord-ovest,Liguria,Genova,3,0,GE,10057,10057,I475
-7,210,10,10058,Serra Riccò,1,Nord-ovest,Liguria,Genova,3,0,GE,10058,10058,I640
+7,210,10,10058,Serra RiccÃ²,1,Nord-ovest,Liguria,Genova,3,0,GE,10058,10058,I640
 7,210,10,10059,Sestri Levante,1,Nord-ovest,Liguria,Genova,3,0,GE,10059,10059,I693
 7,210,10,10060,Sori,1,Nord-ovest,Liguria,Genova,3,0,GE,10060,10060,I852
 7,210,10,10061,Tiglieto,1,Nord-ovest,Liguria,Genova,3,0,GE,10061,10061,L167
@@ -4044,7 +4044,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 7,11,11,11020,Luni,1,Nord-ovest,Liguria,La Spezia,1,0,SP,11020,11020,G143
 7,11,11,11021,Pignone,1,Nord-ovest,Liguria,La Spezia,1,0,SP,11021,11021,G664
 7,11,11,11022,Portovenere,1,Nord-ovest,Liguria,La Spezia,1,0,SP,11022,11022,G925
-7,11,11,11023,Riccò del Golfo di Spezia,1,Nord-ovest,Liguria,La Spezia,1,0,SP,11023,11023,H275
+7,11,11,11023,RiccÃ² del Golfo di Spezia,1,Nord-ovest,Liguria,La Spezia,1,0,SP,11023,11023,H275
 7,11,11,11024,Riomaggiore,1,Nord-ovest,Liguria,La Spezia,1,0,SP,11024,11024,H304
 7,11,11,11025,Rocchetta di Vara,1,Nord-ovest,Liguria,La Spezia,1,0,SP,11025,11025,H461
 7,11,11,11026,Santo Stefano di Magra,1,Nord-ovest,Liguria,La Spezia,1,0,SP,11026,11026,I363
@@ -4327,36 +4327,36 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 8,39,39,39016,Russi,2,Nord-est,Emilia-Romagna,Ravenna,1,0,RA,39016,39016,H642
 8,39,39,39017,Sant'Agata sul Santerno,2,Nord-est,Emilia-Romagna,Ravenna,1,0,RA,39017,39017,I196
 8,39,39,39018,Solarolo,2,Nord-est,Emilia-Romagna,Ravenna,1,0,RA,39018,39018,I787
-8,40,40,40001,Bagno di Romagna,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40001,40001,A565
-8,40,40,40003,Bertinoro,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40003,40003,A809
-8,40,40,40004,Borghi,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40004,40004,B001
-8,40,40,40005,Castrocaro Terme e Terra del Sole,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40005,40005,C339
-8,40,40,40007,Cesena,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40007,40007,C573
-8,40,40,40008,Cesenatico,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40008,40008,C574
-8,40,40,40009,Civitella di Romagna,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40009,40009,C777
-8,40,40,40011,Dovadola,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40011,40011,D357
-8,40,40,40012,Forlì,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,1,FC,40012,40012,D704
-8,40,40,40013,Forlimpopoli,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40013,40013,D705
-8,40,40,40014,Galeata,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40014,40014,D867
-8,40,40,40015,Gambettola,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40015,40015,D899
-8,40,40,40016,Gatteo,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40016,40016,D935
-8,40,40,40018,Longiano,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40018,40018,E675
-8,40,40,40019,Meldola,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40019,40019,F097
-8,40,40,40020,Mercato Saraceno,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40020,40020,F139
-8,40,40,40022,Modigliana,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40022,40022,F259
-8,40,40,40028,Montiano,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40028,40028,F668
-8,40,40,40031,Portico e San Benedetto,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40031,40031,G904
-8,40,40,40032,Predappio,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40032,40032,H017
-8,40,40,40033,Premilcuore,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40033,40033,H034
-8,40,40,40036,Rocca San Casciano,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40036,40036,H437
-8,40,40,40037,Roncofreddo,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40037,40037,H542
-8,40,40,40041,San Mauro Pascoli,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40041,40041,I027
-8,40,40,40043,Santa Sofia,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40043,40043,I310
-8,40,40,40044,Sarsina,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40044,40044,I444
-8,40,40,40045,Savignano sul Rubicone,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40045,40045,I472
-8,40,40,40046,Sogliano al Rubicone,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40046,40046,I779
-8,40,40,40049,Tredozio,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40049,40049,L361
-8,40,40,40050,Verghereto,2,Nord-est,Emilia-Romagna,Forlì-Cesena,1,0,FC,40050,40050,L764
+8,40,40,40001,Bagno di Romagna,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40001,40001,A565
+8,40,40,40003,Bertinoro,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40003,40003,A809
+8,40,40,40004,Borghi,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40004,40004,B001
+8,40,40,40005,Castrocaro Terme e Terra del Sole,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40005,40005,C339
+8,40,40,40007,Cesena,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40007,40007,C573
+8,40,40,40008,Cesenatico,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40008,40008,C574
+8,40,40,40009,Civitella di Romagna,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40009,40009,C777
+8,40,40,40011,Dovadola,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40011,40011,D357
+8,40,40,40012,ForlÃ¬,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,1,FC,40012,40012,D704
+8,40,40,40013,Forlimpopoli,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40013,40013,D705
+8,40,40,40014,Galeata,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40014,40014,D867
+8,40,40,40015,Gambettola,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40015,40015,D899
+8,40,40,40016,Gatteo,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40016,40016,D935
+8,40,40,40018,Longiano,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40018,40018,E675
+8,40,40,40019,Meldola,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40019,40019,F097
+8,40,40,40020,Mercato Saraceno,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40020,40020,F139
+8,40,40,40022,Modigliana,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40022,40022,F259
+8,40,40,40028,Montiano,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40028,40028,F668
+8,40,40,40031,Portico e San Benedetto,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40031,40031,G904
+8,40,40,40032,Predappio,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40032,40032,H017
+8,40,40,40033,Premilcuore,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40033,40033,H034
+8,40,40,40036,Rocca San Casciano,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40036,40036,H437
+8,40,40,40037,Roncofreddo,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40037,40037,H542
+8,40,40,40041,San Mauro Pascoli,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40041,40041,I027
+8,40,40,40043,Santa Sofia,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40043,40043,I310
+8,40,40,40044,Sarsina,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40044,40044,I444
+8,40,40,40045,Savignano sul Rubicone,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40045,40045,I472
+8,40,40,40046,Sogliano al Rubicone,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40046,40046,I779
+8,40,40,40049,Tredozio,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40049,40049,L361
+8,40,40,40050,Verghereto,2,Nord-est,Emilia-Romagna,Forli-Cesena,1,0,FC,40050,40050,L764
 8,99,99,99001,Bellaria-Igea Marina,2,Nord-est,Emilia-Romagna,Rimini,1,0,RN,99001,99001,A747
 8,99,99,99002,Cattolica,2,Nord-est,Emilia-Romagna,Rimini,1,0,RN,99002,99002,C357
 8,99,99,99003,Coriano,2,Nord-est,Emilia-Romagna,Rimini,1,0,RN,99003,99003,D004
@@ -4559,7 +4559,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 9,51,51,51006,Capolona,3,Centro,Toscana,Arezzo,1,0,AR,51006,51006,B670
 9,51,51,51007,Caprese Michelangelo,3,Centro,Toscana,Arezzo,1,0,AR,51007,51007,B693
 9,51,51,51008,Castel Focognano,3,Centro,Toscana,Arezzo,1,0,AR,51008,51008,C102
-9,51,51,51010,Castel San Niccolò,3,Centro,Toscana,Arezzo,1,0,AR,51010,51010,C263
+9,51,51,51010,Castel San NiccolÃ²,3,Centro,Toscana,Arezzo,1,0,AR,51010,51010,C263
 9,51,51,51011,Castiglion Fibocchi,3,Centro,Toscana,Arezzo,1,0,AR,51011,51011,C318
 9,51,51,51012,Castiglion Fiorentino,3,Centro,Toscana,Arezzo,1,0,AR,51012,51012,C319
 9,51,51,51013,Cavriglia,3,Centro,Toscana,Arezzo,1,0,AR,51013,51013,C407
@@ -4584,7 +4584,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 9,51,51,51037,Subbiano,3,Centro,Toscana,Arezzo,1,0,AR,51037,51037,I991
 9,51,51,51038,Talla,3,Centro,Toscana,Arezzo,1,0,AR,51038,51038,L038
 9,51,51,51039,Terranuova Bracciolini,3,Centro,Toscana,Arezzo,1,0,AR,51039,51039,L123
-9,51,51,51040,Castelfranco Piandiscò,3,Centro,Toscana,Arezzo,1,0,AR,51040,51040,M322
+9,51,51,51040,Castelfranco PiandiscÃ²,3,Centro,Toscana,Arezzo,1,0,AR,51040,51040,M322
 9,51,51,51041,Pratovecchio Stia,3,Centro,Toscana,Arezzo,1,0,AR,51041,51041,M329
 9,51,51,51042,Laterina Pergine Valdarno,3,Centro,Toscana,Arezzo,1,0,AR,51042,51042,M392
 9,52,52,52001,Abbadia San Salvatore,3,Centro,Toscana,Siena,1,0,SI,52001,52001,A006
@@ -4668,8 +4668,8 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 10,54,54,54009,Castiglione del Lago,3,Centro,Umbria,Perugia,1,0,PG,54009,54009,C309
 10,54,54,54010,Cerreto di Spoleto,3,Centro,Umbria,Perugia,1,0,PG,54010,54010,C527
 10,54,54,54011,Citerna,3,Centro,Umbria,Perugia,1,0,PG,54011,54011,C742
-10,54,54,54012,Città della Pieve,3,Centro,Umbria,Perugia,1,0,PG,54012,54012,C744
-10,54,54,54013,Città di Castello,3,Centro,Umbria,Perugia,1,0,PG,54013,54013,C745
+10,54,54,54012,CittÃ  della Pieve,3,Centro,Umbria,Perugia,1,0,PG,54012,54012,C744
+10,54,54,54013,CittÃ  di Castello,3,Centro,Umbria,Perugia,1,0,PG,54013,54013,C745
 10,54,54,54014,Collazzone,3,Centro,Umbria,Perugia,1,0,PG,54014,54014,C845
 10,54,54,54015,Corciano,3,Centro,Umbria,Perugia,1,0,PG,54015,54015,C990
 10,54,54,54016,Costacciaro,3,Centro,Umbria,Perugia,1,0,PG,54016,54016,D108
@@ -5518,7 +5518,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 13,68,68,68009,Castiglione a Casauria,4,Sud,Abruzzo,Pescara,1,0,PE,68009,68009,C308
 13,68,68,68010,Catignano,4,Sud,Abruzzo,Pescara,1,0,PE,68010,68010,C354
 13,68,68,68011,Cepagatti,4,Sud,Abruzzo,Pescara,1,0,PE,68011,68011,C474
-13,68,68,68012,Città Sant'Angelo,4,Sud,Abruzzo,Pescara,1,0,PE,68012,68012,C750
+13,68,68,68012,CittÃ  Sant'Angelo,4,Sud,Abruzzo,Pescara,1,0,PE,68012,68012,C750
 13,68,68,68013,Civitaquana,4,Sud,Abruzzo,Pescara,1,0,PE,68013,68013,C771
 13,68,68,68014,Civitella Casanova,4,Sud,Abruzzo,Pescara,1,0,PE,68014,68014,C779
 13,68,68,68015,Collecorvino,4,Sud,Abruzzo,Pescara,1,0,PE,68015,68015,C853
@@ -5760,7 +5760,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 14,94,94,94017,Colli a Volturno,4,Sud,Molise,Isernia,1,0,IS,94017,94017,C878
 14,94,94,94018,Conca Casale,4,Sud,Molise,Isernia,1,0,IS,94018,94018,C941
 14,94,94,94019,Filignano,4,Sud,Molise,Isernia,1,0,IS,94019,94019,D595
-14,94,94,94020,Forlì del Sannio,4,Sud,Molise,Isernia,1,0,IS,94020,94020,D703
+14,94,94,94020,ForlÃ¬ del Sannio,4,Sud,Molise,Isernia,1,0,IS,94020,94020,D703
 14,94,94,94021,Fornelli,4,Sud,Molise,Isernia,1,0,IS,94021,94021,D715
 14,94,94,94022,Frosolone,4,Sud,Molise,Isernia,1,0,IS,94022,94022,D811
 14,94,94,94023,Isernia,4,Sud,Molise,Isernia,1,1,IS,94023,94023,E335
@@ -6064,7 +6064,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 15,263,63,63087,Villaricca,4,Sud,Campania,Napoli,3,0,NA,63087,63087,G309
 15,263,63,63088,Visciano,4,Sud,Campania,Napoli,3,0,NA,63088,63088,M072
 15,263,63,63089,Volla,4,Sud,Campania,Napoli,3,0,NA,63089,63089,M115
-15,263,63,63090,Santa Maria la Carità,4,Sud,Campania,Napoli,3,0,NA,63090,63090,M273
+15,263,63,63090,Santa Maria la CaritÃ ,4,Sud,Campania,Napoli,3,0,NA,63090,63090,M273
 15,263,63,63091,Trecase,4,Sud,Campania,Napoli,3,0,NA,63091,63091,M280
 15,263,63,63092,Massa di Somma,4,Sud,Campania,Napoli,3,0,NA,63092,63092,M289
 15,64,64,64001,Aiello del Sabato,4,Sud,Campania,Avellino,1,0,AV,64001,64001,A101
@@ -6544,7 +6544,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 16,75,75,75049,Montesano Salentino,4,Sud,Puglia,Lecce,1,0,LE,75049,75049,F623
 16,75,75,75050,Morciano di Leuca,4,Sud,Puglia,Lecce,1,0,LE,75050,75050,F716
 16,75,75,75051,Muro Leccese,4,Sud,Puglia,Lecce,1,0,LE,75051,75051,F816
-16,75,75,75052,Nardò,4,Sud,Puglia,Lecce,1,0,LE,75052,75052,F842
+16,75,75,75052,NardÃ²,4,Sud,Puglia,Lecce,1,0,LE,75052,75052,F842
 16,75,75,75053,Neviano,4,Sud,Puglia,Lecce,1,0,LE,75053,75053,F881
 16,75,75,75054,Nociglia,4,Sud,Puglia,Lecce,1,0,LE,75054,75054,F916
 16,75,75,75055,Novoli,4,Sud,Puglia,Lecce,1,0,LE,75055,75055,F970
@@ -6552,7 +6552,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 16,75,75,75057,Otranto,4,Sud,Puglia,Lecce,1,0,LE,75057,75057,G188
 16,75,75,75058,Palmariggi,4,Sud,Puglia,Lecce,1,0,LE,75058,75058,G285
 16,75,75,75059,Parabita,4,Sud,Puglia,Lecce,1,0,LE,75059,75059,G325
-16,75,75,75060,Patù,4,Sud,Puglia,Lecce,1,0,LE,75060,75060,G378
+16,75,75,75060,PatÃ¹,4,Sud,Puglia,Lecce,1,0,LE,75060,75060,G378
 16,75,75,75061,Poggiardo,4,Sud,Puglia,Lecce,1,0,LE,75061,75061,G751
 16,75,75,75063,Racale,4,Sud,Puglia,Lecce,1,0,LE,75063,75063,H147
 16,75,75,75064,Ruffano,4,Sud,Puglia,Lecce,1,0,LE,75064,75064,H632
@@ -6565,7 +6565,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 16,75,75,75071,San Pietro in Lama,4,Sud,Puglia,Lecce,1,0,LE,75071,75071,I115
 16,75,75,75072,Santa Cesarea Terme,4,Sud,Puglia,Lecce,1,0,LE,75072,75072,I172
 16,75,75,75073,Scorrano,4,Sud,Puglia,Lecce,1,0,LE,75073,75073,I549
-16,75,75,75074,Seclì,4,Sud,Puglia,Lecce,1,0,LE,75074,75074,I559
+16,75,75,75074,SeclÃ¬,4,Sud,Puglia,Lecce,1,0,LE,75074,75074,I559
 16,75,75,75075,Sogliano Cavour,4,Sud,Puglia,Lecce,1,0,LE,75075,75075,I780
 16,75,75,75076,Soleto,4,Sud,Puglia,Lecce,1,0,LE,75076,75076,I800
 16,75,75,75077,Specchia,4,Sud,Puglia,Lecce,1,0,LE,75077,75077,I887
@@ -6799,7 +6799,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 18,78,78,78068,Longobucco,4,Sud,Calabria,Cosenza,1,0,CS,78068,78068,E678
 18,78,78,78069,Lungro,4,Sud,Calabria,Cosenza,1,0,CS,78069,78069,E745
 18,78,78,78070,Luzzi,4,Sud,Calabria,Cosenza,1,0,CS,78070,78070,E773
-18,78,78,78071,Maierà,4,Sud,Calabria,Cosenza,1,0,CS,78071,78071,E835
+18,78,78,78071,MaierÃ ,4,Sud,Calabria,Cosenza,1,0,CS,78071,78071,E835
 18,78,78,78072,Malito,4,Sud,Calabria,Cosenza,1,0,CS,78072,78072,E859
 18,78,78,78073,Malvito,4,Sud,Calabria,Cosenza,1,0,CS,78073,78073,E872
 18,78,78,78074,Mandatoriccio,4,Sud,Calabria,Cosenza,1,0,CS,78074,78074,E878
@@ -6931,7 +6931,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 18,79,79,79089,Palermiti,4,Sud,Calabria,Catanzaro,1,0,CZ,79089,79089,G272
 18,79,79,79092,Pentone,4,Sud,Calabria,Catanzaro,1,0,CZ,79092,79092,G439
 18,79,79,79094,Petrizzi,4,Sud,Calabria,Catanzaro,1,0,CZ,79094,79094,G517
-18,79,79,79095,Petronà,4,Sud,Calabria,Catanzaro,1,0,CZ,79095,79095,G518
+18,79,79,79095,PetronÃ ,4,Sud,Calabria,Catanzaro,1,0,CZ,79095,79095,G518
 18,79,79,79096,Pianopoli,4,Sud,Calabria,Catanzaro,1,0,CZ,79096,79096,D546
 18,79,79,79099,Platania,4,Sud,Calabria,Catanzaro,1,0,CZ,79099,79099,G734
 18,79,79,79108,San Floro,4,Sud,Calabria,Catanzaro,1,0,CZ,79108,79108,H846
@@ -6954,7 +6954,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 18,79,79,79138,Soveria Mannelli,4,Sud,Calabria,Catanzaro,1,0,CZ,79138,79138,I874
 18,79,79,79139,Soveria Simeri,4,Sud,Calabria,Catanzaro,1,0,CZ,79139,79139,I875
 18,79,79,79142,Squillace,4,Sud,Calabria,Catanzaro,1,0,CZ,79142,79142,I929
-18,79,79,79143,Stalettì,4,Sud,Calabria,Catanzaro,1,0,CZ,79143,79143,I937
+18,79,79,79143,StalettÃ¬,4,Sud,Calabria,Catanzaro,1,0,CZ,79143,79143,I937
 18,79,79,79146,Taverna,4,Sud,Calabria,Catanzaro,1,0,CZ,79146,79146,L070
 18,79,79,79147,Tiriolo,4,Sud,Calabria,Catanzaro,1,0,CZ,79147,79147,L177
 18,79,79,79148,Torre di Ruggiero,4,Sud,Calabria,Catanzaro,1,0,CZ,79148,79148,L240
@@ -6986,7 +6986,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 18,280,80,80023,Careri,4,Sud,Calabria,Reggio Calabria,3,0,RC,80023,80023,B766
 18,280,80,80024,Casignana,4,Sud,Calabria,Reggio Calabria,3,0,RC,80024,80024,B966
 18,280,80,80025,Caulonia,4,Sud,Calabria,Reggio Calabria,3,0,RC,80025,80025,C285
-18,280,80,80026,Ciminà,4,Sud,Calabria,Reggio Calabria,3,0,RC,80026,80026,C695
+18,280,80,80026,CiminÃ ,4,Sud,Calabria,Reggio Calabria,3,0,RC,80026,80026,C695
 18,280,80,80027,Cinquefrondi,4,Sud,Calabria,Reggio Calabria,3,0,RC,80027,80027,C710
 18,280,80,80028,Cittanova,4,Sud,Calabria,Reggio Calabria,3,0,RC,80028,80028,C747
 18,280,80,80029,Condofuri,4,Sud,Calabria,Reggio Calabria,3,0,RC,80029,80029,C954
@@ -7008,7 +7008,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 18,280,80,80045,Marina di Gioiosa Ionica,4,Sud,Calabria,Reggio Calabria,3,0,RC,80045,80045,E956
 18,280,80,80046,Maropati,4,Sud,Calabria,Reggio Calabria,3,0,RC,80046,80046,E968
 18,280,80,80047,Martone,4,Sud,Calabria,Reggio Calabria,3,0,RC,80047,80047,E993
-18,280,80,80048,Melicuccà,4,Sud,Calabria,Reggio Calabria,3,0,RC,80048,80048,F105
+18,280,80,80048,MelicuccÃ ,4,Sud,Calabria,Reggio Calabria,3,0,RC,80048,80048,F105
 18,280,80,80049,Melicucco,4,Sud,Calabria,Reggio Calabria,3,0,RC,80049,80049,F106
 18,280,80,80050,Melito di Porto Salvo,4,Sud,Calabria,Reggio Calabria,3,0,RC,80050,80050,F112
 18,280,80,80051,Molochio,4,Sud,Calabria,Reggio Calabria,3,0,RC,80051,80051,F301
@@ -7020,7 +7020,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 18,280,80,80057,Palmi,4,Sud,Calabria,Reggio Calabria,3,0,RC,80057,80057,G288
 18,280,80,80058,Pazzano,4,Sud,Calabria,Reggio Calabria,3,0,RC,80058,80058,G394
 18,280,80,80059,Placanica,4,Sud,Calabria,Reggio Calabria,3,0,RC,80059,80059,G729
-18,280,80,80060,Platì,4,Sud,Calabria,Reggio Calabria,3,0,RC,80060,80060,G735
+18,280,80,80060,PlatÃ¬,4,Sud,Calabria,Reggio Calabria,3,0,RC,80060,80060,G735
 18,280,80,80061,Polistena,4,Sud,Calabria,Reggio Calabria,3,0,RC,80061,80061,G791
 18,280,80,80062,Portigliola,4,Sud,Calabria,Reggio Calabria,3,0,RC,80062,80062,G905
 18,280,80,80063,Reggio di Calabria,4,Sud,Calabria,Reggio Calabria,3,1,RC,80063,80063,H224
@@ -7035,7 +7035,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 18,280,80,80072,San Giovanni di Gerace,4,Sud,Calabria,Reggio Calabria,3,0,RC,80072,80072,H903
 18,280,80,80073,San Lorenzo,4,Sud,Calabria,Reggio Calabria,3,0,RC,80073,80073,H959
 18,280,80,80074,San Luca,4,Sud,Calabria,Reggio Calabria,3,0,RC,80074,80074,H970
-18,280,80,80075,San Pietro di Caridà,4,Sud,Calabria,Reggio Calabria,3,0,RC,80075,80075,I102
+18,280,80,80075,San Pietro di CaridÃ ,4,Sud,Calabria,Reggio Calabria,3,0,RC,80075,80075,I102
 18,280,80,80076,San Procopio,4,Sud,Calabria,Reggio Calabria,3,0,RC,80076,80076,I132
 18,280,80,80077,San Roberto,4,Sud,Calabria,Reggio Calabria,3,0,RC,80077,80077,I139
 18,280,80,80078,Santa Cristina d'Aspromonte,4,Sud,Calabria,Reggio Calabria,3,0,RC,80078,80078,I176
@@ -7064,8 +7064,8 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 18,101,101,101004,Casabona,4,Sud,Calabria,Crotone,1,0,KR,101004,101004,B857
 18,101,101,101005,Castelsilano,4,Sud,Calabria,Crotone,1,0,KR,101005,101005,B968
 18,101,101,101006,Cerenzia,4,Sud,Calabria,Crotone,1,0,KR,101006,101006,C501
-18,101,101,101007,Cirò,4,Sud,Calabria,Crotone,1,0,KR,101007,101007,C725
-18,101,101,101008,Cirò Marina,4,Sud,Calabria,Crotone,1,0,KR,101008,101008,C726
+18,101,101,101007,CirÃ²,4,Sud,Calabria,Crotone,1,0,KR,101007,101007,C725
+18,101,101,101008,CirÃ² Marina,4,Sud,Calabria,Crotone,1,0,KR,101008,101008,C726
 18,101,101,101009,Cotronei,4,Sud,Calabria,Crotone,1,0,KR,101009,101009,D123
 18,101,101,101010,Crotone,4,Sud,Calabria,Crotone,1,1,KR,101010,101010,D122
 18,101,101,101011,Crucoli,4,Sud,Calabria,Crotone,1,0,KR,101011,101011,D189
@@ -7091,7 +7091,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 18,102,102,102004,Brognaturo,4,Sud,Calabria,Vibo Valentia,1,0,VV,102004,102004,B197
 18,102,102,102005,Capistrano,4,Sud,Calabria,Vibo Valentia,1,0,VV,102005,102005,B655
 18,102,102,102006,Cessaniti,4,Sud,Calabria,Vibo Valentia,1,0,VV,102006,102006,C581
-18,102,102,102007,Dasà,4,Sud,Calabria,Vibo Valentia,1,0,VV,102007,102007,D253
+18,102,102,102007,DasÃ ,4,Sud,Calabria,Vibo Valentia,1,0,VV,102007,102007,D253
 18,102,102,102008,Dinami,4,Sud,Calabria,Vibo Valentia,1,0,VV,102008,102008,D303
 18,102,102,102009,Drapia,4,Sud,Calabria,Vibo Valentia,1,0,VV,102009,102009,D364
 18,102,102,102010,Fabrizia,4,Sud,Calabria,Vibo Valentia,1,0,VV,102010,102010,D453
@@ -7185,8 +7185,8 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 19,282,82,82023,Casteldaccia,5,Isole,Sicilia,Palermo,3,0,PA,82023,82023,C074
 19,282,82,82024,Castellana Sicula,5,Isole,Sicilia,Palermo,3,0,PA,82024,82024,C135
 19,282,82,82025,Castronovo di Sicilia,5,Isole,Sicilia,Palermo,3,0,PA,82025,82025,C344
-19,282,82,82026,Cefalà Diana,5,Isole,Sicilia,Palermo,3,0,PA,82026,82026,C420
-19,282,82,82027,Cefalù,5,Isole,Sicilia,Palermo,3,0,PA,82027,82027,C421
+19,282,82,82026,CefalÃ  Diana,5,Isole,Sicilia,Palermo,3,0,PA,82026,82026,C420
+19,282,82,82027,CefalÃ¹,5,Isole,Sicilia,Palermo,3,0,PA,82027,82027,C421
 19,282,82,82028,Cerda,5,Isole,Sicilia,Palermo,3,0,PA,82028,82028,C496
 19,282,82,82029,Chiusa Sclafani,5,Isole,Sicilia,Palermo,3,0,PA,82029,82029,C654
 19,282,82,82030,Ciminna,5,Isole,Sicilia,Palermo,3,0,PA,82030,82030,C696
@@ -7243,11 +7243,11 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 19,282,82,82081,Scillato,5,Isole,Sicilia,Palermo,3,0,PA,82081,82081,I538
 19,282,82,82082,Blufi,5,Isole,Sicilia,Palermo,3,0,PA,82082,82082,M268
 19,283,83,83001,Alcara li Fusi,5,Isole,Sicilia,Messina,3,0,ME,83001,83001,A177
-19,283,83,83002,Alì,5,Isole,Sicilia,Messina,3,0,ME,83002,83002,A194
-19,283,83,83003,Alì Terme,5,Isole,Sicilia,Messina,3,0,ME,83003,83003,A201
+19,283,83,83002,AlÃ¬,5,Isole,Sicilia,Messina,3,0,ME,83002,83002,A194
+19,283,83,83003,AlÃ¬ Terme,5,Isole,Sicilia,Messina,3,0,ME,83003,83003,A201
 19,283,83,83004,Antillo,5,Isole,Sicilia,Messina,3,0,ME,83004,83004,A313
 19,283,83,83005,Barcellona Pozzo di Gotto,5,Isole,Sicilia,Messina,3,0,ME,83005,83005,A638
-19,283,83,83006,Basicò,5,Isole,Sicilia,Messina,3,0,ME,83006,83006,A698
+19,283,83,83006,BasicÃ²,5,Isole,Sicilia,Messina,3,0,ME,83006,83006,A698
 19,283,83,83007,Brolo,5,Isole,Sicilia,Messina,3,0,ME,83007,83007,B198
 19,283,83,83008,Capizzi,5,Isole,Sicilia,Messina,3,0,ME,83008,83008,B660
 19,283,83,83009,Capo d'Orlando,5,Isole,Sicilia,Messina,3,0,ME,83009,83009,B666
@@ -7258,16 +7258,16 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 19,283,83,83014,Castell'Umberto,5,Isole,Sicilia,Messina,3,0,ME,83014,83014,C051
 19,283,83,83015,Castelmola,5,Isole,Sicilia,Messina,3,0,ME,83015,83015,C210
 19,283,83,83016,Castroreale,5,Isole,Sicilia,Messina,3,0,ME,83016,83016,C347
-19,283,83,83017,Cesarò,5,Isole,Sicilia,Messina,3,0,ME,83017,83017,C568
-19,283,83,83018,Condrò,5,Isole,Sicilia,Messina,3,0,ME,83018,83018,C956
+19,283,83,83017,CesarÃ²,5,Isole,Sicilia,Messina,3,0,ME,83017,83017,C568
+19,283,83,83018,CondrÃ²,5,Isole,Sicilia,Messina,3,0,ME,83018,83018,C956
 19,283,83,83019,Falcone,5,Isole,Sicilia,Messina,3,0,ME,83019,83019,D474
 19,283,83,83020,Ficarra,5,Isole,Sicilia,Messina,3,0,ME,83020,83020,D569
 19,283,83,83021,Fiumedinisi,5,Isole,Sicilia,Messina,3,0,ME,83021,83021,D622
 19,283,83,83022,Floresta,5,Isole,Sicilia,Messina,3,0,ME,83022,83022,D635
 19,283,83,83023,Fondachelli-Fantina,5,Isole,Sicilia,Messina,3,0,ME,83023,83023,D661
-19,283,83,83024,Forza d'Agrò,5,Isole,Sicilia,Messina,3,0,ME,83024,83024,D733
+19,283,83,83024,Forza d'AgrÃ²,5,Isole,Sicilia,Messina,3,0,ME,83024,83024,D733
 19,283,83,83025,Francavilla di Sicilia,5,Isole,Sicilia,Messina,3,0,ME,83025,83025,D765
-19,283,83,83026,Frazzanò,5,Isole,Sicilia,Messina,3,0,ME,83026,83026,D793
+19,283,83,83026,FrazzanÃ²,5,Isole,Sicilia,Messina,3,0,ME,83026,83026,D793
 19,283,83,83027,Furci Siculo,5,Isole,Sicilia,Messina,3,0,ME,83027,83027,D824
 19,283,83,83028,Furnari,5,Isole,Sicilia,Messina,3,0,ME,83028,83028,D825
 19,283,83,83029,Gaggi,5,Isole,Sicilia,Messina,3,0,ME,83029,83029,D844
@@ -7276,7 +7276,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 19,283,83,83032,Giardini-Naxos,5,Isole,Sicilia,Messina,3,0,ME,83032,83032,E014
 19,283,83,83033,Gioiosa Marea,5,Isole,Sicilia,Messina,3,0,ME,83033,83033,E043
 19,283,83,83034,Graniti,5,Isole,Sicilia,Messina,3,0,ME,83034,83034,E142
-19,283,83,83035,Gualtieri Sicaminò,5,Isole,Sicilia,Messina,3,0,ME,83035,83035,E233
+19,283,83,83035,Gualtieri SicaminÃ²,5,Isole,Sicilia,Messina,3,0,ME,83035,83035,E233
 19,283,83,83036,Itala,5,Isole,Sicilia,Messina,3,0,ME,83036,83036,E374
 19,283,83,83037,Leni,5,Isole,Sicilia,Messina,3,0,ME,83037,83037,E523
 19,283,83,83038,Letojanni,5,Isole,Sicilia,Messina,3,0,ME,83038,83038,E555
@@ -7287,8 +7287,8 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 19,283,83,83043,Malfa,5,Isole,Sicilia,Messina,3,0,ME,83043,83043,E855
 19,283,83,83044,Malvagna,5,Isole,Sicilia,Messina,3,0,ME,83044,83044,E869
 19,283,83,83045,Mandanici,5,Isole,Sicilia,Messina,3,0,ME,83045,83045,E876
-19,283,83,83046,Mazzarrà Sant'Andrea,5,Isole,Sicilia,Messina,3,0,ME,83046,83046,F066
-19,283,83,83047,Merì,5,Isole,Sicilia,Messina,3,0,ME,83047,83047,F147
+19,283,83,83046,MazzarrÃ  Sant'Andrea,5,Isole,Sicilia,Messina,3,0,ME,83046,83046,F066
+19,283,83,83047,MerÃ¬,5,Isole,Sicilia,Messina,3,0,ME,83047,83047,F147
 19,283,83,83048,Messina,5,Isole,Sicilia,Messina,3,1,ME,83048,83048,F158
 19,283,83,83049,Milazzo,5,Isole,Sicilia,Messina,3,0,ME,83049,83049,F206
 19,283,83,83050,Militello Rosmarino,5,Isole,Sicilia,Messina,3,0,ME,83050,83050,F210
@@ -7316,7 +7316,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 19,283,83,83072,Roccalumera,5,Isole,Sicilia,Messina,3,0,ME,83072,83072,H418
 19,283,83,83073,Roccavaldina,5,Isole,Sicilia,Messina,3,0,ME,83073,83073,H380
 19,283,83,83074,Roccella Valdemone,5,Isole,Sicilia,Messina,3,0,ME,83074,83074,H455
-19,283,83,83075,Rodì Milici,5,Isole,Sicilia,Messina,3,0,ME,83075,83075,H479
+19,283,83,83075,RodÃ¬ Milici,5,Isole,Sicilia,Messina,3,0,ME,83075,83075,H479
 19,283,83,83076,Rometta,5,Isole,Sicilia,Messina,3,0,ME,83076,83076,H519
 19,283,83,83077,San Filippo del Mela,5,Isole,Sicilia,Messina,3,0,ME,83077,83077,H842
 19,283,83,83078,San Fratello,5,Isole,Sicilia,Messina,3,0,ME,83078,83078,H850
@@ -7360,7 +7360,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 19,84,84,84008,Camastra,5,Isole,Sicilia,Agrigento,4,0,AG,84008,84008,B460
 19,84,84,84009,Cammarata,5,Isole,Sicilia,Agrigento,4,0,AG,84009,84009,B486
 19,84,84,84010,Campobello di Licata,5,Isole,Sicilia,Agrigento,4,0,AG,84010,84010,B520
-19,84,84,84011,Canicattì,5,Isole,Sicilia,Agrigento,4,0,AG,84011,84011,B602
+19,84,84,84011,CanicattÃ¬,5,Isole,Sicilia,Agrigento,4,0,AG,84011,84011,B602
 19,84,84,84012,Casteltermini,5,Isole,Sicilia,Agrigento,4,0,AG,84012,84012,C275
 19,84,84,84013,Castrofilippo,5,Isole,Sicilia,Agrigento,4,0,AG,84013,84013,C341
 19,84,84,84014,Cattolica Eraclea,5,Isole,Sicilia,Agrigento,4,0,AG,84014,84014,C356
@@ -7467,7 +7467,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 19,287,87,87030,Motta Sant'Anastasia,5,Isole,Sicilia,Catania,3,0,CT,87030,87030,F781
 19,287,87,87031,Nicolosi,5,Isole,Sicilia,Catania,3,0,CT,87031,87031,F890
 19,287,87,87032,Palagonia,5,Isole,Sicilia,Catania,3,0,CT,87032,87032,G253
-19,287,87,87033,Paternò,5,Isole,Sicilia,Catania,3,0,CT,87033,87033,G371
+19,287,87,87033,PaternÃ²,5,Isole,Sicilia,Catania,3,0,CT,87033,87033,G371
 19,287,87,87034,Pedara,5,Isole,Sicilia,Catania,3,0,CT,87034,87034,G402
 19,287,87,87035,Piedimonte Etneo,5,Isole,Sicilia,Catania,3,0,CT,87035,87035,G597
 19,287,87,87036,Raddusa,5,Isole,Sicilia,Catania,3,0,CT,87036,87036,H154
@@ -7527,7 +7527,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 19,89,89,89020,Portopalo di Capo Passero,5,Isole,Sicilia,Siracusa,4,0,SR,89020,89020,M257
 19,89,89,89021,Priolo Gargallo,5,Isole,Sicilia,Siracusa,4,0,SR,89021,89021,M279
 20,90,90,90001,Aggius,5,Isole,Sardegna,Sassari,1,0,SS,90001,90001,A069
-20,90,90,90002,Alà dei Sardi,5,Isole,Sardegna,Sassari,1,0,SS,90002,90002,A115
+20,90,90,90002,AlÃ  dei Sardi,5,Isole,Sardegna,Sassari,1,0,SS,90002,90002,A115
 20,90,90,90003,Alghero,5,Isole,Sardegna,Sassari,1,0,SS,90003,90003,A192
 20,90,90,90004,Anela,5,Isole,Sardegna,Sassari,1,0,SS,90004,90004,A287
 20,90,90,90005,Ardara,5,Isole,Sardegna,Sassari,1,0,SS,90005,90005,A379
@@ -7542,7 +7542,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 20,90,90,90014,Bortigiadas,5,Isole,Sardegna,Sassari,1,0,SS,90014,90014,B063
 20,90,90,90015,Borutta,5,Isole,Sardegna,Sassari,1,0,SS,90015,90015,B064
 20,90,90,90016,Bottidda,5,Isole,Sardegna,Sassari,1,0,SS,90016,90016,B094
-20,90,90,90017,Buddusò,5,Isole,Sardegna,Sassari,1,0,SS,90017,90017,B246
+20,90,90,90017,BuddusÃ²,5,Isole,Sardegna,Sassari,1,0,SS,90017,90017,B246
 20,90,90,90018,Bultei,5,Isole,Sardegna,Sassari,1,0,SS,90018,90018,B264
 20,90,90,90019,Bulzi,5,Isole,Sardegna,Sassari,1,0,SS,90019,90019,B265
 20,90,90,90020,Burgos,5,Isole,Sardegna,Sassari,1,0,SS,90020,90020,B276
@@ -7569,7 +7569,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 20,90,90,90041,Monti,5,Isole,Sardegna,Sassari,1,0,SS,90041,90041,F667
 20,90,90,90042,Mores,5,Isole,Sardegna,Sassari,1,0,SS,90042,90042,F721
 20,90,90,90043,Muros,5,Isole,Sardegna,Sassari,1,0,SS,90043,90043,F818
-20,90,90,90044,Nughedu San Nicolò,5,Isole,Sardegna,Sassari,1,0,SS,90044,90044,F975
+20,90,90,90044,Nughedu San NicolÃ²,5,Isole,Sardegna,Sassari,1,0,SS,90044,90044,F975
 20,90,90,90045,Nule,5,Isole,Sardegna,Sassari,1,0,SS,90045,90045,F976
 20,90,90,90046,Nulvi,5,Isole,Sardegna,Sassari,1,0,SS,90046,90046,F977
 20,90,90,90047,Olbia,5,Isole,Sardegna,Sassari,1,0,SS,90047,90047,G015
@@ -7599,7 +7599,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 20,90,90,90071,Thiesi,5,Isole,Sardegna,Sassari,1,0,SS,90071,90071,L158
 20,90,90,90072,Tissi,5,Isole,Sardegna,Sassari,1,0,SS,90072,90072,L180
 20,90,90,90073,Torralba,5,Isole,Sardegna,Sassari,1,0,SS,90073,90073,L235
-20,90,90,90074,Trinità d'Agultu e Vignola,5,Isole,Sardegna,Sassari,1,0,SS,90074,90074,L428
+20,90,90,90074,TrinitÃ  d'Agultu e Vignola,5,Isole,Sardegna,Sassari,1,0,SS,90074,90074,L428
 20,90,90,90075,Tula,5,Isole,Sardegna,Sassari,1,0,SS,90075,90075,L464
 20,90,90,90076,Uri,5,Isole,Sardegna,Sassari,1,0,SS,90076,90076,L503
 20,90,90,90077,Usini,5,Isole,Sardegna,Sassari,1,0,SS,90077,90077,L509
@@ -7624,7 +7624,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 20,91,91,91004,Austis,5,Isole,Sardegna,Nuoro,1,0,NU,91004,91004,A503
 20,91,91,91005,Bari Sardo,5,Isole,Sardegna,Nuoro,1,0,NU,91005,91005,A663
 20,91,91,91006,Baunei,5,Isole,Sardegna,Nuoro,1,0,NU,91006,91006,A722
-20,91,91,91007,Belvì,5,Isole,Sardegna,Nuoro,1,0,NU,91007,91007,A776
+20,91,91,91007,BelvÃ¬,5,Isole,Sardegna,Nuoro,1,0,NU,91007,91007,A776
 20,91,91,91008,Birori,5,Isole,Sardegna,Nuoro,1,0,NU,91008,91008,A880
 20,91,91,91009,Bitti,5,Isole,Sardegna,Nuoro,1,0,NU,91009,91009,A895
 20,91,91,91010,Bolotana,5,Isole,Sardegna,Nuoro,1,0,NU,91010,91010,A948
@@ -7637,7 +7637,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 20,91,91,91024,Fonni,5,Isole,Sardegna,Nuoro,1,0,NU,91024,91024,D665
 20,91,91,91025,Gadoni,5,Isole,Sardegna,Nuoro,1,0,NU,91025,91025,D842
 20,91,91,91026,Gairo,5,Isole,Sardegna,Nuoro,1,0,NU,91026,91026,D859
-20,91,91,91027,Galtellì,5,Isole,Sardegna,Nuoro,1,0,NU,91027,91027,D888
+20,91,91,91027,GaltellÃ¬,5,Isole,Sardegna,Nuoro,1,0,NU,91027,91027,D888
 20,91,91,91028,Gavoi,5,Isole,Sardegna,Nuoro,1,0,NU,91028,91028,D947
 20,91,91,91031,Girasole,5,Isole,Sardegna,Nuoro,1,0,NU,91031,91031,E049
 20,91,91,91032,Ilbono,5,Isole,Sardegna,Nuoro,1,0,NU,91032,91032,E283
@@ -7647,7 +7647,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 20,91,91,91038,Lei,5,Isole,Sardegna,Nuoro,1,0,NU,91038,91038,E517
 20,91,91,91039,Loceri,5,Isole,Sardegna,Nuoro,1,0,NU,91039,91039,E644
 20,91,91,91040,Loculi,5,Isole,Sardegna,Nuoro,1,0,NU,91040,91040,E646
-20,91,91,91041,Lodè,5,Isole,Sardegna,Nuoro,1,0,NU,91041,91041,E647
+20,91,91,91041,LodÃ¨,5,Isole,Sardegna,Nuoro,1,0,NU,91041,91041,E647
 20,91,91,91042,Lotzorai,5,Isole,Sardegna,Nuoro,1,0,NU,91042,91042,E700
 20,91,91,91043,Lula,5,Isole,Sardegna,Nuoro,1,0,NU,91043,91043,E736
 20,91,91,91044,Macomer,5,Isole,Sardegna,Nuoro,1,0,NU,91044,91044,E788
@@ -7658,7 +7658,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 20,91,91,91055,Oliena,5,Isole,Sardegna,Nuoro,1,0,NU,91055,91055,G031
 20,91,91,91056,Ollolai,5,Isole,Sardegna,Nuoro,1,0,NU,91056,91056,G044
 20,91,91,91057,Olzai,5,Isole,Sardegna,Nuoro,1,0,NU,91057,91057,G058
-20,91,91,91058,Onanì,5,Isole,Sardegna,Nuoro,1,0,NU,91058,91058,G064
+20,91,91,91058,OnanÃ¬,5,Isole,Sardegna,Nuoro,1,0,NU,91058,91058,G064
 20,91,91,91059,Onifai,5,Isole,Sardegna,Nuoro,1,0,NU,91059,91059,G070
 20,91,91,91060,Oniferi,5,Isole,Sardegna,Nuoro,1,0,NU,91060,91060,G071
 20,91,91,91061,Orani,5,Isole,Sardegna,Nuoro,1,0,NU,91061,91061,G084
@@ -7683,8 +7683,8 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 20,91,91,91090,Teti,5,Isole,Sardegna,Nuoro,1,0,NU,91090,91090,L153
 20,91,91,91091,Tiana,5,Isole,Sardegna,Nuoro,1,0,NU,91091,91091,L160
 20,91,91,91093,Tonara,5,Isole,Sardegna,Nuoro,1,0,NU,91093,91093,L202
-20,91,91,91094,Torpè,5,Isole,Sardegna,Nuoro,1,0,NU,91094,91094,L231
-20,91,91,91095,Tortolì,5,Isole,Sardegna,Nuoro,1,0,NU,91095,91095,A355
+20,91,91,91094,TorpÃ¨,5,Isole,Sardegna,Nuoro,1,0,NU,91094,91094,L231
+20,91,91,91095,TortolÃ¬,5,Isole,Sardegna,Nuoro,1,0,NU,91095,91095,A355
 20,91,91,91097,Triei,5,Isole,Sardegna,Nuoro,1,0,NU,91097,91097,L423
 20,91,91,91098,Ulassai,5,Isole,Sardegna,Nuoro,1,0,NU,91098,91098,L489
 20,91,91,91099,Urzulei,5,Isole,Sardegna,Nuoro,1,0,NU,91099,91099,L506
@@ -7722,7 +7722,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 20,95,95,95011,Baratili San Pietro,5,Isole,Sardegna,Oristano,1,0,OR,95011,95011,A621
 20,95,95,95012,Baressa,5,Isole,Sardegna,Oristano,1,0,OR,95012,95012,A655
 20,95,95,95013,Bauladu,5,Isole,Sardegna,Oristano,1,0,OR,95013,95013,A721
-20,95,95,95014,Bidonì,5,Isole,Sardegna,Oristano,1,0,OR,95014,95014,A856
+20,95,95,95014,BidonÃ¬,5,Isole,Sardegna,Oristano,1,0,OR,95014,95014,A856
 20,95,95,95015,Bonarcado,5,Isole,Sardegna,Oristano,1,0,OR,95015,95015,A960
 20,95,95,95016,Boroneddu,5,Isole,Sardegna,Oristano,1,0,OR,95016,95016,B055
 20,95,95,95017,Busachi,5,Isole,Sardegna,Oristano,1,0,OR,95017,95017,B281
@@ -7731,7 +7731,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 20,95,95,95020,Fordongianus,5,Isole,Sardegna,Oristano,1,0,OR,95020,95020,D695
 20,95,95,95021,Ghilarza,5,Isole,Sardegna,Oristano,1,0,OR,95021,95021,E004
 20,95,95,95022,Gonnoscodina,5,Isole,Sardegna,Oristano,1,0,OR,95022,95022,E087
-20,95,95,95023,Gonnosnò,5,Isole,Sardegna,Oristano,1,0,OR,95023,95023,D585
+20,95,95,95023,GonnosnÃ²,5,Isole,Sardegna,Oristano,1,0,OR,95023,95023,D585
 20,95,95,95024,Gonnostramatza,5,Isole,Sardegna,Oristano,1,0,OR,95024,95024,E088
 20,95,95,95025,Marrubiu,5,Isole,Sardegna,Oristano,1,0,OR,95025,95025,E972
 20,95,95,95026,Masullas,5,Isole,Sardegna,Oristano,1,0,OR,95026,95026,F050
@@ -7754,7 +7754,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 20,95,95,95043,Riola Sardo,5,Isole,Sardegna,Oristano,1,0,OR,95043,95043,H301
 20,95,95,95044,Ruinas,5,Isole,Sardegna,Oristano,1,0,OR,95044,95044,F271
 20,95,95,95045,Samugheo,5,Isole,Sardegna,Oristano,1,0,OR,95045,95045,H756
-20,95,95,95046,San Nicolò d'Arcidano,5,Isole,Sardegna,Oristano,1,0,OR,95046,95046,A368
+20,95,95,95046,San NicolÃ² d'Arcidano,5,Isole,Sardegna,Oristano,1,0,OR,95046,95046,A368
 20,95,95,95047,Santa Giusta,5,Isole,Sardegna,Oristano,1,0,OR,95047,95047,I205
 20,95,95,95048,Villa Sant'Antonio,5,Isole,Sardegna,Oristano,1,0,OR,95048,95048,I298
 20,95,95,95049,Santu Lussurgiu,5,Isole,Sardegna,Oristano,1,0,OR,95049,95049,I374
@@ -7776,7 +7776,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 20,95,95,95065,Terralba,5,Isole,Sardegna,Oristano,1,0,OR,95065,95065,L122
 20,95,95,95066,Tramatza,5,Isole,Sardegna,Oristano,1,0,OR,95066,95066,L321
 20,95,95,95067,Tresnuraghes,5,Isole,Sardegna,Oristano,1,0,OR,95067,95067,L393
-20,95,95,95068,Ulà Tirso,5,Isole,Sardegna,Oristano,1,0,OR,95068,95068,L488
+20,95,95,95068,UlÃ  Tirso,5,Isole,Sardegna,Oristano,1,0,OR,95068,95068,L488
 20,95,95,95069,Uras,5,Isole,Sardegna,Oristano,1,0,OR,95069,95069,L496
 20,95,95,95070,Usellus,5,Isole,Sardegna,Oristano,1,0,OR,95070,95070,L508
 20,95,95,95071,Villanova Truschedu,5,Isole,Sardegna,Oristano,1,0,OR,95071,95071,L991
@@ -7786,7 +7786,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 20,95,95,95075,Zerfaliu,5,Isole,Sardegna,Oristano,1,0,OR,95075,95075,M168
 20,95,95,95076,Siapiccia,5,Isole,Sardegna,Oristano,1,0,OR,95076,95076,I721
 20,95,95,95077,Curcuris,5,Isole,Sardegna,Oristano,1,0,OR,95077,95077,D214
-20,95,95,95078,Soddì,5,Isole,Sardegna,Oristano,1,0,OR,95078,95078,I778
+20,95,95,95078,SoddÃ¬,5,Isole,Sardegna,Oristano,1,0,OR,95078,95078,I778
 20,95,95,95079,Bosa,5,Isole,Sardegna,Oristano,1,0,OR,95079,91013,B068
 20,95,95,95080,Flussio,5,Isole,Sardegna,Oristano,1,0,OR,95080,91023,D640
 20,95,95,95082,Laconi,5,Isole,Sardegna,Oristano,1,0,OR,95082,91036,E400
@@ -7859,7 +7859,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 20,111,111,111061,San Basilio,5,Isole,Sardegna,Sud Sardegna,1,0,SU,111061,92054,H766
 20,111,111,111062,San Gavino Monreale,5,Isole,Sardegna,Sud Sardegna,1,0,SU,111062,92055,H856
 20,111,111,111063,San Giovanni Suergiu,5,Isole,Sardegna,Sud Sardegna,1,0,SU,111063,92056,G287
-20,111,111,111064,San Nicolò Gerrei,5,Isole,Sardegna,Sud Sardegna,1,0,SU,111064,92058,G383
+20,111,111,111064,San NicolÃ² Gerrei,5,Isole,Sardegna,Sud Sardegna,1,0,SU,111064,92058,G383
 20,111,111,111065,San Sperate,5,Isole,Sardegna,Sud Sardegna,1,0,SU,111065,92059,I166
 20,111,111,111066,San Vito,5,Isole,Sardegna,Sud Sardegna,1,0,SU,111066,92064,I402
 20,111,111,111067,Sanluri,5,Isole,Sardegna,Sud Sardegna,1,0,SU,111067,92057,H974
@@ -7870,7 +7870,7 @@ Codice Regione,Codice Unità territoriale sovracomunale,Codice Provincia,Codice 
 20,111,111,111072,Sardara,5,Isole,Sardegna,Sud Sardegna,1,0,SU,111072,92065,I428
 20,111,111,111073,Segariu,5,Isole,Sardegna,Sud Sardegna,1,0,SU,111073,92067,I570
 20,111,111,111074,Selegas,5,Isole,Sardegna,Sud Sardegna,1,0,SU,111074,92069,I582
-20,111,111,111075,Senorbì,5,Isole,Sardegna,Sud Sardegna,1,0,SU,111075,92070,I615
+20,111,111,111075,SenorbÃ¬,5,Isole,Sardegna,Sud Sardegna,1,0,SU,111075,92070,I615
 20,111,111,111076,Serdiana,5,Isole,Sardegna,Sud Sardegna,1,0,SU,111076,92071,I624
 20,111,111,111077,Serramanna,5,Isole,Sardegna,Sud Sardegna,1,0,SU,111077,92072,I647
 20,111,111,111078,Serrenti,5,Isole,Sardegna,Sud Sardegna,1,0,SU,111078,92073,I667
