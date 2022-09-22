@@ -39,7 +39,8 @@ from Italy, Europe and the US.
 
 * Environment
     * European Union
-        * [The European Environment Agency](https://www.eea.europa.eu/)  
+        * [The European Environment Agency](https://www.eea.europa.eu/)
+            * [EEA Industrial Reporting Database 2022](https://www.eea.europa.eu/data-and-maps/data/industrial-reporting-under-the-industrial-6)  
 
     * Italy
         * [The Italian Institute for Environmental Protection and Research - ISPRA](https://www.isprambiente.gov.it/en)  
