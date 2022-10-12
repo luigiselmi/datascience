@@ -4,6 +4,9 @@ A list of websites that provide data sets about science, economics and finance
 from Italy, Europe and the US.
 
 * Energy
+    * European Union
+        * [Gas Infrastructure Europe - Aggregated Gas Storage Inventory](https://agsi.gie.eu/)  
+        * [European Network of Transmission Operators for Gas](https://www.entsog.eu/)  
     * Italy
         * [Gestore Mercati Energetici (IT)](https://www.mercatoelettrico.org/It/default.aspx)  
         * [Gestore Servizi Energetici (IT)](https://gse.it/)    
