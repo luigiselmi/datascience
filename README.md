@@ -13,4 +13,4 @@ from the books I am using for this project.
 data.
 - [Digital Image Processing](python/imaging/digital_image_processing.ipynb) notebooks about digital image processing, mostly images from satellites.  
 
-A list of open data sets about science, economics, and finance is available [here](datasets.md).
+A list of open data sets about science, economics, finance, and health is available [here](datasets.md).

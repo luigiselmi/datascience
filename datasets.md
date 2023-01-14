@@ -1,7 +1,7 @@
 Open Data Sets
 ==============
 A list of websites that provide data sets about science, economics and finance
-from Italy, Europe and the US.
+from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO, OECD, IMF and others.
 
 * Energy
     * European Union
@@ -47,6 +47,9 @@ from Italy, Europe and the US.
 
     * Italy
         * [The Italian Institute for Environmental Protection and Research - ISPRA](https://www.isprambiente.gov.it/en)  
+
+* Health
+    * [World Health Organization - The Global Health Observatory](https://www.who.int/data/gho)  
 
 * Social Sciences
     * European Union
