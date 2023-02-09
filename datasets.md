@@ -64,4 +64,8 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
 
 * Water
     * European Union
-        [Water Information System for Europe](https://water.europa.eu/)    
+        [Water Information System for Europe](https://water.europa.eu/)   
+
+* Geospatial Data
+    * European Union
+        [The Geographic Information System of the Commission (GISCO)](https://ec.europa.eu/eurostat/web/gisco)
