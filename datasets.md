@@ -46,6 +46,7 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
     * European Union
         * [The European Environment Agency](https://www.eea.europa.eu/)
             * [EEA Industrial Reporting Database 2022](https://www.eea.europa.eu/data-and-maps/data/industrial-reporting-under-the-industrial-6)  
+        * [Extreme Wind Storms Catalogue](http://www.europeanwindstorms.org/)  
 
     * Italy
         * [The Italian Institute for Environmental Protection and Research - ISPRA](https://www.isprambiente.gov.it/en)  
