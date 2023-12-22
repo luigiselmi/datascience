@@ -10,8 +10,6 @@ statistical inference and worked out examples taken from the book used in the co
  - [Bayesian Inference](r/rethinking/probability.ipynb) is a collection
 of notes about probability and bayesian inference and R scripts taken
 from the books I am using for this project.  
-- [Copernicus](python/copernicus/copernicus_services.ipynb) notebooks about climate change using the Copernicus
-data.
 
 ## Open data
 A list of open data sets about science, economics, finance, and health is available [here](datasets.md).
