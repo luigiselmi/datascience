@@ -11,5 +11,7 @@ statistical inference and worked out examples taken from the book used in the co
 of notes about probability and bayesian inference and R scripts taken
 from the books I am using for this project.  
 
+The Digital Image Processing folder has been moved to a new repository [dip](https://github.com/luigiselmi/dip). The copernicus folder has been moved to the new repository [copernicus](https://github.com/luigiselmi/copernicus). The iia folder has been moved to the new [climate]() repository.
+
 ## Open data
 A list of open data sets about science, economics, finance, and health is available [here](datasets.md).
