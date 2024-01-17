@@ -40,7 +40,8 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
         * [The World Bank](https://www.worldbank.org/en/home)  
         * [The Organisation for Economic Co-operation and Development (OECD)](https://www.oecd.org/)  
         * [The Bank for International Settlements](https://www.bis.org/)  
-        * [Food and Agriculture Organization of the United Nations](https://www.fao.org/)  
+        * [Food and Agriculture Organization of the United Nations](https://www.fao.org/)
+        * [World Trade Organization](https://www.wto.org/)   
 
 * Environment
     * European Union
