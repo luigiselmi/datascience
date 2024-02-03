@@ -25,15 +25,18 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
     * Italy
         * [Banca d'Italia - Bank of Italy](https://www.bancaditalia.it/)  
         * [Commissione Nazionale per le Societa' e la Borsa (CONSOB)](https://www.consob.it/)  
+        * [Agenzia delle Entrate](https://www.agenziaentrate.gov.it/portale/)  
 
     * United States
         * [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)  
         * [The Federal Reserve](https://www.federalreserve.gov/)  
         * [U.S. Security and Exchange Commission](https://www.sec.gov/)  
-        * [U.S. Department of Commerce - Bureau of Economic Analysis](https://www.bea.gov/)  
+        * [Bureau of Economic Analysis](https://www.bea.gov/)  
         * [U.S. Department of the Treasury](https://home.treasury.gov/)  
         * [U.S. Securities and Exchange Commission - EDGAR Database](https://www.sec.gov/os/accessing-edgar-data)  
         * [U.S. The Federal Deposit Insurance Corporation](https://www.fdic.gov/)  
+        * [U.S. Department of Commerce](https://www.commerce.gov/)  
+        * [National Association of Realtors](https://www.agenziaentrate.gov.it/portale/)  
 
     * International Organizations
         * [International Monetary Fund](https://www.imf.org/en/Home)  
@@ -42,6 +45,7 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
         * [The Bank for International Settlements](https://www.bis.org/)  
         * [Food and Agriculture Organization of the United Nations](https://www.fao.org/)
         * [World Trade Organization](https://www.wto.org/)   
+        * [The Conference Board](https://www.conference-board.org/eu/)  
 
 * Environment
     * European Union
