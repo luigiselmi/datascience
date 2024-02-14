@@ -1,5 +1,5 @@
 Data Science  
-===========
+============
 I use this repository for my projects about data science and statistical inference. The main projects are
 
  - [Python Cookbook](python/README.md) Python data structures, and code examples using the Python core packages for data science: NumPy, Pandas, Matplotlib, SciPy.
