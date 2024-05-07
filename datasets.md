@@ -57,9 +57,12 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
         * [Extreme Wind Storms Catalogue](http://www.europeanwindstorms.org/)  
         * [European Severe Storms Laboratory](https://www.essl.org/)
         * [GHSL - Global Human Settlement Layer (Copernicus Emergency Management Service - Exposure Mapping Component)](https://human-settlement.emergency.copernicus.eu/index.php)  
+        * [Copernicus Emergency Management Service](https://emergency.copernicus.eu/)  
 
     * Italy
         * [The Italian Institute for Environmental Protection and Research - ISPRA](https://www.isprambiente.gov.it/en)  
+    * United States
+        * [Federal Emergency Management Agency (FEMA)](https://www.fema.gov/)  
 
 * Health
     * [World Health Organization - The Global Health Observatory](https://www.who.int/data/gho)  
