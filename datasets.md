@@ -61,8 +61,14 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
 
     * Italy
         * [The Italian Institute for Environmental Protection and Research - ISPRA](https://www.isprambiente.gov.it/en)  
+        * [IdroGEO Italian Web Platform on Landslides and Floods](https://idrogeo.isprambiente.it/app/)  
+        * [INGV Terremoti - Earthquakes](https://ingvterremoti.com/)  
+        * [Istituto Nazionale di Geofisica e Vulcanologia](https://www.ingv.it/en/)  
+        * [Osservatorio Vesuviano](https://www.ov.ingv.it/index.php)  
+        * [INGV TINITALY - Digital Elevation Model of Italy](https://data.ingv.it/dataset/185#additional-metadata)  
     * United States
         * [Federal Emergency Management Agency (FEMA)](https://www.fema.gov/)  
+        * [US Geological Survey](https://www.usgs.gov/)  
 
 * Health
     * [World Health Organization - The Global Health Observatory](https://www.who.int/data/gho)  
