@@ -69,6 +69,7 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
     * United States
         * [Federal Emergency Management Agency (FEMA)](https://www.fema.gov/)  
         * [US Geological Survey](https://www.usgs.gov/)  
+        * [NOAA Climate Prediction Center](https://www.cpc.ncep.noaa.gov/)  
 
 * Health
     * [World Health Organization - The Global Health Observatory](https://www.who.int/data/gho)  
