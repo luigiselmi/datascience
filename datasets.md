@@ -58,6 +58,7 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
         * [European Severe Storms Laboratory](https://www.essl.org/)
         * [GHSL - Global Human Settlement Layer (Copernicus Emergency Management Service - Exposure Mapping Component)](https://human-settlement.emergency.copernicus.eu/index.php)  
         * [Copernicus Emergency Management Service](https://emergency.copernicus.eu/)  
+        * [Integrated Carbon Observation System](https://www.icos-cp.eu/)  
 
     * Italy
         * [The Italian Institute for Environmental Protection and Research - ISPRA](https://www.isprambiente.gov.it/en)  
