@@ -71,6 +71,8 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
         * [Federal Emergency Management Agency (FEMA)](https://www.fema.gov/)  
         * [US Geological Survey](https://www.usgs.gov/)  
         * [NOAA Climate Prediction Center](https://www.cpc.ncep.noaa.gov/)  
+    * International Organizations
+        * [World Glacier Monitoring Service](https://wgms.ch/)  
 
 * Health
     * [World Health Organization - The Global Health Observatory](https://www.who.int/data/gho)  
@@ -92,5 +94,5 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
 
 * Geospatial Data
     * European Union
-        [European Centre for Medium-Range Weather Forecasts Data Store](https://data.ecmwf.int/) 
+        [European Centre for Medium-Range Weather Forecasts Data Store](https://data.ecmwf.int/)
         [The Geographic Information System of the Commission (GISCO)](https://ec.europa.eu/eurostat/web/gisco)
