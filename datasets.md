@@ -71,6 +71,7 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
         * [Federal Emergency Management Agency (FEMA)](https://www.fema.gov/)  
         * [US Geological Survey](https://www.usgs.gov/)  
         * [NOAA Climate Prediction Center](https://www.cpc.ncep.noaa.gov/)  
+        * [USGS Water Data for the Nation](https://waterdata.usgs.gov/nwis)
     * International Organizations
         * [World Glacier Monitoring Service](https://wgms.ch/)  
 
