@@ -21,7 +21,7 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
 
 * Economy
     * European Union
-        * [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html)  
+        * [European Central Bank Data Portal](https://data.ecb.europa.eu)  
         * [European Securities and Market Authority](https://www.esma.europa.eu/)  
 
     * Italy
