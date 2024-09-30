@@ -11,3 +11,6 @@ Good references for Python programming are:
 * Wes McKinney's [Python for Data Analysis, 3rd Edition](https://wesmckinney.com/book/)
 * Scopatz and Huff's [Effective Computation in Physics](https://www.amazon.com/Effective-Computation-Physics-Research-Python-ebook/dp/B010ORQ8DG)
 * [Gorelick - High Performance Python, 2nd Edition](https://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1492055026)  
+
+## Python packages
+[pytest](https://docs.pytest.org/en/stable/), framework for tests
