@@ -14,3 +14,5 @@ Good references for Python programming are:
 
 ## Python packages
 [pytest](https://docs.pytest.org/en/stable/), framework for tests
+[Python Packaging](https://packaging.python.org/en/latest/), Python code distribution
+[Read the Docs](https://about.readthedocs.com/), open source software documentation 
