@@ -13,6 +13,6 @@ Good references for Python programming are:
 * [Gorelick - High Performance Python, 2nd Edition](https://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1492055026)  
 
 ## Python packages
-[pytest](https://docs.pytest.org/en/stable/), framework for tests
-[Python Packaging](https://packaging.python.org/en/latest/), Python code distribution
-[Read the Docs](https://about.readthedocs.com/), open source software documentation 
+[pytest](https://docs.pytest.org/en/stable/), framework for tests  
+[Python Packaging](https://packaging.python.org/en/latest/), Python code distribution  
+[Read the Docs](https://about.readthedocs.com/), open source software documentation  
