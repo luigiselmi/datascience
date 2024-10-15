@@ -15,3 +15,7 @@ The Digital Image Processing folder has been moved to a new repository [dip](htt
 
 ## Open data
 A list of open data sets about science, economics, finance, and health is available [here](datasets.md).
+
+## Probabilistic programming
+[PyMC](https://www.pymc.io/welcome.html), Bayesian probabilistic programming in Python   
+[KDEpy](https://kdepy.readthedocs.io/en/latest/#), Kernel density estimation for Python   
