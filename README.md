@@ -19,3 +19,4 @@ A list of open data sets about science, economics, finance, and health is availa
 ## Probabilistic programming
 [PyMC](https://www.pymc.io/welcome.html), Bayesian probabilistic programming in Python   
 [KDEpy](https://kdepy.readthedocs.io/en/latest/#), Kernel density estimation for Python   
+[Pyro](https://pyro.ai/), deep universal probabilistic programming  
