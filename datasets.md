@@ -49,6 +49,7 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
         * [Food and Agriculture Organization of the United Nations](https://www.fao.org/)
         * [World Trade Organization](https://www.wto.org/)   
         * [The Conference Board](https://www.conference-board.org/eu/)  
+        * [The World Intellectual Property Organization (WIPO)](https://www.wipo.int/portal/en/index.html)
 
 * Environment
     * European Union
