@@ -31,9 +31,9 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
 
     * United States
         * [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)  
-        * [The Federal Reserve](https://www.federalreserve.gov/)  
+        * [The Federal Reserve](https://www.federalreserve.gov/): Interest rate  
         * [U.S. Security and Exchange Commission](https://www.sec.gov/)  
-        * [Bureau of Economic Analysis](https://www.bea.gov/)  
+        * [Bureau of Economic Analysis](https://www.bea.gov/): GDP, Balance of Payments  
         * [U.S. Department of the Treasury](https://home.treasury.gov/)  
         * [U.S. Securities and Exchange Commission - EDGAR Database](https://www.sec.gov/os/accessing-edgar-data)  
         * [U.S. The Federal Deposit Insurance Corporation](https://www.fdic.gov/)  
@@ -43,6 +43,7 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
         * [U.S. Congressional Budget Office](https://www.cbo.gov/)
         * [FRED - Import Price Index](https://fred.stlouisfed.org/series/IREXPET)  
         * [FRED - Consumer Sentiment](https://fred.stlouisfed.org/series/UMCSENT)  
+        * [Internal Revenue Service](https://www.irs.gov/): Tax rates 
         * [Wikipedia - List of largest daily changes in the S&P 500 Index](https://en.wikipedia.org/wiki/List_of_largest_daily_changes_in_the_S%26P_500_Index)  
         * [Wikipedia - List of largest daily changes in the Dow Jones Industrial Average](https://en.wikipedia.org/wiki/List_of_largest_daily_changes_in_the_Dow_Jones_Industrial_Average)
         * [Congressional Budget Office](https://www.cbo.gov/)
