@@ -7,6 +7,7 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
     * European Union
         * [Gas Infrastructure Europe - Aggregated Gas Storage Inventory](https://agsi.gie.eu/)  
         * [European Network of Transmission Operators for Gas](https://www.entsog.eu/)  
+        * [European Network of Transmission System Operators for Electricity](https://www.entsoe.eu/)
     * Italy
         * [Gestore Mercati Energetici](https://www.mercatoelettrico.org/It/default.aspx)  
         * [Gestore Servizi Energetici](https://gse.it/)    
