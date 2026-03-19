@@ -15,6 +15,7 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
 
     * United States
         * [Energy Information Administration (US)](https://www.eia.gov/)  
+        * [USGS - World Petroleum Assessment](https://energy.usgs.gov/world-energy/)  
 
     * International Organizations
         * [International Energy Agency](https://www.iea.org/)  
