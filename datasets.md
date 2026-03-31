@@ -20,7 +20,8 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
     * International Organizations
         * [International Energy Agency](https://www.iea.org/)  
         * [International Renewable Energy Agency](https://www.irena.org/)  
-        * [UN GeoHub](https://undpgeohub.org/)  
+        * [Organization of the Petroleum Exporting Countries (OPEC)](https://www.opec.org/)
+        * [Gas Exporting Countries Forum (GECF)](https://www.gecf.org/)
 
 * Economy
     * European Union
@@ -61,6 +62,7 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
         * [World Trade Organization](https://www.wto.org/)   
         * [The Conference Board](https://www.conference-board.org/eu/)  
         * [The World Intellectual Property Organization (WIPO)](https://www.wipo.int/portal/en/index.html)
+        * [UN GeoHub](https://undpgeohub.org/)  
 
 * Environment
     * European Union
