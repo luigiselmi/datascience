@@ -12,6 +12,7 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
         * [Gestore Mercati Energetici](https://www.mercatoelettrico.org/It/default.aspx)  
         * [Gestore Servizi Energetici](https://gse.it/)    
         * [Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA)](https://www.enea.it/)  
+        * [Terna - Rete Elettrica Nazionale](https://www.terna.it/it)  
 
     * United States
         * [Energy Information Administration (US)](https://www.eia.gov/)  
