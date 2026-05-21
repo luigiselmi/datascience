@@ -8,6 +8,7 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
         * [Gas Infrastructure Europe - Aggregated Gas Storage Inventory](https://agsi.gie.eu/)  
         * [European Network of Transmission Operators for Gas](https://www.entsog.eu/)  
         * [European Network of Transmission System Operators for Electricity](https://www.entsoe.eu/)
+        * [Eurelectric](https://www.eurelectric.org/)
     * Italy
         * [Gestore Mercati Energetici](https://www.mercatoelettrico.org/It/default.aspx)  
         * [Gestore Servizi Energetici](https://gse.it/)    
@@ -23,6 +24,8 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
         * [International Renewable Energy Agency](https://www.irena.org/)  
         * [Organization of the Petroleum Exporting Countries (OPEC)](https://www.opec.org/)
         * [Gas Exporting Countries Forum (GECF)](https://www.gecf.org/)
+        * [Global Energy Monitor](https://globalenergymonitor.org/)
+        * [ENERGYDATA.INFO](https://energydata.info/)
 
 * Economy
     * European Union
