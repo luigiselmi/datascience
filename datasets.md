@@ -31,6 +31,7 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
     * European Union
         * [European Central Bank Data Portal](https://data.ecb.europa.eu)  
         * [European Securities and Market Authority](https://www.esma.europa.eu/)  
+        * [European Mortgage Federation | European Covered Bonds Council](https://hypo.org/)  
 
     * Italy
         * [Banca d'Italia - Bank of Italy](https://www.bancaditalia.it/)  
