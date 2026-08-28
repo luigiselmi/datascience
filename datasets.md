@@ -69,6 +69,11 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
         * [The World Intellectual Property Organization (WIPO)](https://www.wipo.int/portal/en/index.html)
         * [UN GeoHub](https://undpgeohub.org/)  
 
+* Commodities
+    * Soft Commodities
+        * Italy
+            * [Istituto di servizi per il mercato agricolo alimentare (Ismea)](https://www.ismeamercati.it/)
+
 * Environment
     * European Union
         * [The European Environment Agency](https://www.eea.europa.eu/)
