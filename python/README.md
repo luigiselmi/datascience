@@ -7,7 +7,7 @@ A collection of notebooks with examples about the main Python packages: NumPy, P
 * [Pandas](intro_to_pandas.ipynb)
 * [Object-Oriented Python](python_oop.ipynb)  
 
-## Python packages
+## Python packages for software engineering
 [pytest](https://docs.pytest.org/en/stable/), framework for tests  
 [Python Packaging](https://packaging.python.org/en/latest/), Python code distribution  
 [Read the Docs](https://about.readthedocs.com/), open source software documentation  
