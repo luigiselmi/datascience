@@ -25,7 +25,7 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
         * [Organization of the Petroleum Exporting Countries (OPEC)](https://www.opec.org/)
         * [Gas Exporting Countries Forum (GECF)](https://www.gecf.org/)
         * [Global Energy Monitor](https://globalenergymonitor.org/)
-        * [ENERGYDATA.INFO](https://energydata.info/)
+        * [ENERGYDATA.INFO](https://energydata.info/)  
 
 * Economy
     * European Union
@@ -68,6 +68,7 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
         * [The Conference Board](https://www.conference-board.org/eu/)  
         * [The World Intellectual Property Organization (WIPO)](https://www.wipo.int/portal/en/index.html)
         * [UN GeoHub](https://undpgeohub.org/)  
+        * [International Maritime Organization](https://www.imo.org/)
 
 * Commodities
     * Soft Commodities
