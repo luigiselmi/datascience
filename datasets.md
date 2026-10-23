@@ -27,9 +27,11 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
         * [Global Energy Monitor](https://globalenergymonitor.org/)
         * [ENERGYDATA.INFO](https://energydata.info/)  
 
-* Economy
+* Economy and Finance
     * European Union
-        * [European Central Bank Data Portal](https://data.ecb.europa.eu)  
+        * [European Central Bank Data Portal](https://data.ecb.europa.eu)
+        * [European Systemic Risk Board](https://www.esrb.europa.eu/)
+        * [European Banking Authority](https://www.eba.europa.eu/)
         * [European Securities and Market Authority](https://www.esma.europa.eu/)  
         * [European Mortgage Federation | European Covered Bonds Council](https://hypo.org/)  
 
